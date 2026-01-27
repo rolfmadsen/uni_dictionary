@@ -1,73 +1,87 @@
-# React + TypeScript + Vite
+# Ordbog for Uddannelsesbegreber i Nyt SIS Programmet (DKUNI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En hurtig, søgbar og brugervenlig online ordbog for den fælles begrebsmodel på det danske universitetsområde. Baseret på data fra [DKUNI Begrebsmodel](https://informationsmodeller.sdu.dk/dkuni/).
 
-Currently, two official plugins are available:
+![Screenshot of Application](https://informationsmodeller.sdu.dk/dkuni/static/umlicon.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Funktionalitet
 
-## React Compiler
+*   **Lynhurtig Søgning**: Fuzzy search (Fuse.js) finder begreber, selvom du staver lidt forkert.
+*   **Filtrering**: Filtrer på status (Godkendt, Kladde, etc.) og emneområde (Scope).
+*   **Dybde-links**: Direkte links fra hvert begreb til dets officielle definition i HTML-eksporten.
+*   **Diagram-visning**: Se præcis hvilke modeller og diagrammer et begreb indgår i.
+*   **Engelsk Oversættelse**: Indbygget toggle for at se engelske termer, definitioner og forklaringer.
+*   **Lovgivning**: Direkte links til retsinformation.dk for begreber knyttet til paragraffer.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Teknisk Stack
 
-## Expanding the ESLint configuration
+*   **Frontend**: React 19 + TypeScript (bygget med Vite)
+*   **Styling**: Tailwind CSS v4
+*   **Data**: JSON-baseret (genereret fra Excel) - Ingen backend database.
+*   **Hosting**: GitHub Pages (100% statisk site)
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🚀 Kom i gang
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+### Installation
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+```bash
+# Hent koden
+git clone https://github.com/din-bruger/uni_dictionary.git
+cd uni_dictionary
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+# Installer afhængigheder
+npm install
+
+# Start udviklingsserver
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### Opdatering af Data (Fuldautomatisk)
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+Når SDU/DKUNI udgiver en ny version af begrebsmodellen (Excel-fil eller HTML-eksport), kan du opdatere hele ordbogen med én kommando:
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm run update-all
 ```
+
+Denne kommando udfører følgende 3 trin:
+1.  **Harvest**: Henter den nyeste `begrebsliste_*.xlsx` fra [informationsmodeller.sdu.dk](https://informationsmodeller.sdu.dk/dkuni/).
+2.  **Scrape**: Crawler HTML-eksporten for at finde dybe links og diagram-referencer.
+3.  **Build**: Bygger den nye applikation med de friske data.
+
+### Manuelt Build
+
+Hvis du vil bygge applikationen uden at hente nye data:
+
+```bash
+npm run build
+```
+
+## 🤖 CI/CD Automatisering
+
+Projektet indeholder en **GitHub Action** (`.github/workflows/deploy.yml`), der automatisk:
+*   Kører hver morgen kl. 06:00 UTC.
+*   Kører `npm run update-all`.
+*   Opdaterer live-sitet på GitHub Pages med de nyeste ændringer.
+
+Du behøver derfor sjældent at opdatere manuelt, medmindre du ønsker ændringer her og nu.
+
+## 📂 Projektstruktur
+
+*   `/public/dictionary.json`: Den genererede datafil, som appen indlæser.
+*   `/scripts`:
+    *   `src/harvest.js`: Downloader Excel-filen.
+    *   `src/scrape-links.js`: Scraper websites for metadata.
+    *   `src/build-data.js`: Konverterer Excel + Metadata til JSON.
+*   `/src`: React kildekode.
+
+## 📝 Fejlfinding
+
+Hvis `npm run update-all` fejler:
+
+*   **"Could not find Excel file link"**: Tjek om SDUs website har ændret layout eller filnavn. Opdater selector i `scripts/harvest.js`.
+*   **"No terms found"**: Tjek om HTML-eksporten har ændret ikoner eller struktur. Opdater selectors i `scripts/scrape-links.js`.
+
+---
+
+Udviklet til det danske universitetslandskab.
