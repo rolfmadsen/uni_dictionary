@@ -2,7 +2,7 @@
 
 En hurtig, søgbar og brugervenlig online ordbog for den fælles begrebsmodel på det danske universitetsområde. Baseret på data fra [DKUNI Begrebsmodel](https://informationsmodeller.sdu.dk/dkuni/).
 
-![Screenshot of Application](https://informationsmodeller.sdu.dk/dkuni/static/umlicon.jpg)
+![Screenshot of Application](public/screenshot_of_application.png)
 
 ## 🌟 Funktionalitet
 
