@@ -628,7 +628,12 @@
     "subject": "Ja",
     "termEn": "1-year master's programme  for working professionals",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA641.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "131",
@@ -667,7 +672,12 @@
     "explanation": "Den akademiske overbygning skal give den studerende en hurtigere vej til arbejdsmarkedet end den traditionelle 2-årige kandidatuddannelse",
     "explanationEn": "The 1-year master's programme gives the student a faster access to the labour market than the traditional 2-year master's programme.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA643.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "300",
@@ -698,7 +708,12 @@
     "explanation": "Akademiuddannelserne er struktureret under fem fagområder og er på niveau med erhvervsakademiuddannelser",
     "explanationEn": "Part-time academy profession programmes are organised under 5 subject areas and are at the same level as the academy profession programmes.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA645.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "570",
@@ -1336,7 +1351,12 @@
     "explanation": "Forskningsbaserede, videregående 3-årige uddannelser, der udbydes indenfor de faglige hovedområder naturvidenskab, sundhedsvidenskab, teknisk videnskab, humaniora, teologi og samfundsvidenskab. \nDer findes enkelte bacheloruddannelser som ikke er på  180 ECTS-point.",
     "explanationEn": "Research-based, three-year higher education  programme, which is offered within the main academic areas; natural science, health science, technical science, humanities, theology and social science. There are a few bachelor programmes which are not 180 ECTS credits.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA655.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "589",
@@ -2369,6 +2389,10 @@
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA673.htm",
     "diagrams": [
       {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      },
+      {
         "title": "2.3 Typer af studerende",
         "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA959.htm"
       }
@@ -2473,7 +2497,12 @@
     "exampleEn": "Graduate Diploma in Business Administration (HD).",
     "explanation": "Diplomuddannelser henvender sig til personer med en kort eller mellemlang videregående uddannelse. De er opbygget som deltidsuddannelser  og der opkræves deltagerbetaling.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA677.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "632",
@@ -2749,6 +2778,10 @@
     "explanationEn": "Open university is a vast array of continuing and further education programmes. Payment of a participation fee is required for almost all open university programmes which covers complete study programmes and single subject elements.\nThe purpose of open university programmes is to develop job qualifications in interaction with experiences from the professional working life.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA681.htm",
     "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      },
       {
         "title": "2.3 Typer af studerende",
         "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA959.htm"
@@ -3441,7 +3474,12 @@
     "explanation": "Erhvervsakademiuddannelserne er professionsrettede, kompetencegivende korte videregående uddannelser og kombinerer teori med praksis.",
     "explanationEn": "Academy profession programmes are aimed at the professions and provide formal qualifications. They are short-term higher education programmes and combine theoretical studies with a practical approach.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA698.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "655",
@@ -3477,7 +3515,12 @@
     "explanation": "For at blive indskrevet på en erhvervskandidatuddannelse skal ansøger leve op til kravet om at være ansat mindst 25 timer om ugen eller være iværksætter. Erhvervskandidatuddannelsen udbydes under det ordinære uddannelsessystem.",
     "explanationEn": "To become enrolled in a master's programme for working professionals, the applicant must fulfil the requirement of being employed a minimum of 25 hours per week or being an entrepreneur. The master's programme for working professionals is offered under the ordinary education system.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA699.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "467",
@@ -4056,7 +4099,12 @@
     "explanation": "Et fleksibelt forløb består af en personlige uddannelsesplan, der fastsættes af universitetet og udarbejdes i samarbejde med og efter forudgående vejledning af ansøgeren med udgangspunkt i ansøgerens erhvervserfaring, livserfaring og forudgående uddannelse.\nDiplom- og akademiuddannelser kan også udbydes med fleksibelt forløb.",
     "explanationEn": "A flexible course of study consisting of a personal education plan made by the university in cooperation with the applicant. The education plan is based on prior guidance of the applicant and the applicant&#39;s work experience, life experience and prior education.\nPart-time diploma programmes and part-time academy profession programme can also be offered with a flexible course of study.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA709.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "273",
@@ -5846,7 +5894,12 @@
     "explanation": "Forskningsbaserede, videregående 2-årige uddannelser, der udbydes indenfor de faglige hovedområder naturvidenskab, sundhedsvidenskab, teknisk videnskab, humaniora, teologi og samfundsvidenskab. \nDer findes enkelte kandidauddannelser, som ikke er på 120 ECTS.",
     "explanationEn": "Scientific research-based, 2-year higher education programmes offered within the academic main areas; natural science, health science, technical science, humanities, theology and social science. There are a few master's programmes which are not 120 ECTS credits.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA751.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "710",
@@ -6718,7 +6771,12 @@
     "explanation": "Masteruddannelserne er målrettet personer med praktisk erhvervserfaring og en relevant, forudgående uddannelsesbaggrund, der ønsker at videreuddanne sig på et højere niveau. De er opbygget som deltidsuddannelser og der opkræves deltagerbetaling.\nDer findes enkelte masteruddannelser som ikke er på 60 ECTS-point.",
     "explanationEn": "The part-time masters programmes are aimed at individuals with work experience and a relevant, prior education degree, and who wish to achieve a higher education level. The programmes are organised as part-time programmes with a participation fee.\nA few part-time master programmes are not 60 ECTS credits.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA773.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "895",
@@ -8077,7 +8135,12 @@
     "explanation": "En ph.d. er typisk en treårig akademisk forskeruddannelse. Som et led i forskeruddannelsen kræves det, at man opnår erfaring med at undervise eller videreformidle sin viden på anden vis. Uddannelsen afsluttes med en ph.d.-afhandling, der skal forsvares mundtligt.",
     "explanationEn": "A PhD is typically a 3-year academic research programme. As part of the research programme it is required that the student gains teaching experience or communicate their knowledge in another way. The programme is completed by a PhD dissertation and an oral defence of the dissertation.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA802.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "82",
@@ -8326,7 +8389,12 @@
     "explanation": "En professionsbacheloruddannelse er en professionsrettet, kompetencegivende mellemlang videregående uddannelse med minimum et halvt års praktik. Uddannelserne kombinerer teori og praksis og retter sig ofte mod et bestemt erhverv eller en profession.\nDer findes enkelte professionsbacheloruddannelser som ikke har en varighed på 3,5 år.",
     "explanationEn": "A professional bachelor programme is aimed at the professions and provide formal qualifications. It is a medium-length higher education with minimum a half year of internship. The study programmes combine theory and practice and are often aimed at a certain occupation or profession.\nThere are a few professional bachelor programmes which are not of a duration of 3.5 years.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA807.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "493",
@@ -11228,7 +11296,12 @@
     "subject": "Nej",
     "termEn": "study programme",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA880.htm",
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      }
+    ]
   },
   {
     "id": "530",
@@ -12376,6 +12449,10 @@
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA914.htm",
     "diagrams": [
       {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      },
+      {
         "title": "1.7 Videregående uddannelses- og enkeltfagsudbud",
         "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA951.htm"
       },
@@ -12403,6 +12480,10 @@
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA915.htm",
     "diagrams": [
       {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      },
+      {
         "title": "1.7 Videregående uddannelses- og enkeltfagsudbud",
         "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA951.htm"
       },
@@ -12428,6 +12509,10 @@
     "explanationEn": "A higher education programme is an independent and complete course of study within one or several subject areas. A higher education programme has a specified number of ECTS credits.\nStudy programmes are prequalified and approved in accordance with the accreditation act on higher education. &quot;The Danish Qualification Framework for higher education programmes&quot; covers level 6, 7 and 8.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA916.htm",
     "diagrams": [
+      {
+        "title": "1.1 Typer af videregående uddannelse",
+        "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA939.htm"
+      },
       {
         "title": "1.2 Videregående uddannelsesstruktur",
         "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA941.htm"
