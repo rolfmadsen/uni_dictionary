@@ -1,60 +1,48 @@
 import type { DictionaryEntry } from '../types';
 import { useState } from 'react';
-import { BookOpen, Globe, Tag } from 'lucide-react';
+import { BookOpen, Globe, Tag, Sparkles, Info } from 'lucide-react';
+import { Modal } from './Modal';
+import { AI_METHODOLOGY } from '../constants/ai-methodology';
+import { TermLinker } from './TermLinker';
 import { formatStatus, getScopeLabel } from '../utils';
 
 interface TermCardProps {
     entry: DictionaryEntry;
     highlight?: string;
+    allTerms: string[];
+    onTermClick: (term: string) => void;
 }
 
 const LEGISLATION_LINKS: Record<string, string> = {
     // 1. Universitetsloven (LBK nr 391 af 10/04/2024)
     'Universitetsloven': 'https://www.retsinformation.dk/eli/lta/2024/391',
-    'Bekendtgørelse af lov om universiteter (universitetsloven)': 'https://www.retsinformation.dk/eli/lta/2024/391',
 
     // 2. Uddannelsesbekendtgørelsen (BEK nr 1119 af 19/09/2025)
     'Uddannelsesbekendtgørelsen': 'https://www.retsinformation.dk/eli/lta/2025/1119',
-    'Bekendtgørelse om universitetsuddannelser tilrettelagt på heltid (uddannelsesbekendtgørelsen)': 'https://www.retsinformation.dk/eli/lta/2025/1119',
 
-    // 3. Adgangsbekendtgørelsen (BEK nr 1120 af 19/09/2025)
-    'Adgangsbekendtgørelsen': 'https://www.retsinformation.dk/eli/lta/2025/1120',
-    'Bekendtgørelse om adgang til universitetsuddannelser tilrettelagt på heltid (adgangsbekendtgørelsen)': 'https://www.retsinformation.dk/eli/lta/2025/1120',
+    // 3. Adgangsbekendtgørelsen (BEK nr 288 af 17/02/2026)
+    'Adgangsbekendtgørelsen': 'https://www.retsinformation.dk/eli/lta/2026/288',
 
     // 4. Eksamensbekendtgørelsen (BEK nr 1121 af 19/09/2025)
     'Eksamensbekendtgørelsen': 'https://www.retsinformation.dk/eli/lta/2025/1121',
-    'Bekendtgørelse om eksamen og censur ved universitetsuddannelser (eksamensbekendtgørelsen)': 'https://www.retsinformation.dk/eli/lta/2025/1121',
 
     // 5. Masterbekendtgørelsen (BEK nr 19 af 09/01/2020)
     'Masterbekendtgørelsen': 'https://www.retsinformation.dk/eli/lta/2020/19',
 
     // 6. LEP-loven (LBK nr 396 af 12/04/2024)
-    'Bekendtgørelse af lov om erhvervsakademiudd. og professionsbachelorudd.': 'https://www.retsinformation.dk/eli/lta/2024/396',
+    'LEP-loven': 'https://www.retsinformation.dk/eli/lta/2024/396',
 
     // 7. Adgangskursus (BEK nr 659 af 12/06/2025)
-    'Bekendtgørelse om adgangskursus og adgangseksamen til ingeniøruddannelserne': 'https://www.retsinformation.dk/eli/lta/2025/659',
-};
+    'Adgangskursusbekendtgørelsen': 'https://www.retsinformation.dk/eli/lta/2025/659',
 
-const Highlight = ({ text, highlight }: { text: string; highlight?: string }) => {
-    if (!highlight || !highlight.trim()) return <>{text}</>;
+    // 8. Lov om åben uddannelse (LBK nr 383 af 16/03/2017)
+    'Lov om åben uddannelse': 'https://www.retsinformation.dk/eli/lta/2017/383',
 
-    // Escape regex characters
-    const escapedHighlight = highlight.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const parts = text.split(new RegExp(`(${escapedHighlight})`, 'gi'));
+    // 9. SU-loven (LBK nr 395 af 23/03/2023)
+    'SU-loven': 'https://www.retsinformation.dk/eli/lta/2023/395',
 
-    return (
-        <>
-            {parts.map((part, i) =>
-                part.toLowerCase() === highlight.toLowerCase() ? (
-                    <span key={i} className="bg-yellow-200 dark:bg-yellow-900 dark:text-yellow-100 rounded px-0.5">
-                        {part}
-                    </span>
-                ) : (
-                    part
-                )
-            )}
-        </>
-    );
+    // 10. Databeskyttelsesloven (LBK nr 289 af 12/03/2018)
+    'Databeskyttelsesloven': 'https://retsinformation.dk/eli/lta/2018/289',
 };
 
 const LegislationDisplay = ({ text }: { text: string }) => {
@@ -91,8 +79,9 @@ const LegislationDisplay = ({ text }: { text: string }) => {
     );
 };
 
-export function TermCard({ entry, highlight }: TermCardProps) {
+export function TermCard({ entry, highlight, allTerms, onTermClick }: TermCardProps) {
     const [showEnglish, setShowEnglish] = useState(false);
+    const [isModalOpen, setIsModalOpen] = useState(false);
     const statusLabel = formatStatus(entry.status);
     const scopeLabel = getScopeLabel(entry.scope, entry.subject);
     const modelSource = entry.scope?.includes('Begrebsmodel')
@@ -104,12 +93,12 @@ export function TermCard({ entry, highlight }: TermCardProps) {
     const hasEnglishContent = !!(entry.definitionEn || entry.explanationEn || entry.exampleEn);
 
     return (
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6 hover:shadow-md transition-shadow">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6 hover:shadow-md transition-shadow group">
             <div className="flex justify-between items-start mb-4 gap-4">
                 <div>
                     <div className="flex items-center gap-3 flex-wrap">
-                        <h3 className="text-xl font-bold text-gray-900 dark:text-gray-100">
-                            <Highlight text={entry.term} highlight={highlight} />
+                        <h3 className="text-xl font-bold text-gray-900 dark:text-gray-100 group-hover:text-blue-600 transition-colors">
+                            <TermLinker text={entry.term} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
                         </h3>
                         {scopeLabel && (
                             <span className={`inline-flex items-center px-2 py-0.5 rounded-full text-xs border ${scopeLabel === 'Kernebegreb'
@@ -129,12 +118,12 @@ export function TermCard({ entry, highlight }: TermCardProps) {
                                 title={showEnglish ? "Skjul engelsk oversættelse" : "Vis engelsk oversættelse"}
                             >
                                 <Globe className={`w-3 h-3 ${showEnglish ? 'text-blue-600 dark:text-blue-400' : ''}`} />
-                                <Highlight text={entry.termEn} highlight={highlight} />
+                                <TermLinker text={entry.termEn} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
                             </button>
                         ) : (
                             <p className="text-sm text-gray-400 dark:text-gray-500 mt-1 flex items-center gap-1 cursor-default" title="Ingen engelsk beskrivelse tilgængelig">
                                 <Globe className="w-3 h-3 opacity-50" />
-                                <Highlight text={entry.termEn} highlight={highlight} />
+                                <TermLinker text={entry.termEn} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
                             </p>
                         )
                     )}
@@ -154,8 +143,55 @@ export function TermCard({ entry, highlight }: TermCardProps) {
                     <div>
                         <h4 className="text-sm font-semibold text-gray-700 dark:text-gray-300 uppercase tracking-wide mb-1">Definition</h4>
                         <p className="text-gray-800 dark:text-gray-200 leading-relaxed">
-                            <Highlight text={entry.definition} highlight={highlight} />
+                            <TermLinker text={entry.definition} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
                         </p>
+                    </div>
+                )}
+
+                {entry['ai-definition'] && (
+                    <div className="bg-indigo-50/50 dark:bg-indigo-900/20 border border-indigo-100 dark:border-indigo-800/50 p-4 rounded-lg relative overflow-hidden">
+                        <div className="flex items-center justify-between mb-2">
+                            <div className="flex items-center gap-2 text-indigo-700 dark:text-indigo-300">
+                                <Sparkles className="w-4 h-4" />
+                                <h4 className="text-sm font-semibold uppercase tracking-wide">AI-genereret Definition</h4>
+                            </div>
+                            <button
+                                onClick={() => setIsModalOpen(true)}
+                                className="p-1 rounded-full hover:bg-indigo-100 dark:hover:bg-indigo-900/40 text-indigo-400 hover:text-indigo-600 transition-colors"
+                                title="Læs om metoden bag AI-definitionerne"
+                            >
+                                <Info className="w-4 h-4" />
+                            </button>
+                        </div>
+                        <p className="text-gray-800 dark:text-gray-200 leading-relaxed text-sm">
+                            <TermLinker text={entry['ai-definition']} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
+                        </p>
+                        <p className="mt-3 text-[10px] text-indigo-500/80 dark:text-indigo-400/60 flex items-center gap-1 italic">
+                            Denne definition er genereret af en AI og er ikke verificeret af fagspecialister.
+                        </p>
+
+                        <Modal
+                            isOpen={isModalOpen}
+                            onClose={() => setIsModalOpen(false)}
+                            title={AI_METHODOLOGY.title}
+                        >
+                            <div className="space-y-6">
+                                <p className="text-gray-600 dark:text-gray-400 leading-relaxed whitespace-pre-wrap">
+                                    {AI_METHODOLOGY.introduction}
+                                </p>
+
+                                {AI_METHODOLOGY.sections.map((section, index) => (
+                                    <div key={index} className="space-y-2">
+                                        <h3 className="font-bold text-gray-900 dark:text-gray-100 flex items-center gap-2">
+                                            {section.title}
+                                        </h3>
+                                        <div className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed whitespace-pre-wrap pl-4 border-l-2 border-indigo-100 dark:border-indigo-900/50">
+                                            <TermLinker text={section.content} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        </Modal>
                     </div>
                 )}
 
@@ -165,7 +201,7 @@ export function TermCard({ entry, highlight }: TermCardProps) {
                             <Globe className="w-3 h-3 text-gray-400" /> Definition
                         </h4>
                         <p className="text-gray-800 dark:text-gray-200 leading-relaxed italic border-l-2 border-gray-200 dark:border-gray-700 pl-3">
-                            <Highlight text={entry.definitionEn} highlight={highlight} />
+                            <TermLinker text={entry.definitionEn} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
                         </p>
                     </div>
                 )}
@@ -173,8 +209,8 @@ export function TermCard({ entry, highlight }: TermCardProps) {
                 {entry.explanation && (
                     <div>
                         <h4 className="text-sm font-semibold text-gray-700 dark:text-gray-300 uppercase tracking-wide mb-1">Forklaring</h4>
-                        <p className="text-gray-600 dark:text-gray-300 text-sm leading-relaxed">
-                            <Highlight text={entry.explanation} highlight={highlight} />
+                        <p className="text-gray-600 dark:text-gray-300 text-sm leading-relaxed whitespace-pre-wrap">
+                            <TermLinker text={entry.explanation} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
                         </p>
                     </div>
                 )}
@@ -185,7 +221,7 @@ export function TermCard({ entry, highlight }: TermCardProps) {
                             <Globe className="w-3 h-3 text-gray-400" /> Explanation
                         </h4>
                         <p className="text-gray-600 dark:text-gray-300 text-sm leading-relaxed italic border-l-2 border-gray-200 dark:border-gray-700 pl-3">
-                            <Highlight text={entry.explanationEn} highlight={highlight} />
+                            <TermLinker text={entry.explanationEn} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
                         </p>
                     </div>
                 )}
@@ -193,7 +229,7 @@ export function TermCard({ entry, highlight }: TermCardProps) {
                 {entry.example && (
                     <div className="bg-gray-50 dark:bg-gray-900/50 p-3 rounded text-sm text-gray-600 dark:text-gray-400 italic">
                         <span className="font-semibold not-italic mr-1">Eksempel:</span>
-                        <Highlight text={entry.example} highlight={highlight} />
+                        <TermLinker text={entry.example} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
                     </div>
                 )}
 
@@ -203,7 +239,7 @@ export function TermCard({ entry, highlight }: TermCardProps) {
                             <Globe className="w-3 h-3 text-gray-400" />
                             <span className="font-semibold not-italic">Example:</span>
                         </div>
-                        <Highlight text={entry.exampleEn} highlight={highlight} />
+                        <TermLinker text={entry.exampleEn} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
                     </div>
                 )}
 
@@ -213,13 +249,13 @@ export function TermCard({ entry, highlight }: TermCardProps) {
                         <div>
                             <span className="text-sm font-medium text-gray-600 dark:text-gray-400">Synonymer: </span>
                             <span className="text-gray-800 dark:text-gray-200">
-                                <Highlight text={entry.synonyms} highlight={highlight} />
+                                <TermLinker text={entry.synonyms} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
                             </span>
                         </div>
                     </div>
                 )}
 
-                {(modelSource || entry.diagrams?.length) && (
+                {(modelSource || (entry.diagrams && entry.diagrams.length > 0)) && (
                     <div className="flex flex-col gap-3 mt-4 pt-4 border-t border-gray-100 dark:border-gray-700 text-xs text-gray-500">
                         {entry.diagrams && entry.diagrams.length > 0 && (
                             <div>
@@ -228,7 +264,7 @@ export function TermCard({ entry, highlight }: TermCardProps) {
                                     {entry.diagrams.map((d, i) => (
                                         <a key={i} href={d.url} target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline flex items-center gap-1">
                                             <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg>
-                                            {d.title}
+                                            <TermLinker text={d.title} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
                                         </a>
                                     ))}
                                 </div>

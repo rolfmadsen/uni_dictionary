@@ -1,11 +1,11 @@
 import { useState, useMemo } from 'react';
-import { Search, Loader2, Book, Filter, BookOpen } from 'lucide-react';
+import { Search, Loader2, Book, Filter, BookOpen, Info } from 'lucide-react';
 import { useDictionary } from './hooks/useDictionary';
 import { TermCard } from './components/TermCard';
 import { formatStatus, getScopeLabel } from './utils';
 
 function App() {
-  const { loading, error, search } = useDictionary();
+  const { loading, error, search, data } = useDictionary();
   const [query, setQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState<string>('Alle');
   const [scopeFilter, setScopeFilter] = useState<string>('Alle');
@@ -26,6 +26,15 @@ function App() {
 
     return filtered;
   }, [query, statusFilter, scopeFilter, search]);
+
+  const allTerms = useMemo(() => data.map(e => e.term), [data]);
+
+  const handleTermClick = (term: string) => {
+    setQuery(term);
+    setStatusFilter('Alle');
+    setScopeFilter('Alle');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
 
   const uniqueStatuses = ['Alle', 'Implementeret', 'Godkendt', 'Kladde', 'Afvist'];
   const uniqueScopes = ['Alle', 'Kernebegreb', 'Fremmed begreb'];
@@ -58,6 +67,16 @@ function App() {
             <div>
               <h1 className="text-2xl font-bold leading-tight">Ordbog for Uddannelsesbegreber</h1>
               <p className="text-sm text-gray-500 dark:text-gray-400">Danske Universiteter</p>
+            </div>
+          </div>
+
+          <div className="mb-6 p-3 bg-blue-50/50 dark:bg-blue-900/10 border border-blue-100/50 dark:border-blue-800/30 rounded-lg text-xs leading-relaxed text-blue-800/80 dark:text-blue-300/80">
+            <div className="flex gap-2">
+              <Info className="w-4 h-4 mt-0.5 shrink-0 text-blue-500" />
+              <p>
+                Dette er en ordbog, som bygger på den <a href="https://informationsmodeller.sdu.dk/dkuni/" target="_blank" rel="noopener noreferrer" className="underline hover:text-blue-600 transition-colors">fælles informationsmodel for området videregående uddannelse i Danmark</a>. 
+                Informationsmodellen er udarbejdet med afsæt i den fælles begrebsmodel for området, der blev godkendt som del af Kopernikus-programmet i 2020.
+              </p>
             </div>
           </div>
 
@@ -149,9 +168,15 @@ function App() {
             <p className="text-sm mt-2">Prøv at ændre dine søgekriterier.</p>
           </div>
         ) : (
-          <div className="space-y-4">
+          <div className="space-y-6">
             {results.map((entry) => (
-              <TermCard key={entry.id} entry={entry} highlight={query} />
+              <TermCard 
+                key={entry.id} 
+                entry={entry} 
+                highlight={query}
+                allTerms={allTerms}
+                onTermClick={handleTermClick}
+              />
             ))}
           </div>
         )}

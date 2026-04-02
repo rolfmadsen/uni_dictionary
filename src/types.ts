@@ -15,6 +15,7 @@ export interface DictionaryEntry {
     explanationEn?: string;
     modelLink?: string;
     diagrams?: { title: string; url: string }[];
+    'ai-definition'?: string;
 }
 
 export type DictionaryData = DictionaryEntry[];

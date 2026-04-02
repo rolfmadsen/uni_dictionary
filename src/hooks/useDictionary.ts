@@ -35,6 +35,7 @@ export function useDictionary() {
                 { name: 'id', weight: 1 },
                 { name: 'termEn', weight: 1.5 },
                 'definition',
+                'ai-definition',
                 'legislation',
             ],
             threshold: 0.3,

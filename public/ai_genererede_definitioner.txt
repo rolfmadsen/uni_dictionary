@@ -1,0 +1,928 @@
+"1.årsprøveudsættelse" er en tilladelse, der giver en studerende ret til at udskyde tidsfristen for at bestå de obligatoriske elementer i det første studieår.
+"7-trinskala" er en karakterskala, der anvendes i det danske uddannelsessystem til at vurdere præstationer ud fra syv faste trin fra -3 til 12.
+"Adgangsgivende eksamen" er en afsluttet uddannelse, der formelt kvalificerer en person til at søge optagelse på et højere uddannelsesniveau.
+"Adgangsgivende eksamen, år" er et årstal, der angiver det præcise tidspunkt for færdiggørelsen af en adgangsgivende eksamen.
+"Adgangsgivende eksamenskode, Danmarks statistik" er en administrative kode, der anvendes til statistisk kategorisering og indberetning af eksamenstyper til nationale registre.
+"Adgangsgivende uddannelse" er et uddannelsesforløb, som opfylder de formelle krav for indskrivning på en specifik videregående uddannelse.
+"Adgangsgivende uddannelsesinstitution" er en uddannelsesudbyder, hvor en ansøger har gennemført sin adgangsgivende eksamen.
+"Adgangsgrundlag" er en samling af kvalifikationer og dokumentation, som danner det juridiske fundament for en konkret ansøgning om optagelse.
+"Adgangsgrundlagstype" er en systemkategorisering, der definerer arten af ansøgerens kvalifikationer, såsom gymnasial, erhvervsmæssig eller udenlandsk baggrund.
+"Adgangskrav" er en række betingelser, herunder specifikke fag og niveauer, som skal være opfyldt for at opnå ret til optagelse.
+"Adgangskrav opfyldt" er en systemstatus, der bekræfter, at en ansøger lever op til samtlige formelle krav for den søgte uddannelse.
+"Adgangskursus" er et målrettet undervisningsforløb, der har til formål at give studerende de nødvendige faglige forudsætninger for at søge optagelse på en specifik uddannelse.
+"Adgangsprøve" er en selektionsmekanisme, der evaluerer en ansøgers egnethed til en uddannelse gennem praktiske eller teoretiske test.
+"Administrativ behandling i gang" er en processtatus, der indikerer, at en afgørelse aktuelt er under behandling af en sagsbehandler.
+"Administrativ indskrivning" er en manuel registreringsproces, hvor administrationen registrerer en studerende i studiesystemet uden om den ordinære optagelsesproces.
+"Administrativt godkendt" er en formel status, der angiver, at et givent forhold er blevet gennemgået og accepteret af den relevante administrative enhed.
+"Adresse" er en geografisk betegnelse, der identificerer en persons bopæl eller en institutions fysiske placering.
+"Adresseringsnavn" er en navneform, der anvendes i systemmæssig kommunikation og forsendelser til en specifik person eller enhed.
+"Afbrydelsesbegrundelse" er en forklaring, der angiver den specifikke årsag til, at en studerende afbryder sit igangværende studieforløb.
+"Afbrydelsesårsag" er en systemkategorisering, der identificerer den formelle grund til ophør af en studerendes indskrivning.
+"Afbrydelsesårsag, betingelser ikke opfyldt" er en specifik afbrydelsesårsag, der anvendes når en studerende ikke længere lever op til de formelle krav for fortsat indskrivning.
+"Afgjort af" er en identifikation, der angiver den instans eller person, som har truffet en formel afgørelse i en sag.
+"Afgørelse" er et administrativt resultat, der fastlægger udfaldet af en ansøgning, klage eller anden sagsbehandling.
+"Afgørelsesbegrundelse" er en redegørelse, der forklarer de retlige eller faglige overvejerls bag en truffet afgørelse.
+"Afleveringsfrist" er en tidsangivelse, der markerer det seneste tidspunkt for rettidig indsendelse af en opgave eller eksamensbesvarelse.
+"Aflysning" er en annullerering, der medfører at en planlagt activity eller begivenhed ikke gennemføres som oprindeligt fastlagt.
+"Afsluttende eksamen" er en bedømmelsesaktivitet, der markerer den endelige afslutning på et fag eller et samlet uddannelsesforløb.
+"Afsluttende opgavetype" er en kategorisering, der definerer formatet for den endelige skriftlige produktion i en uddannelse, feks. speciale eller bachelorprojekt.
+"Afsluttende projekt" er en faglig produktion, der udgør det afsluttende element i et uddannelsesforløb og danner grundlag for tildeling af en grad.
+"Afsluttende uddannelseskode" er en systemkode, der entydigt identificerer den uddannelse, som en studerende har gennemført og afsluttet.
+"AFT, rekvirent" er en rekvirentkode, der identificerer studerende, som har fået registreret merit for beståede eksterne fagelementer efter et udvekslingsophold baseret na en specifik aftale.
+"Aftaleperiode for fagelement" er en tidsmæssig afgrænsning, der fastlægger start- og slutdatoen for gyldigheden af en aftale knyttet til et specifikt fagelement.
+"Aftaletype" er en systemkategorisering, der definerer den juridiske eller administrative ramme for en indgået aftale mellem institutionen og en ekstern part.
+"Afvigelse fra adgangskrav" er en registreret undtagelse, der tillader optagelse af en ansøger til en uddannelse, selvom de formelle adgangskrav ikke er fuldt ud opfyldt.
+"Afvigelse fra eksamensforudsætninger" er en administrative godkendelse, der fritager en studerende fra de ordinære krav, som ellers skal være opfyldt for at kunne deltage i en prøve.
+"Afvigelse fra fagelementemnekrav" er en individuel tilladelse, der giver ret til at fravige de faste krav til emnevalg inden for et specifikt fagelement.
+"Afvigelse fra faglige krav" er en formel accept af, at en studerende eller ansøger kan fortsætte et forløb til trods for manglende opfyldelse af specifikke faglige forudsætninger.
+"Afviklingsform" er en kategorisering, der angiver den praktiske metode for gennemførelsen af en undervisnings- eller eksamensaktivitet, f.eks. fysisk fremmøde eller digitalt.
+"Afviklingssprog" er en systemmæssig angivelse af det sprog, som anvendes som hovedsprog ved gennemførelsen af en undervisnings- eller prøveaktivitet.
+"Afvisningsårsag" er en systemkategorisering, der identificerer den formelle grund til, at en ansøgning, anmodning eller tilmelding ikke er blevet imødekommet.
+"Afvisningsårsag, betingelser ikke opfyldt" er en specifik afvisningsårsag, som anvendes når en ansøger eller studerende ikke lever op til de fastlagte kriterier for godkendelse.
+"Afvisningsårsagsbegrundelse" er en beskrivende redegørelse, der uddyber de faktuelle eller retlige forhold bag en specifik afvisning.
+"Afvist" er en systemstatus, der markerer, at en given anmodning, ansøgning eller tilmelding er blevet endeligt afslået.
+"Afvist afgangsprøve" er en administrative status, der indikerer, at en studerendes afsluttende prøve ikke er accepteret grundet formelle mangler eller ikke-bestået resultat.
+"Afvist optagelse" er en formel afgørelse, der meddeler en ansøger, at vedkommende ikke har opnået adgang til den søgte uddannelse.
+"Afvist pga. regelbrud" er en sanktionsstatus, der anvendes når en ansøning eller aktivitet afvises som direkte konsekvens af en overtrædelse af gældende regler eller procedurer.
+"Afvist tilmelding" er en administrative status, der markerer, at en studerendes ønske om deltagelse i et fagelement eller en prøve er blevet afvist.
+"Afvist tilmelding, betaling ikke modtaget" er en specifik afvisningsårsag, der indtræder automatisk, når den krævede deltagerbetaling ikke er registreret inden for den fastsatte tidsfrist.
+"Akademigrad" er en uddannelsesmæssig titel, der tildeles som bevis for gennemførelse af en akademiuddannelse på niveau 5 i den danske kvalifikationsramme.
+"Akademisk erhvervsoverbygning" er en videregående uddannelse, der fungerer som en faglig overbygning på en erhvervsakademi- eller professionsbacheloruddannelse med henblik på yderligere specialisering.
+"Akademisk erhvervsoverbygnings-uddannelse" er en uddannelse på kandidatniveau, der er tilrettelagt som et erhvervsrettet forløb i tæt samarbejde med erhvervslivet.
+"Akademisk kalender" er en oversigt, der fastlægger de tidsmæssige rammer for et akademisk år, herunder undervisningsperioder, eksamensterminer og ferier.
+"Akademisk overbygningsgrad" er en akademisk titel, der tildeles efter gennemførelse af en overbygningsuddannelse på højere niveau end en bachelorgrad.
+"Akademisk overbygningsuddannelse" er et uddannelsesforløb, der bygger oven på en afsluttet bacheloruddannelse eller lignende grunduddannelse.
+"Akademisk vejleder" er en person med videnskabelig baggrund, der yder faglig rådgivning og vejledning til studerende om deres studieforløb og faglige valg.
+"Akademiuddannelse" er en videregående uddannelse tilrettelagt som deltidsundervisning inden for rammerne af voksen- og efteruddannelsessystemet (niveau 5).
+"Aktiv indskrivning" er en systemmæssig status, der angiver, at en studerende formelt er registreret som deltagende i en uddannelse i en given periode.
+"Aktiv studerende" er en person, der er indskrevet på en uddannelse og opfylder institutionens krav til studieaktivitet og deltagelse i prøver.
+"Aktivitetsgruppe" er en administrative gruppering af studerende eller aktiviteter, der anvendes til styring af undervisning, ressourcer eller statistisk opfølgning.
+"Aktivitetsindberetning for efter- og videreuddannelsessystemet" er en lovpligtig datarapportering til myndighederne om gennemførte uddannelsesaktiviteter inden for efter- og videreuddannelse.
+"Aktivitetsindberetning for ordinære uddannelser" er en lovpligtig datarapportering til myndighederne om studieaktivitet og produktion (f.eks. STÅ) på de ordinære fuldtidsuddannelser.
+"Alumne" er en person, der tidligere har været studerende ved og har dimitteret fra en specifik uddannelsesinstitution.
+"Anbefalede faglige forudsætninger" er en række kompetencer eller kurser, som institutionen vurderer er hensigtsmæssige, men ikke obligatoriske, at have før påbegyndelse af et fag.
+"Anbefalet litteratur" er en liste over kilder, bøger og artikler, som supplerer det obligatoriske pensum i et undervisningsforløb.
+"Anbefalet omfang af placerbare ECTS-point" er en vejledende angivelse af, hvor mange ECTS-point en studerende bør placere inden for en given periode eller et specifikt emneområde.
+"AND, rekvirent" er en systemkode eller betegnelse for en rekvirentkategori, der dækker over "andre" typer af ordregivere, som ikke falder under standardkategorierne.
+"Anden baggrund" er en administrative status for ansøgere, hvis adgangsgrundlag ikke er en standardiseret dansk adgangsgivende eksamen.
+"Anden indskrivningsfinansiering" er en budgetmæssig kategori for finansiering af en studerendes indskrivning, der ikke stammer fra ordinære taxametertilskud eller deltagerbetaling.
+"Anden offentlig finansiering" er en indtægtskilde til dækning af uddannelsesomkostninger, som stammer fra andre offentlige puljer end de primære ministerielle tilskud.
+"Andre offentlige hverv" er en registrering af en medarbejder eller studerendes eksterne tillidsposter eller opgaver af offentlig karakter.
+"Ankeeksamen" er en prøvebegivenhed, der afvikles som følge af en imødekommet klage over en tidligere bedømmelse, og som erstatter den oprindelige prøve.
+"Anmodet tilmelding på fagelement" er en processtatus, der indikerer en studerendes aktive ønske om deltagelse i et specifikt undervisningsforløb, som afventer administrativ bekræftelse.
+"Anmodning om indløsning af merit" er en formel henvendelse, hvor en studerende anmoder om at få overført tidligere beståede uddannelseselementer til sin aktuelle studieordning.
+"Anmodningstidspunkt" er en tidsstempling, der angiver det præcise tidspunkt for, hvornår en studerende har indsendt en digital anmodning eller ansøgning.
+"Annulleret" er en systemstatus, der markerer, at en tidligere oprettet post, rettighed eller proces er gjort ugyldig og ikke længere har retsvirkning.
+"Annulleret ansøgning" er en specifik status for en ansøgning, der er trukket tilbage af ansøgeren eller slettet af administrationen før en endelig afgørelse.
+"Annulleret optagelse" er en administrative status, der indtræder, når en tidligere bevilget studieplads trækkes tilbage, typisk grundet fejl eller manglende opfyldelse af betingelser.
+"Annulleret tilmelding" er en status, der angiver, at en studerendes tilmelding til et fagelement eller en prøve er gjort ugyldig, ofte efter ønske fra den studerende eller pga. manglende forudsætninger.
+"Anonym eksamensbesvarelse" er en besvarelse af en prøve, hvor den studerendes identitet er skjult for bedømmeren gennem brug af unikt eksamensnummer.
+"Ansvarlig for udbudt fagelement" er en person eller organisatorisk enhed, der har det formelle ansvar for den faglige kvalitet og praktiske gennemførelse af et specifikt kursusudbud.
+"Ansvarsrolle tildelt organisatorisk enhed" er en systemmæssig kobling, der definerer en specifik afdelings eller fakultets forpligtelser i forhold til en uddannelse eller et fagelement.
+"Ansvarsrolle tildelt organisatorisk person" er en identifikation af en specifik medarbejders formelle opgaver og beføjelser inden for en administrativ eller faglig proces.
+"Ansøger" er en person, der formelt har indsendt en anmodning om optagelse på en uddannelse eller deltagelse in en aktivitet.
+"Ansøgning" er et dokument eller en digital post, der indeholder en persons anmodning om en rettighed, en studieplads eller en dispensation.
+"Ansøgning afsluttet" er en status, der markerer, at sagsbehandlingen af en ansøgning er færdiggjort, og at der er truffet en endelig afgørelse.
+"Ansøgning om eksternt ophold" er en anmodning fra en studerende om tilladelse til at gennemføre en del af sin uddannelse ved en anden institution eller i en virksomhed.
+"Ansøgning om uddannelsespause" er en formel anmodning om midlertidig afbrydelse af studiet, f.eks. i forbindelse med barsel eller sygdom, uden at miste sin indskrivning.
+"Ansøgningsfrist" er det seneste tidspunkt, hvor en ansøgning skal være modtaget af institutionen for at kunne komme i betragtning.
+"Ansøgningsfrist for optagelse" er den specifikke deadline for indsendelse af ansøgninger om optagelse på et fuldtids- eller deltidsstudium.
+"Ansøgningsgebyr" er en obligationer betaling, der kræves for at få behandlet en ansøgning, typisk relevant for visse ansøgerkategorier eller uddannelsestyper.
+"Ansøgningsnummer" er en unik systemidentifikation, der tildeles en konkret ansøgning for at muliggøre entydig sporing og reference gennem hele sagsbehandlingsforløbet.
+"Ansøgningspoint" er en numerisk værdi, der beregnes for en ansøger på baggrund af kvalifikationer (f.eks. karaktergennemsnit), og som danner grundlag for rangering ved begrænset optag.
+"Ansøgningsrangering" er en prioriteret rækkefølge af ansøgere til en specifik uddannelse, der fastlægges ud fra objektive kriterier i de tilfælde, hvor der er flere kvalificerede ansøgere end studiepladser.
+"Ansøgningsstartdato" er et tidspunkt, der markerer den officielle åbning af systemet for indsendelse af ansøgninger til en given optagelsesperiode.
+"Ansøgningsstatus" er en systemtilstand, der angiver the aktuelle fase i behandlingen af en ansøgning, såsom "indsendt", "mangler dokumentation" eller "behandlet".
+"Antal brugte prøveaktivitetsforsøg" er en tæller, der registrerer hver gang en studerende formelt har deltaget i en prøve uden at bestå, og som anvendes til at overvåge overholdelse af det maksimale antal forsøg.
+"Antal rater" er en numerisk angivelse af det samlede antal delbetalinger, som en opkrævning af deltagerbetaling er opdelt i.
+"Antal udvekslingspladser ved indrejse" er en kvote, der definerer det maksimale antal studerende fra en specifik partnerinstitution, som kan modtages på et udvekslingsophold in en given periode.
+"Antal udvekslingspladser ved udrejse" er en kvote, der definerer det maksimale antal af institutionens egne studerende, som kan sendes på udveksling til en specifik partnerinstitution under gældende aftaler.
+"Antal ønskede enkeltfag" er en numerisk registrering af, hvor mange individuelle fagelementer en ansøger har søgt om optagelse på inden for rammerne af en enkeltfagsordning.
+"Anvendelsestype" er en kategorisering, der definerer det specifikke formål med et givet objekt eller en ressource i systemet, f.eks. om et lokale er til undervisning eller eksamen.
+"Arbejdsbelastning" er en kvantificering af den tid og indsats, som en studerende forventes at investere i et uddannelseselement, typisk udtrykt gennem ECTS-point.
+"Arkiveringsindberetning" er en struktureret datarapportering, der overfører afsluttede sager og historiske oplysninger til et permanent arkivsystem i overensstemmelse med gældende lovgivning.
+"ASO, rekvirent" er en rekvirentkode, der identificerer en studerende, som er optaget på et fagelement gennem en aftale om social sikring eller lignende administrative særordninger.
+"AUS, rekvirent" er en rekvirentkode, der identificerer en studerende, som deltager in uddannelsesaktiviteter finansieret eller formidlet gennem det statslige udlandsstipendiesystem.
+"Bachelorgrad" er en akademisk grad, der tildeles som bevis for gennemførelse af en bacheloruddannelse på niveau 6 i den danske kvalifikationsramme.
+"Bachelorprojekt" er et afsluttende uddannelseselement, der udgør den skriftlige og faglige afrunding på en bacheloruddannelse og danner grundlag for tildeling af graden.
+"Bacheloruddannelse" er en videregående uddannelse, der is normeret til 180 ECTS-point og kvalificerer til indskrivning på kandidatniveau eller erhvervsudøvelse.
+"Barsel, adoption" er en fraværsårsag, der berettiger en studerende til orlov eller dispensation fra studieaktivitetskrav som følge af familieforøgelse eller adoption.
+"Barselsperiode" er en tids mæssig afgrænsning, der definerer start- og slutdato for en studerendes barselsrelaterede fravær i studiesystemet.
+"Bedømmelse" er et resultat, der udtrykker en formel faglig vurdering af en studerendes præstation i en prøve.
+"Bedømmelsesdato" er en tidsangivelse, der markerer det præcise tidspunkt har et prøveresultat er formelt fastsat af bedømmerne eller offentliggjort i systemet.
+"Bedømmelsesform" er en kategorisering, der definerer metoden for karakterfastsættelse, herunder om der anvendes ekstern censur eller intern bedømmelse.
+"Bedømmelsesnoter" er en tekstlig registrering, der indeholder bedømmerens faglige bemærkninger, feedback eller begrundelse knyttet til et specifikt resultat.
+"Bedømmelsesvægt" er en numerisk værdi, der angiver en delprøves relative betydning for beregningen af det samlede resultat i et fagelement.
+"Begrænset valgfrit fagelement" er et fagelement, der indgår in en defineret pulje af kurser, hvorfra den studerende er forpligtet til at vælge et specifikt antal for at opfylde sin studieordning.
+"Behandlingsstatus" er en systemtilstand, der angiver the aktuelle fase i sagsbehandlingen af en anmodning, ansøgning eller indberetning.
+"Beløb" er en monetær værdi, der angiver størrelsen på en økonomisk post, såsom en opkrævning af deltagerbetaling eller et udbetalt stipendium.
+"Beskrivelse" er en uddybende tekst, der redegør for indholdet, formålet eller de formelle krav knyttet til et systemobjekt som f.eks. et fagelement eller en regel.
+"Beskrivelse af ekstern karakterskala" er en dokumentation, der redegør for opbygningen og de anvendte niveauer i en karakterskala fra en udenlandsk uddannelsesinstitution.
+"Beskrivelse af eksternt credit-system" er en dokumentation, der forklarer vægtningen og definitionen af meritpoint (credits) ved en udenlandsk institution til brug for meritvurdering.
+"Beskrivelse af læringsaktivitet" er en tekstlig redegørelse, der definerer de pædagogiske metoder, emner og forventede aktiviteter i et specifikt undervisningsforløb.
+"Beskæftigelsestilskud" er en finansiel tildeling, der ydes til dækning af uddannelsesomkostninger for personer, der er omfattet af specifikke beskæftigelsesordninger eller aktivering.
+"Bestå ECTS-point, maksimum" er en øvre grænseværdi, der definerer det højeste tilladte antal ECTS-point en studerende må opnå inden for en specifik faggruppe eller valgfri blok.
+"Bestå ECTS-point, minimum" er en nedre tærskelværdi, der definerer det mindste antal ECTS-point en studerende skal bestå for at opfylde et givet krav i studieordningen.
+"Beståelsesdato" er en tidsangivelse, der markerer den præcise dato for, hvornår en studerende formelt har opnået et bestået resultat i et fagelement eller en samlet uddannelse.
+"Beståelsesfrist" er en tidsangivelse, der definerer den seneste dato, hvor et specifikt uddannelseselement skal være bestået for at undgå administrative konsekvenser, såsom udmeldelse.
+"Bestået" er en systemstatus, der angiver, at en studerendes præstation in en prøve eller et fagelement lever op til minimumskravene fastsat i studieordningen.
+"Bestået fagelement" er et uddannelsesobjekt, der repræsenterer et specifikt kursus eller modul, som en studerende har gennemført med et positivt bedømmelsesresultat.
+"Bestået/ikke-bestået" er en bedømmelsestype, der angiver om en præstation is godkendt eller forkastet uden anvendelse af en gradueret karakterskala (f.eks. 7-trinsskalaen).
+"Beståregel" er en forretningsregel, der definerer de præcise kriterier, herunder vægtning af delprøver eller obligatoriske elementer, der skal være opfyldt for at opnå et samlet bestået resultat.
+"Bestås ved samvægtet resultat" er en specifik beståregel, der angiver, at det samlede resultat i et fagelement beregnes som et vægtet gennemsnit af flere delprøver, hvor de enkelte dele ikke nødvendigvis skal bestås hver for sig.
+"Betalingsdato" er en tidsangivelse, der registrerer det præcise tidspunkt for institutionens modtagelse af en økonomisk transaktion knyttet til deltagerbetaling eller gebyrer.
+"Betalingsfrist" er en tidsangivelse, der markerer den seneste dato for rettidig indbetaling af studieafgift, ansøgningsgebyr eller deltagerbetaling.
+"Betalingsmålgruppe" er en kategorisering af studerende eller ansøgere baseret på deres ret til finansiering, såsom statsfinansieret, selvbetaler eller virksomhedsbetalt.
+"Betalingsstatus" er en systemtilstand, der angiver the aktuelle økonomiske balance for en opkrævning, herunder om beløbet is udestående, delvist betalt eller udlignet.
+"Betalt" er en systemstatus, der bekræfter, at den fulde monetære fordring knyttet til en specifik opkrævning is modtaget og registreret i systemet.
+"Betinget godkendt" er en administrative status, der angiver, at en ansøgning eller tilmelding er accepteret under forudsætning af, at specifikke dokumentationsmangler eller krav udbedres inden for en fastsat frist.
+"Betinget indskrivning" er en formel status, der giver en studerende ret til at påbegynde et studieforløb, indtil dokumentation for det fulde adgangsgrundlag er endeligt verificeret.
+"Betinget optaget" er en status for en ansøger, der har fået tilbudt en studieplads, men som skal dokumentere opfyldelse af specifikke krav, såsom bestået supplering, før den endelige indskrivning kan finde sted.
+"Bevis" er et officielt dokument, der tjener som retlig dokumentation for en studerendes opnåede resultater, akademiske grader eller gennemførte uddannelsesforløb.
+"Bevisdata om eksternt fagelement" er en samling af dataelementer, der beskriver resultater opnået ved en anden institution, og som indgår i udstedelsen af meritbeviser eller Diploma Supplement.
+"Bevisdata om fagelement" er en struktureret mængde information, der indeholder alle nødvendige detaljer om et bestået kursus, herunder navn, ECTS-point og karakter, til brug for bevisgenerering.
+"Bevisdata om gruppering af fagelement" er en samling af data, der beskriver en logisk samling af kurser, såsom et sidefag eller et specialeområde, som de fremstår på det færdige bevis.
+"Bevisdata om merit" er en mængde information, der specifikt dokumenterer godskrevne uddannelseselementer from tidligere uddannelser in forbindelse med udstedelse af et nyt bevis.
+"Bevisdata om uddannelse" er en samling af data elementer, der beskriver de formelle rammer og det overordnede resultat for en gennemført uddannelse, og som danner grundlag for udstedelsen af det endelige bevis.
+"Bevistype" er en kategorisering, der definerer arten af det udstedte dokument, såsom eksamensbevis, delbevis eller Diploma Supplement.
+"Bevisunderskriver" er en identifikation af den person, der har den formelle bemyndigelse til at attestere rigtigheden af et udstedt bevis.
+"Bevisunderskrivers navn" er en navneform, der repræsenterer den bemyndigede person, som fremgår med sin underskrift på et bevis.
+"Bevisunderskrivers titel" er en officiel betegnelse for bevisunderskriverens organisatoriske eller faglige rang, der anføres på beviset som dokumentation for underskriftshjemmel.
+"Bogføringsandel" er en numerisk værdi, der angiver den procentvise fordeling af en indtægt eller udgift på en specifik økonomisk konto.
+"Bogføringskonto" er en unik identifikation i institutionens økonomisystem, hvorpå finansielle transaktioner relateret til uddannelsesaktiviteter registreres.
+"Bogføringsoplysninger" er en samling af data, herunder kontonummer og dimensionskoder, der er nødvendige for at gennemføre en korrekt finansiel registrering af en transaktion.
+"Bortvisningsårsag" er en systemkategorisering, der definerer den specifikke disciplinære eller formelle grund til, at en studerende permanent eller midlertidigt udelukkes fra institutionen.
+"Branche" er en kategorisering af erhvervsområder, der anvendes til at statistisk klassificere aftagere af uddannelse eller praktiksteder.
+"Bundet eksamensspørgsmål" er et prøveelement, som er fastlagt af institutionen eller bedømmerne på forhånd, og som den studerende ikke selv har indflydelse på valget af.
+"Børne- og undervisningsministeriet" er en statslig myndighed, der fastsætter de overordnede rammer for visse uddannelsestyper, herunder adgangskurser og erhvervsuddannelser.
+"Censor" er en ekstern bedømmer, der deltager i prøveafviklingen for at sikre objektivitet, ensartethed og overholdelse af nationale standarder in vurderingen af studerende.
+"Censorbeskikkelse" er en formel udpegning af en person til at virke som censor inden for et specifikt fagområde eller censorkorps in en fastsat periode.
+"Censorkorps" er en organiseret samling af beskikkede censorer inden for et specifikt fagtligt område, som stilles til rådighed for institutionerne ved afholdelse af prøver med ekstern censur.
+"Censurnorm" er en beregningsregel, der fastlægger det antal timer eller den ressource, som en censor tildeles til bedømmelse af en specifik prøvetype.
+"Censurform" er en kategorisering, der angiver om en prøve bedømmes med ekstern censur (med censor) eller intern bedømmelse (uden censor).
+"Centralfag" er det primære faglige element i en udd側にer (typisk en to-faglig bachelor eller kandidat), som udgør uddannelsens kerne og største omfang af ECTS-point.
+"CPR adresse" er den officielle bopælsadresse for en person, som er registreret i det Centrale Personregister, og som anvendes til myndighedskommunikation.
+"CVR" er en unik identifikation af en juridisk enhed (virksomhed eller institution) i det Centrale Virksomhedsregister, der anvendes ved fakturering og rekvirering af uddannelse.
+"darId" er en unik identifikation af en adresse i Danmarks Adresseregister (DAR), der anvendes til at sikre præcis geografisk validitet af studenter- og institutionsadresser.
+"del af sidefag" er en systemmæssig markering af et fagelement, der indikerer dets tilhørsforhold til en sekundær faglig specialisering uden for hovedfaget.
+"del af tilvalg" er en kategorisering af et fagelement, der angiver, at det indgår som en del af en studerendes valgfrie studiekomponenter.
+"delmerit" er en godskrivning, hvor dele af et tidligere bestået fagelement anerkendes som erstatning for specifikke komponenter i et nyt fagelement.
+"delmerit ECTS-point" er en numerisk værdi, der angiver det præcise omfang af arbejdsbelastning, som godskrives gennem en delmerit.
+"delprøve" er en selvstændig bedømmelsesaktivitet, der udgør en defineret komponent af en samlet prøve in et fagelement.
+"delprøvekaraktervægt" er en numerisk faktor, der fastlægger en specifik delprøves relative betydning for beregningen af den samlede karakter i et fagelement.
+"delprøvenavn" er en tekstlig identifikation, der navngiver en specifik evalueringskomponent inden for et fagelement.
+"delprøveresultat" er en bedømmelse, der dokumenterer en studerendes præstation in en enkeltstående del af en samlet prøve.
+"delprøverækkefølge" er en systemmæssig angivelse af den kronologiske eller logiske rækkefølge, som delprøver i et fagelement skal gennemføres eller præsenteres i.
+"deltagelseskrav" er en forretningsregel, der definerer de specifikke betingelser for fremmøde eller aktivitet, som skal være opfyldt for at opnå ret til bedømmelse.
+"deltagerbetaling" er en økonomisk opkrævning, som pålægges studerende på efter- og videreuddannelse eller visse andre ordninger som betaling for undervisning og eksamen.
+"deltidsstuderende" er en personkategorisering af en studerende, der er indskrevet på et uddannelsesforløb med en normeret arbejdsbelastning på mindre end 60 ECTS-point pr. år.
+"deltidsundervisning" er en organiseringsform for en uddannelse, hvor undervisningen er planlagt med et reduceret ugentligt timetal for at muliggøre sideløbende erhvervsarbejde.
+"deltidsuddannelse" er et uddannelsesforløb, der formelt er udbudt med en lavere studieintensitet end fuld tid, typisk under lov om åben uddannelse.
+"delvist indløst" er en systemstatus for en meritbevilling, der angiver, at kun en del af de godskrevne elementer er blevet aktiveret i den studerendes aktuelle studieforløb.
+"delvist indløst forhåndsgodkendelse af merit" er en administrative status, der markerer, at en studerende kun har fået endeligt godskrevet en portion af de elementer, der tidligere var givet forhåndstilsagn om.
+"delvist taxametertilskud" er en finansieringsmodel, hvor staten kun yder tilskud til en defineret brøkdel af de normerede omkostninger for en studerende.
+"den koordinerede tilmelding" er en centraliseret administrative proces, der styrer og synkroniserer ansøgninger og optagelse på tværs af flere uddannelser eller institutioner.
+"det ordinære uddannelsessystem" er en overordnet kategorisering af det statsligt finansierede uddannelsestilbud, der omfatter fuldtidsuddannelser fra grundskole til universitetsniveau.
+"dimission" er en administrative begivenhed, der markerer den formelle afslutning på en uddannelse efter opnåelse af samtlige krav i studieordningen.
+"dimissionsdato" er en tidsangivelse, der markerer den officielle dato for en studerendes færdiggørelse af en samlet uddannelse.
+"dimittend" er en person, der formelt har afsluttet en uddannelse og opnået en akademisk grad eller et bevis.
+"Diploma Supplement" er et officielt tillægsdokument til et eksamensbevis, der giver en standardiseret beskrivelse af uddannelsens karakter, niveau og indhold på engelsk.
+"diplomgrad" er en uddannelsesmæssig titel, der tildeles som bevis for gennemførelse af en diplomuddannelse på niveau 6 i den danske kvalifikationsramme.
+"diplomprojekt" er en faglig produktion, der udgør det afsluttende uddannelseselement i en diplomuddannelse.
+"diplomuddannelse" er en videregående uddannelse tilrettelagt som deltidsundervisning på bachelorniveau (niveau 6) inden for rammerne af voksen- og efteruddannelsessystemet.
+"diplomuddannelse fleksibel" er en diplomuddannelse, hvor den studerende sammensætter sit forløb af moduler fra forskellige uddannelser inden for en godkendt ramme.
+"disciplinærsag" er en administrative saga, der rejses mod en studerende ved mistanke om overtrædelse af institutionens ordensregler eller eksamensbestemmelser.
+"dispensation" er en undtagelse, der efter ansøgning tillader en fravigelse fra gældende regler for en specifik studerende.
+"dispensation fra adgangskrav" er en tilladelse, der fritager en ansøger fra at opfylde specifikke formelle krav for at kunne søge optagelse på en uddannelse.
+"dispensation fra gruppestørrelse" er en administrative godkendelse, der tilladen afvigelse fra de fastsatte regler for antallet af deltagere in en projekt- eller eksamensgruppe.
+"dispensation fra prøveemne" er en tilladelse til at fravige studieordningens krav til emnevalget i en konkret prøveaktivitet.
+"dispensation fra sprogkrav" er en administrative undtagelse, der fritager en ansøger eller studerende fra kravet om dokumenterede sprogfærdigheder på et bestemt niveau.
+"dispensationsansøgningsbeskrivelse" er en tekstlig redegørelse, hvori en studerende begrunder behovet for en fravigelse fra gældende regler in en formel ansøgning.
+"dispensationsindskrivning" er en registreringsproces, hvor en studerende indskrives på en uddannelse på baggrund af en individuel vurdering og bevilling af dispensation.
+"dispensationsnummer" er en unik systemidentifikation, der tildeles en specifik bevillingssag for at sikre sporbarhed og reference.
+"dispensationstype" er en kategorisering, der definerer arten af en bevilget undtagelse, såsom tidsmæssig forlængelse eller fravigelse af aktivitetskrav.
+"dokumentation for beståelse af eksternt fagelement" er en samling af dokumenter, såsom karakterudskrifter eller attester, der beviser gennemførelse af uddannelseselementer ved en anden institution.
+"dokumentation for bestået eksternt fagelement" er en formel verifikation, der bekræfter, at et specifikt kursus fulgt uden for institutionen er gennemført med et tilfredsstillende resultat.
+"DS indberetning" er en lovpligtig datarapportering til Danmarks Statistik omhandlende studerende, indskrivninger og opnåede resultater.
+"DS Internationaliseringsindberetning" er en specifik datarapportering til nationale registre vedrørende studerendes mobilitet på tværs af landegrænser.
+"DS ph.d.-indberetning" er en lovpligtig datarapportering til Danmarks Statistik, der specifikt indeholder oplysninger om ph.d.-studerendes indskrivning, forløb og afslutning.
+"DS Åben uddannelsesindberetning" er en lovpligtig datarapportering til Danmarks Statistik, der omfatter activity og deltagerbetaling for studerende under lov om åben uddannelse.
+"død" er en personstatus og administrativ afbrydelsesårsag, der indtræder ved en persons bortgang og medfører øjlikkeligt ophør af samtlige aktive indskrivninger.
+"dør" er en del af en adressebetegnelse, der angiver den præcise indgang til en bolig eller et lokale i en bygning.
+"ECTS-karakter" er en karakterværdi fastsat efter den internationale ECTS-skala, der anvendes til at lette sammenlignelighed af prøveresultater på tværs af europæiske uddannelsessystemer.
+"ECTS-point" er en måleenhed, der kvantificerer den normerede arbejdsbelastning for et uddannelseselement.
+"efter- og videreuddannelsessystemet" er en uddannelsesmæssig ramme, der omfatter formel uddannelse tilrettelagt for voksne, som typisk har forudgående erhvervserfaring.
+"efternavn" er en personidentifikator, der betegner det slægtsnavn, som en person formelt bærer og som anvendes i systemets adresseringsfelter.
+"egen sygdom" er en gyldig fraværsårsag, der berettiger en studerende til dispensation fra tidsfrister eller eksamensforsøg.
+"egenbetaling" er en økonomisk forpligtelse, hvor den studerende selv afholder udgifterne til deltagerbetaling for et undervisningsforløb.
+"eksamensbesvarelse" er en faglig præstation, der udgør en studerendes besvarelse af en stillet prøveopgave og danner grundlag for bedømmelse.
+"eksamensbevis" er et officielt dokument, der udsteds af institutionen som det endelige bevis for, at en studerende har gennemført en samlet uddannelse.
+"eksamensforudsætning opfyldt" er en systemstatus, der bekræfter, at en studerende har gennemført de obligatoriske aktiviteter, der er krævet for at kunne deltage i den endelige prøve.
+"eksamensgruppe" er en administrativ enhed bestående af en eller flere studerende, der gennemfører den samme prøvebegivenhed samtidigt.
+"eksamensgruppekode" er en unik systemidentifikation, der anvendes til at knytte studerende, lokaler og bedømmere til en specifik eksamensafvikling.
+"eksamenshold" er en gruppering af studerende, der er tilmeldt den samme prøve i et givet eksamenstermin.
+"eksamenspensum" er en afgrænset mængde fagligt materiale og litteratur, som danner grundlag for kravene til den studerendes præstation ved en prøve.
+"eksamensplan" er en tidsmæssig og logistisk oversigt, der fastlægger datoer, tidspunkter og lokaler for afholdelse af samtlige prøver in en termin.
+"eksamenssprog" er en sproglig angivelse, der definerer det sprog, som opgaveformuleringen gives i, og som besvarelsen som udgangspunkt skal affattes på.
+"eksamensspørgsmålstype" er en kategorisering, der definerer arten af de spørgsmål, der stilles ved en prøve, såsom trukne spørgsmål eller faste opgaver.
+"eksamenstilsyn" er en administrative funktion, der varetages af personer med ansvar for at sikre ro, orden og overholdelse af regler under afviklingen af en skriftlig stedprøve.
+"eksaminator" er en person med faglig bemyndigelse, der forestår den primære bedømmelse af en studerendes præstation ved en prøve.
+"ekstern bedømmelse" er en evalueringsproces, hvor fastsættelsen af et prøveresultat sker ved medvirken af mindst én bedømmer, der ikke er ansat ved den pågældende uddannelsesinstitution.
+"ekstern beståelsesdato" er en tidsangivelse, der markerer den dato, hvor et fagelement est bestået ved en anden institution end den aktuelle indskrivningsinstitution.
+"ekstern censur" er en administrativ bestemmelse, der foreskriver, at en prøve skal bedømmes af både en eksaminator og en censor udpeget uden for institutionen (beskikket censor).
+"ekstern fagelementkode" er en unik identifikation af et uddannelseselement, som anvendes i et eksternt system eller ved en anden uddannelsesinstitution.
+"ekstern kontakt" er en registrering af en person eller organisation uden for institutionen, som indgår in en formel relation, feks. i forbindelse med praktik eller projektsamarbejde.
+"eksterne credits" er en måleenhed for arbejdsbelastning (f.eks. meritpoint), der er opnået og dokumenteret ved en anden institution end den, hvor beviset udstedes.
+"eksternt fagelement" er et uddannelseselement, der er udbudt og gennemført ved en anden uddannelsesudbyder end institutionen selv.
+"eksternt fagelementnavn" er den officielle betegnelse for un kursus eller modul, som den fremgår af dokumentationen fra en ekstern uddannelsesinstitution.
+"eksternt ophold" er en tidsmæssigt afgrænsning periode, hvor en studerende gennemfører dele af sin uddannelse (studier eller praktik) ved en anden organisation eller i udlandet.
+"eksternt opholdsform" er en kategorisering af indholdet i et ophold uden for institutionen, såsom udvekslingsstudier, projektorienteret forløb eller praktik.
+"eksternt opholdssted" er den specifikke geografiske eller organisatoriske destination (land, by, virksomhed eller institution), hvor et eksternt ophold afvikles.
+"eksternt opholdstype" er en administrativ klassificering af et ophold baseret på dets formål og økonomiske ramme, f.eks. Erasmus+, Nordplus eller selvfinansieret (freemover).
+"eksternt resultat" er en bedømmelse opnået ved en anden institution, som danner det dokumentationsmæssige grundlag for en meritvurdering.
+"eksterntopholdsform" (Se: eksternt opholdsform)
+"ekstra prøveforsøg" er en formel dispensation, der giver en studerende ret til at deltage in en prøve ud over de normalt tilladte tre forsøg.
+"ekstraordinær omprøve" er en prøvebegivenhed, der udbydes uden for de fastsatte eksamensterminer som følge af godkendt sygdom eller administrative fejl.
+"e-læringsprocent" er en numerisk værdi, der angiver andelen af undervisningsaktiviteterne i et fagelement, som afvikles digitalt uden krav om fysisk fremmøde.
+"endelig godkendelsesdato" er en tidsangivelse, der markerer det præcise tidspunkt for, hvornår en administrative beslutning eller en ansøgning er endeligt bekræftet og retsgyldig.
+"engelsk" er en sproglig angivelse, der anvendes til at markere, at undervisning, prøver eller administrative data (f.eks. titler) foreligger på det engelske sprog.
+"enkeltfag" er en uddannelsesaktivitet, der er udtaget fra en samlet uddannelse og udbudt som et selvstændigt kursus under lov om åben uddannelse.
+"enkeltfag fra deltidsuddannelse" er et enkeltfag, der stammer fra en deltidsuddannelse (f.eks. en diplomuddannelse) og udbydes til selvstændig tilmelding.
+"enkeltfag fra en heltidsuddannelse" er et enkeltfag, der er hentet fra en ordinær fuldtidsuddannelse og udbudt til efteruddannelsessøgende under tompladsordningen.
+"enkeltfagsansøgningstype" er en systemkategorisering, der definerer arten af en ansøgers anmodning om optagelse på et specifikt enkeltfag.
+"enkeltfagsbevis" er et officielt dokument, der attesterer en studerendes gennemførelse af et eller flere selvstændige fagelementer uden for et samlet uddannelsesforløb.
+"enkeltfagsstuderende" er en personkategorisering for en studerende, der alene er indskrevet på individuelle fagelementer og ikke følger en fuld uddannelse mod en grad.
+"enkeltfagsstuderende på deltidsuddannelse" er en person, der følger moduler på en deltidsuddannelse (f.eks. master) uden at være indskrevet på det samlede forløb.
+"enkeltfagsstuderende på heltidsuddannelse" (Synonym for tompladsstuderende).
+"enkeltfagsudbudstype" er en administrativ kategorisering, der definerer rammen for udbuddet af et enkeltfag, såsom tomplads eller særskilt tilrettelagt hold.
+"er bestået" er en systemmæssig status (boolsk), der bekræfter om en studerende har gennemført en prøve eller et fagelement med et resultat over bestågrænsen.
+"er gruppeprøve" er en systemmæssig markering, der angiver om en prøveaktivitet er tilrettelagt for to eller flere studerende samtidigt.
+"er ressourceudløsende" er en systemmæssig egenskab ved en aktivitet, der definerer om gennemførelsen eller tilmeldingen giver ret til statsligt tilskud (taxameter).
+"erasmus mobility-indberetning" er en lovpligtig datarapportering til nationale agenturer vedrørende mobilitet for studerende og ansatte under Erasmus+-programmet.
+"erasmus program" er et europæisk uddannelsesprogram, der yder økonomisk støtte til internationalt samarbejde, udveksling og praktikophold.
+"erasmuskontor" er en organisatorisk enhed på institutionen, der varetager den administrative håndtering af mobilitet og bevillinger under Erasmus-programmet.
+"erhvervsakademigrad" er en uddannelsesmæssig titel, der tildeles som bevis for gennemførelse af en erhvervsakademiuddannelse på niveau 5 i kvalifikationsrammen.
+"erhvervsakademiuddannelse" er en videregående uddannelse, der er karakteriseret ved en tæt kobling mellem teori og praksisrettede færdigheder på niveau 5.
+"erhvervserfaring" er en registrering af en persons tidligere praktiske arbejdserfaring, som anvendes som grundlag for optagelse eller meritvurdering.
+"erhvervskandidat" er en personkategorisering for en studerende, der gennemfører en kandidatuddannelse sideløbende med en relevant erhvervsbeskæftigelse af mindst 25 timer ugentligt.
+"erhvervskandidatuddannelse" er en kandidatuddannelse, der er tilrettelagt over en længere periode (typisk 4 år) for at muliggøre sideløbende ansættelse in en virksomhed.
+"erhvervsmæssig baggrund" er en administrativ kategorisering af en ansøgers tidligere erhvervsmæssige kvalifikationer, der anvendes ved vurdering af adgangsgrundlag.
+"erhvervsmæssig status" er en systemregistrering af en persons aktuelle tilknytning til arbejdsmarkedet, anvendt til statistisk opfølgning eller betalingskategorisering.
+"etage" er en del af en adressebetegnelse, der angiver det vertikale niveau i en bygning, hvor en person har bopæl eller en enhed er placeret.
+"external credits" er en måleenhed for studieaktivitet, der er optjent ved en udenlandsk eller ekstern uddannelsesinstitution og udtrykt i et andet pointsystem end ECTS.
+"fagbetegnelse" er den officielle navngivning af et fagligt område eller en disciplin, som anvendes til identifikation af uddannelser og fagelementer.
+"fageksamen" er en samlet prøveaktivitet, der evaluerer den studerendes viden og færdigheder inden for et specifikt fagområde eller fagelement.
+"fagelement" er den mindste selvstændige og meritgivende enhed i en uddannelse, som er defineret i en studieordning med et specifikt læringsudbytte og ECTS-omfang.
+"fagelement emnekode" er en administrativ identifikator, der knytter et fagelement til et specifikt fagligt emnefelt på tværs af studieordninger.
+"fagelement i fagelementgruppering" er en systemmæssig relation, der angiver, at et specifikt kursus indgår i en defineret samling af fagelementer, såsom en valgfagsblok.
+"fagelement i studieforløbsperiode" er en tidsmæssig placering af et fagelement, der definerer, i hvilket semester eller hvilken periode i et standardstudieforløb aktiviteten forventes gennemført.
+"fagelementansvarlig enhed" er den organisatoriske afdeling eller det institut, som har det formelle ansvar for den faglige kvalitet og udbuddet af et specifikt fagelement.
+"fagelementansvarlig person" er en medarbejder, typisk en underviser or kursusleder, der er udpeget til at varetage det faglige og administrative ansvar for et fagelement.
+"fagelementbeskrivelse" er et formelt dokument eller systempost, der detaljeret redegør for et fagelements indhold, mål, undervisningsform og eksamensbestemmelser.
+"fagelementdispensationsbeskrivelse" er en tekstlig redegørelse for de specifikke vilkår og begrundelser knyttet til en bevilget undtagelse fra de ordinære regler for et fagelement.
+"fagelementdispensationstype" er en kategorisering af arten af en dispensation givet i relation til et fagelement, såsom ændret prøveform eller forlænget afleveringsfrist.
+"fagelementemne" er et fagligt tema eller specialeområde, som danner rammen for indholdet i et eller flere fagelementer.
+"fagelementemnekode" er en administrativ kode, der entydigt identificerer et specifikt fagligt emne i systemet.
+"fagelementemnenavn" er den beskrivende titel på det faglige emnefelt, som et fagelement er kategoriseret under.
+"fagelementgruppering i studieforløbsperiode" er en mængde af kurser, der samlet er placeret i en specifik periode af en studerendes uddannelsesforløb.
+"fagelementgrupperingsformål" er en systemmæssig angivelse af den pædagogiske eller administrative hensigt med at samle specifikke kurser, f.eks. til et sidefag eller et konstituerende element.
+"fagelementgrupperingsnavn" er den officielle betegnelse for en samling af fagelementer, som anvendes til identifikation i studieordninger og på beviser.
+"fagelementgrupperingstype" er en kategorisering af strukturen for en samling af kurser, såsom obligatoriske blokke, valgfrie puljer eller bundne specialiseringer.
+"fagelementmerit" er en godskrivning, der erstatter et specifikt fagelement in en studieordning med et tidligere bestået uddannelseselement.
+"fagelementnavn" er en beskrivende titel, der entydigt identificerer et fagelement in en studieordning og på officielle dokumenter.
+"fagelementtype" er en kategorisering, der definerer fagelementets karakter, såsom obligatorisk, valgfrit eller konstituerende.
+"fagelementvarighed" er en tidsmæssig angivelse, der fastlægger den periode (f.eks. antal uger eller et semester), som undervisningen i et fagelement strækker sig over.
+"faglig bedømmer" er en person med den fornødne videnskabelige eller faglige kompetence til at vurdere en studerendes præstation ved en prøve.
+"faglig vejledning" er en rådgivningsaktivitet, hvor en fagkyndig person vejleder studerende om faglige valg, progression og specialisering.
+"faglig vurdering" er en administrativ eller akademisk afgørelse, der baseres på en konkret prøvelse af en persons kompetencer eller dokumentation.
+"faglige krav" er en mængde af specifikke kvalifikationer eller forudsætninger, som skal være opfyldt for at opnå ret til optagelse eller bedømmelse.
+"fagområde" er en overordnet kategorisering af beslægtede videnskabelige discipliner eller emnefelter.
+"fagpakke" er en sammensætning af flere relaterede fagelementer, der udbydes som et samlet forløb, ofte inden for efter- og videreuddannelse.
+"fagprofil" er en samling af faglige kompetencer og specialiseringer, som kendetegner en bestemt studieretning eller kandidat.
+"fagspecifikke kurser" er en række undervisningsforløb, der er målrettet dybdegående kompetenceudvikling inden for et afgrænset professionelt eller videnskabeligt felt.
+"fast placering" er en systemmæssig fastlåsning af et fagelement til en bestemt periode eller rækkefølge i et studieforløb, som ikke kan fraviges af den studerende.
+"feedbackform" er en kategorisering af den metode, hvormed en studerende modtager faglig tilbagemelding på sin præstation, f.eks. mundtligt eller skriftligt.
+"finansieringsform" er en kategorisering af kilden til dækning af udgifterne for en studerendes uddannelse, såsom statsfinansiering, egenbetaling eller arbejdsgiverbetaling.
+"finansieringsperiode" er et tidsrum, hvori en studerendes ret til en given finansiering (f.eks. friplads) er gyldig.
+"fleksibel akademiuddannelse" er en akademiuddannelse (niveau 5), hvor den studerende selv sammensætter sit forløb af moduler fra forskellige uddannelser inden for en ramme.
+"fleksibel masteruddannelse" er en masteruddannelse, hvor den studerende opnår graden gennem en individuelt sammensat række af moduler fra godkendte masterforløb.
+"fleksibel ph.d.-studerende" er en personkategorisering for en ph.d.-studerende, der følger et forløb tilrettelagt med særlige hensyn til tid, sted eller finansiering.
+"forberedelsestid" er et tidsrum før selve prøveafviklingen, hvor den studerende har mulighed for at gøre sig klar til eksaminationen.
+"forberedende kursus" er et målrettet undervisningsforløb, der har til formål at opkvalificere en person til at opfylde de formelle adgangskrav til en specifik uddannelse.
+"forelæsning" er en undervisningsform, hvor en underviser præsenterer et fagligt stof for en større gruppe studerende, ofte uden krav om løbende interaktion.
+"foreløbig opgavetitel" er en tekstlig identifikation af emnet for et skriftligt arbejde (f.eks. et speciale), som anvendes til administrative formål, før den endelige titel fastlægges.
+"forhåndsgodkendelse af merit" er en administrative afgørelse, der giver en studerende formelt tilsagn om, at planlagte uddannelseselementer ved en anden institution vil kunne meritoverføres ved efterfølgende dokumentation for beståelse.
+"forlængelse af studieforløb" er en administrative ændring af en studerendes forventede slutdato, som typisk bevilges som følge af dispensation, orlov eller nedsat studieaktivitet.
+"forløbsprøve" er en prøveaktivitet, der afvikles som en integreret del af undervisningsforløbet i et fagelement, og som bidrager til den samlede bedømmelse.
+"forløbsprøvetype" er en kategorisering af metoden for en prøve afholdt undervejs i et kursus, såsom en midtvejstest, en portefølje eller en løbende aflevering.
+"formidlet studieophold" er et eksternt ophold, der er etableret gennem en formel udvekslingsaftale mellem den studerendes hjeminstitution og en partnerinstitution.
+"fornavne" er en personidentifikator, der omfatter de navne, som en person formelt har fået tildelt ved føsel eller navneændring, eksklusive efternavnet.
+"forsinket aflevering" er en systemstatus for en opgavebesvarelse, der indikerer, at materialet er registreret som modtaget efter den fastsatte afleveringsfrist.
+"fortolket resultat" er et prøveresultat, der er transformeret fra en ekstern karakterskala til en national skala (f.eks. 7-trinsskalaen) med henblik på korrekt meritregistrering.
+"fortrolighed" er en administrative markering, der begrænser adgangen til specifikke dokumenter (f.eks. et speciale) grundet personfølsomme oplysninger eller forretningshemmeligheder.
+"fortrudt accepteret" er en processtatus for et tilbud om optagelse, hvor en ansøger har annulleret sin tidligere formelle accept af en studieplads.
+"forudsætningskrav for indstilling til prøve" er en mængde af obligatoriske betingelser, såsom godkendte opgaver eller deltagelse in undervisning, som skal være opfyldt for at opnå ret til detage i den endelige prøve.
+"forudsætningsregel" er en forretningsregel i systemet, der automatisk verificerer om nødvendige akademiske eller administrative betingelser er opfyldt før en given handling (f.eks. tilmelding).
+"forventede ECTS-point" er en numerisk værdi, der angiver det samlede omfang af planlagt eller normeret studieaktivitet for en studerende in en specifik periode.
+"forventede ECTS-point ift. SU" er en specifik beregning af det studieomfang, som anvendes af myndighederne til at vurdere en studerendes berettigelse til at modtage Statens Uddannelsesstøtte.
+"framelding fra udbudt fagelement" er en administrative handling, hvor en studerende annullerer sin deltagelse i et planlagt undervisningsforløb inden for de fastsatte tidsfrister.
+"framelding fra udbudt prøve" er en administrative handling, hvor en studerende trækker sin tilmelding til en specifik eksamensbegivenhed tilbage.
+"frameldingsdato" er en tidsangivelse, der markerer det præcise tidspunkt for, hvornår en studerende formelt har foretaget en framelding fra en aktivitet.
+"frameldingsperiode" er et tidsrum, hvori en studerende har ret til administrativt at annullere sin tilmelding til et fagelement eller en prøne uden konsekvenser for eksamensforsøg.
+"frameldingsårsag" er en systemkategorisering, der identificerer den formelle grund til at en studerende trækker sig fra en planlagt aktivitet, f.eks. sygdom eller studieskift.
+"frameldt" er en systemstatus, der markerer, at en studerendes formelle deltagelse i en aktivitet er ophørt efter en aktiv framelding.
+"frameldt af" er en identifikation af den aktør (f.eks. den studerende selv eller administrationen), der har effektueret frameldingen i systemet.
+"frameldt fra udbudt prøve" er en processtatus, der bekræfter, at en studerende ikke længere er tilmeldt en specifik eksamensbegivenhed og derfor ikke indgår i eksamenslisten.
+"FRB, rekvirent" er en rekvirentkode, der identificerer studerende, som er optaget via en specifik bilateral udvekslingsaftale med en partnerinstitution.
+"freemover" er en personkategorisering for en studerende, der gennemfører et studieophold i udlandet på eget initiativ og uden for institutionens formelle udvekslingsaftaler.
+"fremmøde" er en registrering af en studerendes fysiske eller digitale tilstedeværelse ved en obligatorisk undervisnings- eller prøveaktivitet.
+"FRF, rekvirent" er en rekvirentkode, der identificerer studerende, hvis uddannelsesaktiviteter er finansieret via eksterne forskningsmidler eller fonde.
+"friplads og stipendiefinansieret" er en finansieringsform for studerende fra lande uden for EU/EØS, der er tildelt fritagelse for studieafgift og modtager et statsligt månedligt beløb til leveomkostninger.
+"friplads- og stipendietilskud" er en statslig bevilling til institutionen, der dækker omkostningerne ved at udbyde uddannelse til studerende på fripladsordningen.
+"frit ekamensspørgsmål" er et prøveelement, hvor den studerende har frihed til selv at vælge emnet eller formulere problemstillingen inden for fagelementets rammer.
+"fritagelse" er en administrative afgørelse, der fritager en studerende fra at opfylde et specifikt krav i studieordningen, ofte begrundet i merit eller særlige forhold.
+"fritagelse fra tilmeldingsbinding" er en tilladelse til at annullere en tilmelding til et fagelement eller en prøve, som under normale omstændigheder ville være administrativt bindende.
+"fritagelse på grund af dispensation" er en specifik administrative undtagelse, der er bevilget efter ansøgning som følge af usædvanlige eller uforudsete forhold.
+"FRU, rekvirent" er en rekvirentkode, der identificerer studerende, som deltager i uddannelsesaktiviteter under specifikke rammeaftaler eller udvekslingsprogrammer (f.eks. Nordplus).
+"fysisk ophold" er en kategorisering af et udvekslingsophold, der forudsætter den studerendes geografiske tilstedeværelse ved modtagerinstitutionen.
+"fællesuddannelse" er et uddannelsesforløb, der er tilrettelagt og udbydes i et formelt og retligt bindende samarbejde mellem to eller flere uddannelsesinstitutioner.
+"fødselsdato" er en personidentifikator, der angiver datoen for en persons fødsel og anvendes til entydig identifikation og kontrol af adgangskrav relateret til alder.
+"førstartmerit" er en godskrivning af beståede uddannelseselementer, der er optjent forud for den formelle påbegyndelse af den aktuelle uddannelse.
+"førsteårsprøve" er en samling af obligatoriske prøver, som en studerende skal bestå inden udgangen af det første studieår for at kunne fortsætte uddannelsen.
+"generelle adgangskrav" er en mængde formelle kvalifikationer, herunder en gymnasial eksamen eller tilsvarende, der kræves for optagelse på alle videregående uddannelser af en bestemt type.
+"generisk person" er en systemteknisk personprofil, der anvendes som skabelon eller pladsholder for funktioner, der ikke er knyttet til et specifikt individ.
+"genindskrivning" er en administrative proces, hvor en person, der tidligere har afbrudt eller er blevet udmeldt af en uddannelse, formelt genopretter sin status som studerende.
+"gennemførselstid" er en numerisk måling af den tidsmæssige varighed fra en studerendes første indskrivningsdato til datoen for dimission, anvendt til statistisk opfølgning.
+"genoptagelse" er en administrative status for en sag eller et studieforløb, der efter en afbrydelse føres tilbage til aktiv status med henblik på videre førelse.
+"godkendelsesstatus" er en systemmæssig tilstand, der angiver, om et givet objekt eller en handling er formelt accepteret, herunder hhv. "kladde", "indsendt" eller "godkendt".
+"godkendt" er en resultatværdi eller systemstatus, der bekræfter, at en præstation, et dokument eller en ansøgning opfylder de fastsatte kriterier og regler.
+"godkendt sprog" er en administrative angivelse af de sprog, som institutionen formelt tillader anvendt ved hhv. undervisning og prøver for et fagelement.
+"godkendt udbudssted" er en geografisk eller organisatorisk lokation, hvor institutionen har formel bemyndigelse til at afvikle specifikke uddannelsesaktiviteter.
+"godkendt udbudsstednavn" er den officielle betegnelse for en lokation, hvor uddannelsen er godkendt til at finde sted.
+"godkendt/ikke-godkendt" er en bedømmelsestype, der anvendes til at vurdere, om en studerendes præstation lever op til de faglige minimumskrav uden brug af karakterer.
+"grad" er en officiel akademisk titel, der tildeles ved fuldførelse af et samlet uddannelsesforløb in overensstemmelse med kvalifikationsrammen.
+"grant agreement" er et juridisk dokument, der fastlægger de økonomiske og administrative forpligtelser for en studerende, som modtager ekstern støtte (f.eks. Erasmus-stipendium).
+"gruppe dannes af administration" er et planlægningsprincip, hvor institutionen foretager holdsætning og sammensætning af studerende uden individuel indflydelse fra de studerende.
+"gruppe dannes af studerende" er et pædagogisk princip, hvor de studerende selv har ansvaret for at organisere sig i projekt- eller eksamensgrupper inden for de givne rammer.
+"gruppedannelsesprincip" er en administrative regel i studieordningen, der definerer metoden og tidsrammen for, hvordan studerende samles i grupper til undervisning og eksamen.
+"gruppeprøve" er en eksamensform, hvor to eller flere studerende bedømmes samtidigt på baggrund af en fælles præstation, men hvor der som udgangspunkt gives individuelle karakterer.
+"gruppering af fagelementer" er en strukturel enhed i en studieordning, der samler flere kurser in en logisk blok, såsom et sidefag, et speciale eller en valgfagspulje.
+"gældende opgavetitel" er den senest registrerede og godkendte ordlyd af titlen på et speciale eller projekt, som skal anføres på det endelige eksamensbevis.
+"gældende periode, slut" er en tidsangivelse, der markerer den præcise slutdato for gyldigheden af en administrativ post, regel eller tilstand i systemet.
+"gældende periode, start" er en tidsangivelse, der markerer den officielle startdato for gyldigheden af en administrativ post, regel eller tilstand i systemet.
+"gældende prøveresultat" er en bedømmelse, der udgør det juridisk gældende resultat af en studerendes præstation in et fagelement, typisk det seneste eller højeste opnåede resultat i overensstemmelse med gældende regler.
+"gæstestuderende" er en personkategorisering for en studerende, der er indskrevet ved én uddannelsesinstitution, men som efter aftale følger fagelementer eller moduler ved en anden institution med henblik på meritoverførsel.
+"heltid på deltid" er en indskrivningsform, der tillader en studerende af følge et heltidsuddannelsesforløb under de administrative og økonomiske rammer, der gælder for deltidsuddannelse (f.eks. med deltagerbetaling).
+"heltid på deltid-studerende" er en personkategorisering for en studerende, der følger fagelementer fra en heltidsuddannelse, men er indskrevet og finansieret som deltidsstuderende.
+"heltidsstuderende" er en personkategorisering for en studerende, der er indskrevet på et uddannelsesforløb normeret til en arbejdsbelastning på 60 ECTS-point pr. studieår.
+"heltidsuddannelse" er et uddannelsesforløb, der formelt is tilrettelagt med en studieintensitet svarende til fuld tid (60 ECTS-point pr. år) og som primært er statsfinansieret via taxametersystemet.
+"hjemmeopgave" er en prøveform, hvor den studerende udarbejder en skriftlig besvarelse af en stillet opgave uden for institutionens lokaler og inden for en fastsat tidsfrist (f.eks. 48 timer eller 14 dage).
+"hjemmeuniversitet" er en uddannelsesinstitution, hvor en studerende formelt er indskrevet som sin primære uddannelsesplads, og som har ansvaret for meritoverførsel af aktiviteter gennemført under udveksling.
+"hjælpemiddel ved prøve" er en ressource eller et værktøj, som en studerende formelt har tilladelse til at anvende under afviklingen af en eksamen i overensstemmelse med fagelementets beskrivelse.
+"hjælpemidler ved prøve" er en samling af tilladte ressourcer, der er defineret for en specifik prøveform, herunder f.eks. lommeregnere, opslagsværker eller digitale værktøjer.
+"hjælpemidler ved prøvebegivenhed" er en administrative registrering af de konkrete værktøjer og faciliteter, der stilles til rådighed for eller tillades anvendt af en studerende ved en specifik afvikling af en eksamen.
+"hold" er en administrativ gruppering af studerende, der følger den samme undervisningsaktivitet eller det samme undervisningsforløb in et fagelement.
+"holdbegivenhed" er en skemalagt aktivitet, der repræsenterer en specifik lektion, øvelse eller forelæsning knyttet til et bestemt hold.
+"holdbegivenhed, person" er en systemmæssig kobling, der relaterer en specifik person (f.eks. en underviser eller studerende) til en konkret holdbegivenhed in skemaet.
+"holdnavn" er en tekstlig identifikation, der entydigt navngiver et hold i studiesystemet, ofte baseret på uddannelse, årgang og fagelement.
+"holdprioritet" er en numerisk værdi eller præference, som en studerende angiver in forbindelse med holdønsker, og som anvendes ved automatisk holdsætning ved overbookede aktiviteter.
+"holdsætning" er en administrative proces, hvor studerende fordeles på specifikke hold in et fagelement baseret på pladskapacitet, prioriteter eller lodtrækning.
+"holdønske" er 正式的 administrativ registrering af en studerendes præference for deltagelse på et specifikt hold, når et fagelement udbydes med flere parallelle holdmuligheder.
+"housing" er en serviceydelse, der omfatter formidling eller tildeling af bolig til især udvekslingsstuderende eller internationale studerende i forbindelse med deres ophold.
+"hovedområde" er en organisatorisk kategorisering, der grupperer beslægtede videnskabelige fakulteter eller institutter, såsom Humaniora, Samfundsvidenskab eller Naturvidenskab.
+"hovedopgave" er en større skriftlig faglig produktion, der udgør det afsluttende element in en akademi-, diplom- eller bacheloruddannelse og dokumenterer den studerendes evne til at anvende teori på praksis.
+"humaniora" er et videnskabeligt hovedområde, der omfatter studier af menneskets kulturelle, sproglige og historiske frembringelser.
+"husnummer" er en adressekomponent, der numerisk identificerer en specifik bygning eller opgang på en vej.
+"hybridophold" er en kategorisering af et udvekslingsophold, der kombinerer fysisk tilstedeværelse ved en partnerinstitution med virtuelle læringsaktiviteter.
+"id" er en unik systemidentifikator, der entydigt repræsenterer et specifikt objekt, en person eller en ordning i studiesystemets database.
+"identitetsvalidering" er en administrative kontrolproces, der sikrer, at en persons oplyste identitet er korrekt og verificeret via officielle dokumenter eller digitale nøgler (f.eks. MitID).
+"ikke bestået" er en bedømmelsesværdi, der angiver, at en studerendes præstation i en prøve eller et fagelement ikke har opfyldt de faglige minimumskrav fastsat i studieordningen.
+"ikke betalt" er en økonomisk status for en opkrævning, der markerer, at det forfaldne beløb for deltagerbetaling eller gebyrer endnu ikke er registreret som modtaget.
+"ikke imødekommet" er et administrativt resultat af en sagsbehandling, der meddeler en ansøger, at anmodningen om en dispensation, rettighed eller studieplads er blevet afslået.
+"ikke indløst" er en systemstatus for en bevilget merit eller forhåndsgodkendelse, der indikerer, at rettigheden endnu ikke er blevet aktiveret i den studerendes aktuelle studieplan.
+"ikke indløst forhåndsgodkendelse af merit" er en specifik administrative tilstand, hvor et formelt tilsagn om meritoverførsel afventer dokumentation for gennemførelse eller aktiv indløsning fra den studerende.
+"ikke mødt op" er en administrative registrering af en studerende, der er tilmeldt en prøvebegivenhed, men som udebliver uden gyldig dokumenteret grund.
+"ikke plads" er en specifik afvisningsårsag, der anvendes når en ansøger til et fagelement eller en uddannelse afvises som følge af, at den fastsatte deltagerkapacitet er nået.
+"imødekommet" er et administrativt resultat, der bekræfter, at en ansøgers anmodning om f.eks. dispensation, merit eller orlov is blevet formelt godkendt.
+"indberetning" er en strukturerer overførsel af data fra institutionens studiesystem til en ekstern myndighed eller database i overensstemmelse med gældende lovgivning.
+"indberetning af adgangskursister" er en lovpligtig datarapportering vedrørende studerende indskrevet på forberedende kurser (adgangskurser), der kvalificerer til optagelse på fagelementer eller uddannelser.
+"indberetning til Eksamensdatabasen" er en formel overførsel af prøve- og bevis data til Styrelsen for It og Lærings centrale register for afsluttede uddunder.
+"indberetning til Ungedatabasen" er en datarapportering til det centrale register over unges uddannelse og beskæftigelse, som anvendes til kommunal vejledning og opfølgning.
+"indberetningsinstruks" er et teknisk regelsæt udstedt af en myndighed, som definerer format, indhold og tidsfrister for en specifik lovpligtig datarapportering.
+"indberetningsmyndighed" er den statslige eller offentlige instans (f.eks. Danmarks Statistik eller ministeriet), som er modtager af og ansvarlig for behandlingen af indberettede data.
+"inddelingsbetegnelse" er en administrativ kategorisering, der anvendes i systemet til at gruppere studerende in mindre enheder, såsom hold, årgange eller linjer.
+"individuel prøve" er en eksamensform, hvor den enkelte studerende bedømmes alene, uanset om opgaven er løst in en gruppe, og hvor præstationen vurderes uafhængigt af andre.
+"individuelle praktiske forhold" er en administrative registrering af specifikke fysiske eller logistiske krav (f.eks. hjælpemidler eller adgangsforhold), som skal imødekommes for en studerende ved undervisning eller prøver.
+"indløsningsstatus" er en systemmæssig indikator, der viser fremdriften in anvendelsen af en bevilget meritrettighed, fra "bevilget" til "fuldt indløst".
+"indløst" er en systemstatus for en merit- eller forhåndsgodkendelse, der markerer, at de godskrevne uddannelseselementer nu formelt erstatter dele af den studerendes aktulle forløb.
+"indløst forhåndsgodkendelse af merit" er en administrative handling, hvor et tidligere tilsagn om meritoverførsel effektueres endeligt efter modtagelse af dokumentation for beståelse af det eksterne element.
+"indplacering i studieforløb" er en administrativ afgørelse, der fastlægger en studerendes præprecise startpunkt eller semestermæssige placering in en studieordning på baggrund af merit eller tidligere uddannelse.
+"indrejsende udvekslingsstuderende" er en personkategorisering for en studerende fra en udenlandsk partnerinstitution, som gennemfører et tidsbegrænset studieophold ved institutionen under en formel udvekslingsaftale.
+"indrejsenominering" er en formel administrativ registrering af en udvekslingsstuderende fra en partnerinstitution, der markerer studieværtens foreløbige accept af den studerendes kandidatur.
+"indskrivning" er en formel administrativ status, der bekræfter en persons juridiske tilknytning til en uddannelse og medfører ret til deltagelse in undervisning og prøver.
+"indskrivning til adgangskursus" er en specifik indskrivningstype, der giver adgang til forberedende forløb frem mod tekniske eller naturvidenskabelige uddannelser.
+"indskrivning til enkeltfag fra deltidsuddannelse" er en indskrivningsform, hvor en person registreres på specifikke moduler under lov om åben uddannelse uden at følge en samlet hel uddannelse.
+"indskrivning til fagspecifikke kurser" er en administrativ registrering på kortere, specialiserede efteruddannelsesforløb rettet mod professionelle.
+"indskrivningsfinansiering" er en budgetmæssig kategorisering, der definerer kilden til dækning af omkostningerne for en studerendes uddannelsesplads.
+"indskrivningsform" er en systemkategorisering, der angiver karakteren af den studerendes optagelse, f.eks. ordinær optagelse eller gæstestuderende.
+"indskrivningsperiode" er et tidsrum, der definerer den samlede varighed af en studerendes aktive relation til en specifik uddannelse.
+"indskrivningsperiode, start" er en tidsangivelse, der markerer den præcise dato for påbegyndelsen af en studerendes administrative tilknytning til en uddannelse.
+"indskrivningsstatus" er en systemtilstand, der angiver the aktuelle fase af en studerendes tilknytning, såsom "aktiv", "orlov" eller "afsluttet".
+"indskrivningstype" er en administrativ kategorisering, der definerer rammen for den studerendes forløb, såsom bachelor, kandidat eller ph.d.
+"INNO, rekvirent" er en rekvirentkode, der identificerer studerende eller projekter, som er finansieret via Innovationsfonden eller lignende innovationsfremmende midler.
+"institutionsaftale" er en formel, skriftlig aftale mellem to uddannelsesinstitutioner, der regulerer rammerne for samarbejde, herunder udveksling af studerende.
+"intern bedømmelse" er en evalueringsform, hvor prøven alene vurderes af bedømmerne ansat ved institutionen uden medvirken af en ekstern beskikket censor.
+"international institutionsregisterkode" er en unik kode, der anvendes til entydig identifikation af udenlandske uddannelsesinstitutioner i studiesystemet.
+"internationalisering" er en administrativ samlebetegnelse for aktiviteter relateret til studerendes og ansattes mobilitet på tværs af landegrænser.
+"internationaliseringstilskud" er en statslig finansiel tildeling, der ydes til dækning af omkostninger ved international udveksling og samarbejdsaftaler.
+"kandidatgrad" er en akademisk grad, der tildeles som bevis for gennemførelse af en kandidatuddannelse på niveau 7 i den danske kvalifikationsramme.
+"kandidatspeciale" er en større selvstændig skriftlig afhandling, der udgør det afsluttende og kvalificerende element i en kandidatuddannelse.
+"kandidatuddannelse" er en forskningsbaseret videregående uddannelse, der er normeret til 120 ECTS-point og bygger oven på en bacheloruddannelse.
+"kandidatuddannelse erasmus mundus joint master" er et internationalt integreret studieprogram på kandidatniveau, der udbydes in et konsortium af mindst tre europæiske uddannelsesinstitutioner.
+"kandidatuddannelse erhvervskandidat" er en kandidatuddannelse tilrettelagt som et deltidsforløb over typisk fire år, der kombineres med relevant erhvervsbeskæftigelse.
+"karakter" er et bedømmelsesresultat, der udtrykker en kvalitativ vurdering af en studerendes præstation in en prøve baseret på en fastsat skala.
+"karakterbeskrivelse" er en tekstlig redegørelse, der definerer det faglige præstationsniveau for hvert enkelt trin i en karakterskala.
+"karaktergennemsnit" er en numerisk værdi, der repræsenterer det vægtede eller uvejede gennemsnit af en studerendes opnåede karakterer i et forløb.
+"karakterskala" er et fastlagt system af værdier, såsom 7-trinsskalaen, der anvendes til at kvantificere bedømmelsen af uddannelsespræstationer.
+"karaktervægt" er en numerisk faktor, der definerer den relative betydning af et prøveresultat i beregningen af et samlet gennemsnit eller slutresultat.
+"karantæne" er en disciplinær sanktion, der midlertidigt fratager en studerende retten til at deltage i undervisning, prøver eller opholde sig på institutionens område.
+"klage" er en formel henvendelse, hvor en ansøger eller studerende anmoder om omstødelse eller ændring af en administrative eller faglig afgørelse.
+"kode" er en kortfattet, unik identifikation af et objekt i systemet, der anvendes til teknisk styring og databehandling.
+"kode fra institutionsregister" er en officiel administrative kode, der identificerer en uddannelsesinstitution i det nationale register over uddannelsesudbydere.
+"kodebilag" er et underdokument til en studieordning eller bevis, der indeholder forklaringer på anvendte tekniske koder og forkortelser.
+"kombinationsuddannelse" er et uddannelsesforløb, der er sammensat af fagelementer fra to eller flere forskellige fagområder, ofte som hovedfag og sidefag.
+"kommende studerende" er en personstatus for en ansøger, der har fået tilbudt og accepteret en studieplads, men som endnu ikke har påbegyndt selve uddannelsen.
+"kompenserende støtte" er en mængde pædagogiske eller tekniske hjælpemidler (SPS), der ydes til studerende med funktionsnedsættelser for at sikre ligestilling i uddannelsesforløbet.
+"kompetenceprofil" er en samlet beskrivelse af de viden, færdigheder og kompetencer, som en studerende opnår ved fuldførelse af en uddannelse.
+"kompetenceprofil, dansk" er den officielle beskrivelse af en uddannelses læringsudbytte affattet på det danske sprog.
+"kompetenceprofil, engelsk" er den officielle beskrivelse af en uddannelses læringsudbytte affattet på det engelske sprog til brug i Diploma Supplement.
+"konstituerende" er en administrative egenskab ved et fagelement, der markerer, at kurset er obligatorisk for at definere uddannelsens faglige identitet og opnå graden.
+"konstituerende fagelement" er et specifikt kursus eller modul, som ifølge studieordningens skal bestås for at opnå en bestemt akademisk titel eller grad.
+"kontaktemail" er en personlig eller administrative mailadresse, der anvendes til officiel korrespondance mellem institutionen og studerende/ansatte.
+"kontaktnavn" er navnet på den person eller enhed, der fungerer som primær reference i en sag eller ved et eksternt ophold.
+"korte kurser" er en kategorisering af undervisningsforløb med begrænset varighed og ECTS-omfang, typisk udbudt som efteruddannelse.
+"KOT-indberetning" er en lovpligtig datarapportering til Den Koordinerede Tilmelding vedrørende optagelsestal og ansøger data.
+"krav om opnåede ECTS-point" er en administrativ regel, der definerer det minimumsantal point, en studerende skal have bestået for at opretholde sin indskrivning eller opnå en specifik rettighed.
+"krediteret" er en systemmæssig status, der angiver, at et uddannelseselement formelt er anerkendt og talt med i den studerendes samlede ECTS-regnskab.
+"kræver deltagerbetaling" er en systemmæssig markering af en uddannelsesaktivitet, der indikerer, at deltagelse forudsætninger betaling af et fastsat beløb.
+"kræver valg af studieforløb" er en administrative betingelse, der forpligter den studerende til formelt at vælge en specifik specialisering eller linje inden for en uddannelsesramme.
+"kurser som indtægtsdækket virksomhed" er en økonomisk kategorisering af undervisningsudbud, der afvikles på kommercielle vilkår uden ordinært statsligt tilskud.
+"kursus" er en afgrænset undervisningsenhed, der udgør en del af et uddannelsesforløb og som afsluttes med en bedømmelse.
+"kursusansvarlig" er en organisatorisk person, der har det overordnede faglige og administrative ansvar for planlægning og afvikling af et specifikt kursus.
+"kursustilmelding" er en administrative handling, hvor en studerende registrerer sig til deltagelse i et specifikt undervisningsforløb.
+"kvote 1" er en optagelsesmekanisme til videregående uddannelser, hvor ansøgere udelukkende rangeres på baggrund af deres karaktergennemsnit fra den adgangsgivende eksamen.
+"kvote 2" er en optagelsesmekanisme, hvor ansøgere vurderes på en kombination af karakterer og andre kvalifikationer såsom erhvervserfaring eller motiverede ansøgninger.
+"køn" er en personidentifikator, der anvendes til statistisk kategorisering og identifikation af studerende og ansatte.
+"laboratorieansvarlig" er en organisatorisk person, der har ansvaret for sikkerhed, udstyr og drift af et specifikt laboratoriemiljø anvendt til undervisning eller forskning.
+"land" er en geografisk identifikation, der anvendes til at registrere statsborgerskab, fødested eller placering af uddannelsesinstitutioner.
+"landekode" er en international standardkode, der anvendes til entydig systemmæssig identifikation af en nationalstat.
+"latinsk udannelsesbetegnelse hankøn" er den officielle akademiske titel affattet på latin i hankønsform.
+"latinsk uddannelsesbetegnelse, hunkøn" er den officielle akademiske titel affattet på latin i hunkønsform.
+"learning agreement" er et formelt juridisk dokument mellem studerende, hjeminstitution og modtagerinstitution, der fastlægger de faglige rammer og meritgarantien for et udvekslingsophold.
+"lokationsnavn" er en beskrivende tekst, der identificerer en specifik fysisk placering, såsom et bygningsnavn eller et auditorium.
+"lukket pga. optag på højere prioritet" er en processtatus for en ansøgning, der markerer, at pladsen er annulleret, fordi ansøgeren har fået tilbudt optagelse på en uddannelse med højere prioritet.
+"læringsaftale" (Se learning agreement).
+"læringsaktivitet" er en planlagt pædagogisk hændelse, såsom en forelæsning, workshop eller øvelse, der har til formål at understøtte de opstillede læringsmål.
+"læringsaktivitet udbudssted" er den specifikke geografiske eller organisatoriske lokation, hvor en undervisningsaktivitet finder sted.
+"læringsaktivitetsbeskrivelse" er en tekstlig redegørelse, der definerer indhold, metode og mål for en specifik undervisningsaktivitet.
+"læringsaktivitetsnavn" er en tekstlig identifikation, der repræsenterer den officielle betegnelse for en planlagt undervisningshændelse i studiesystemet.
+"læringsaktivitetsperiode" er en tidsmæssig afgrænsning, der definerer start- og slutdatoen for gyldigheden eller afviklingen af en specifik undervisningsaktivitet.
+"læringsaktivitetstype" er en administrative kategorisering, der definerer arten af en pædagogisk hændelse, såsom hhv. "forelæsning", "workshop" eller "øvelser".
+"læringsaktivitetsvarighed" er en numerisk angivelse af det tidsmæssige omfang af en undervisningsaktivitet, ofte beregnet i klokketimer eller minutter.
+"læringsudbytte" er en formel beskrivelse af de viden, færdigheder og kompetencer, som en studerende skal opnå gennem deltagelse i et fagelement.
+"løbende prøve" er en evalueringsform, hvor bedømmelsen er baseret på flere delaktiviteter eller besvarelser afgivet gennem hele undervisningsforløbet.
+"maksimal studietid" er en administrative tidsgrænse, der fastlægger den yderste ramme for gennemførelse af et uddannelsesforløb før tvungen udmeldelse.
+"maksimal størrelse på eksamensgruppe" er en administrative regel, der definerer det højeste tilladte antal studerende, som må tilmeldes en fælles prøvebegivenhed.
+"manglende aflevering" er en administrative status, der markerer udeblivelse fra en bunden skriftlig opgave og som normalt tæller som et brugt prøveforsøg.
+"manglende betaling" er en administrative status, der indikerer, at en opkrævet deltagerbetaling eller et ansøgningsgebyr ikke is registreret inden for den fastsatte tidsfrist.
+"manglende dokumentation" er en administrative mangel, der angiver, at påkrævede bilag eller beviser ikke er indsendt af ansøgeren eller den studerende.
+"manglende kvalifikationer" er en afvisningsårsag, der anvendes når en ansøger ikke lever op til de specifikke eller generelle adgangskrav for en uddannelse.
+"manglende studieplads" er en afvisningsårsag i adgangsbegrænsede forløb, hvor en ansøger er kvalificeret, men ikke kan tilbydes plads pga. dimensionering.
+"masterniveau" er en betegnelse for uddannelser placeret på niveau 7 i den danske kvalifikationsramme tilrettelagt som efter- og videreuddannelse.
+"masterprojekt" er en faglig afhandling, der udgør det afsluttende meritgivende element i en masteruddannelse.
+"masteruddannelse" er en forskningsbaseret videregående uddannelse på niveau 7, som typisk kræver mindst to års erhvervserfaring efter en adgangsgivende bachelorgrad.
+"med retskrav" er en optagelsesstatus, der tilkendes ansøgere med lovmæssig ret til en studieplads på en overbygningsuddannelse (bachelor til kandidat).
+"medarbejder" er en personkategorisering for et individ, der har en ansættelseskontrakt med institutionen til udførelse af faglige eller administrative funktioner.
+"medbedømmer" er en person, der er udpeget til at foretage en bedømmelse i samarbejde med en hovedeksaminator eller en anden censor.
+"medtages på bevis" er en boolsk systemegenskab, der styrer, om et specifikt resultat eller uddannelseselement skal printes på det endelige eksamensbevis.
+"medunderviser" er en personrolle, der bistår den kursusansvarlige eller hovedunderviseren med planlægning og afvikling af undervisningsaktiviteter i et fagelement.
+"mellemnavne" er en personidentifikator, der omfatter de navne, som en person formelt bærer mellem fornavnet og efternavnet i overensstemmelse med de officielle registre.
+"mentor" er en personrolle, der er udpeget til at yde støtte og vejledning til en studerende, ofte i forbindelse med særlige behov, karriereafklaring eller projektorienterede forløb.
+"merit" er en godskrivning, hvor tidligere beståede uddannelseselementer erstatter dele af et aktuelt uddannelsesforløb.
+"meritansøgningsnummer" er en unik systemidentifikation, der tildeles en konkret saga vedrørende godskrivning af tidligere uddannelseselementer for at sikre sporbarhed.
+"meritECTS-point" er en numerisk værdi, der angiver det omfang af arbejdsbelastning, som en studerende får godskrevet på baggrund af tidligere beståede uddannelseselementer.
+"meritkarakter" er et bedømmelsesresultat, der overføres fra et tidligere bestået uddannelseselement til den studerendes aktuelle profil, eventuelt efter en karaktermæssig fortolkning.
+"meritresultat" er en administrativ systemstatus, der dokumenterer udfaldet af en meritvurdering, herunder om det eksterne fagelement anerkendes som bestået eller godkendt i den studerendes aktuelle studieordning.
+"meritsidefagsstuderende" er en personkategorisering for en studerende, der er indskrevet med henblik på at gennemføre et sidefag eller tilvalg baseret på merit fra en anden uddannelsesinstitution.
+"meritstuderende" er en personkategorisering for en person, der følger fagelementer ved institutionen med det formål at få disse overført til en uddannelse ved en anden institution (f.eks. som gæstestuderende).
+"merittilvalgsstuderende" er en personkategorisering for en studerende, der gennemfører valgfrie elementer baseret på meritoverførsel fra et eksternt forløb.
+"merittype" er en administrative kategorisering, der definerer arten af en godskrivning, såsom hhv. "førstartmerit", "delmerit" eller "omfangsmerit".
+"midlertidigt bortvist" er en sanktionsstatus, der markerer, at en studerende i en tidsbegrænset periode er udelukket fra undervisning, prøver og adgang til institutionens faciliteter som følge af et disciplinært regelbrud.
+"modtaget" er en processtatus, der bekræfter, at en ansøgning, opgave eller administrativ anmodning er blevet registreret i studiesystemet og nu afventer videre behandling.
+"mulige indskrivningsmåder" er en systemkonfiguration, der definerer de tekniske og administrative veje (f.eks. hhv. "ordinær optag", "genindskrivning" eller "overflytning"), som en person kan benytte til at opnå status som studerende på en given uddannelse.
+"mundtlig prøve" er en prøveform, hvor bedømmelsen af den studerendes præstation sker på baggrund af en direkte mundtlig dialog mellem den studerende og bedømmerne.
+"nationalitet" er en personidentifikator, der angiver personens statsborgerskab til brug for statistik, adgangskontrol og vurdering af ret til finansiering.
+"naturvidenskab" er et videnskabeligt hovedområde, der omfatter studiet af de fysiske lave, naturen og det universelle gennem observation og eksperimenter.
+"navn fra institutionsregister" er en navneform, der repræsenterer den officielle betegnelse for en uddannelsesudbyder, som den er registreret i de statslige registre.
+"navn på adgangsgivende eksamen" er en tekstlig identifikation, der angiver den præcise titel på det uddannelsesforløb, som danner det formelle fundament for en ansøgers optagelse.
+"navn på merit" er den officielle betegnelse for en bevilget godskrivning, som anvendes til identifikation i den studerendes meritopgørelse.
+"navn på meritteret fagelement" er den tekstlige identifikation af det kursus eller modul fra en anden institution, som indgår i en meritoverførsel.
+"navn på optagelsesperiode" er en tekstlig angivelse, der identificerer den specifikke ansøgningsrunde (f.eks. hhv. "Vinteroptag 2025").
+"navn på organisatorisk enhed" er den officielle administrative betegnelse for en underafdeling af universitetet, såsom et institut eller center.
+"navn på prøveemne" er en tekstlig identifikation, der angiver det præcise faglige tema eller den opgaveformulering, som en studerende eksamineres i.
+"navn på udbudt enkeltfag" er den officielle titel på et fagelement, når det præsenteres som et selvstændigt efter uddannelsestilbud.
+"navne og adressebeskyttelse" er en administrative status, der markerer, at en persons identitets data er underlagt fortrolighed grundet registrering i Det Centrale Personregister (CPR).
+"nedsat studieaktivitet" er en administrative tilstand, hvor en studerende efter ansøgning har fået tilladelse til at følge et studieprogram med færre ECTS-point end den normale normering (typisk under 30 ECTS pr. semester).
+"niveau 5" er en uddannelsesmæssig klassificering i den danske kvalifikationsramme, der dækker over korte videregående uddannelser (erhvervsakademiuddannelser).
+"niveau 6" er en uddannelsesmæssig klassificering i den danske kvalifikationsramme, der dækker over uddannelser på bachelorniveau, herunder professionsbachelor og diplomuddannelser.
+"niveau 7" er en uddannelsesmæssig klassificering i den danske kvalifikationsramme, der dækker over uddannelser på kandidat- og masterniveau.
+"niveau 8" er en uddannelsesmæssig klassificering i den danske kvalifikationsramme, der dækker over forskeruddannelser (ph.d.-niveau).
+"Nordplus program" er et nordisk uddannelsessamarbejde, der yder økonomisk støtte til mobilitet for studerende og undervisere mellem uddannelsesinstitutioner i Norden og de baltiske lande.
+"normeret studietid" er den tidsmæssige varighed, som en uddannelse er fastsat til at vare ved fuldtidsstudieaktivitet (f.eks. 3 år for en bacheloruddannelse).
+"obligatorisk fagelement" er et specifikt kursus eller modul i en studieordning, som den studerende er forpligtet til at gennemføre og bestå for at opnå sin grad.
+"ombedømmelse" er en administrativ og faglig proces, hvor en studerendes prøvepræstation vurderes på ny af nye bedømmere som konsekvens af en imødekommet klage.
+"omfangskrav" er en administrative regel, der definerer det samlede antal ECTS-point, der skal være opnået inden for en defineret del af uddannelsen (f.eks. valgfagspuljen).
+"omfangsmerit" er en godskrivning, hvor tidligere beståede uddannelseselementer arknereres som en samlet erstatning for et defineret antal ECTS-point uden nødvendigvis at svare til specifikke fagelementer.
+"omgænger" er en personkategorisering for en studerende, der påbegynder det samme uddannelseselement eller semester igen efter et tidligere ikke-bestået forsøg.
+"omprøve" er en prøvebegivenhed, der udbydes til studerende, som ikke bestod den ordinære prøve eller var lovligt forhindret i at deltage (sygeeksamen).
+"opgavetitel" er en tekstlig identifikation af emnet for en skriftlig prøve eller et projekt, som det fremgår på det endelige bevis.
+"opgørelsesperiode" er et tidsrum anvendt til administrativ eller økonomisk afstemning af studieaktivitet (f.eks. STÅ-produktion).
+"opgørelsesperiode længde" er en numerisk værdi, der angiver varigheden af en opgørelsesperiode i dage, måneder eller år.
+"opholdstilladelse" er et officielt dokument udstedt af myndighederne, der giver en udenlandsk statsborger ret til at opholde sig i Danmark med henblik på uddannelse.
+"opkrævet" er en økonomisk status for et beløb, der formelt er faktureret til en studerende eller rekvirent, men som endnu ikke nødvendigvis er betalt.
+"oplysninger om organisatoriske enheder" er en samling af stamdata, der beskriver institutionens interne struktur, herunder afdelinger, institutter og fakulteter.
+"opnåede ECTS-point" er en numerisk værdi, der repræsenterer den samlede mængde bestået studieaktivitet for en studerende.
+"optagelse afventer behandling" er en systemstatus, der indikerer, at en ansøgning om optagelse er modtaget, men endnu ikke sagsbehandlet af administrationen.
+"optagelse afventer pladsfordeling" er en processtatus for en kvalificeret ansøger i et adgangsbegrænset forløb, hvor den endelige tildeling af studieplads afhænger af en samlet rangering.
+"optagelsesansvarlig" er en organisatorisk person eller enhed, der har bemyndigelse til at træffe afgørelse om optagelse på en uddannelse.
+"optagelsesdispensationsansøgning" er en formel anmodning om fravigelse af de ordinære optagelseskrav baseret på individuelle forhold.
+"optagelseskode" er en systemidentifikator, der entydigt definerer en specifik optagelsesrunde eller adgangsvej.
+"optagelsesperiode" er et tidsmæssigt interval, hvori ansøgninger om optagelse til en uddannelse kan indsendes og behandles.
+"optagelsesprøve" er en selektionsaktivitet anvendt til at vurdere en ansøgers egnethed til en uddannelse som supplement til karaktergennemsnit.
+"optagelsesregel" er en administrativ bestemmelse, der fastlægger kriterierne for prioritering og udvælgelse af ansøgere til en uddannelse.
+"optagelsesstatus" er en systemmæssig tilstand, der angiver ansøgerens aktuelle position i optagelsesforløbet (f.eks. "tilbudt optagelse" eller "afvist").
+"optaget" er en administrativ status, der bekræfter, at en ansøger formelt har fået tildelt og accepteret en studieplads.
+"ordinær prøve" er den først planlagte eksamensafvikling i et fagelement in tilknytning til undervisningsforløbets afslutning.
+"ordinær studerende" er en personkategorisering for en studerende, der følger et statsfinansieret uddannelsesforløb i det ordinære uddannelsessystem (ikke efteruddannelse).
+"ordinært uddannelsessystem" er den del af uddannelsessektoren, der omfatter de primære fuldtidsuddannelser finansieret af staten.
+"organisation" er en overordnet juridisk eller administrativ entitet, der danner rammen om uddannelses- og forskningsaktiviteter.
+"organisationNavn" er en tekstlig identifikation, der repræsenterer den officielle betegnelse for en organisation i systemet.
+"organisatorisk enhed" er en administrativ underinddeling af en organisation, såsom et fakultet eller institut, der varetager specifikke opgaver.
+"organisatorisk enheds ansvarsrolle" er en systemmæssig kobling, der definerer en specifik enheds formelle forpligtelser og beføjelser i forhold til et fagelement eller en uddannelse.
+"organisatorisk enheds navn" er den tekstlige betegnelse for en specifik administrativ underinddeling inden for organisationens struktur.
+"organisatorisk person" er en medarbejder eller ekstern person tilknyttet en organisation, der varetager specifikke faglige eller administrative funktioner.
+"organisatorisk persons ansvarsrolle" er en identifikation af en medarbejders eller persons formelle opgaver og beføjelser inden for en administrativ eller faglig proces.
+"orlov" er en administrative tilstand, hvor en studerende er midlertidigt fritaget fra studieaktivitet og deltagelse i prøver uden at miste sin indskrivning.
+"orlovsperiode" er et tidsrum, der definerer den præcise start- og slutdato for en studerendes bevilgede orlov fra studiet.
+"orlovsårsag" er en systemkategorisering, der identificerer den formelle grund til en studerendes midlertidige afbrydelse af studiet, såsom hhv. "sygdom", "barsel" eller "værnepligt".
+"overflytning" er en administrative proces, hvor en studerende skifter fra en uddannelse til en anden ved samme eller en anden institution med meritoverførsel af hidtil beståede elementer.
+"overgangsbestemmelse" er en administrative regel, der fastlægger de særlige vilkår og tidsfrister for studerende, der skifter fra en ældre til en nyere studieordning.
+"overlappende faglighed" er en administrative vurdering af, at det faglige indhold i to fagelementer er så identisk, at de ikke begge kan tælle med i opgørelsen af det samlede ECTS-omfang for samme uddannelse.
+"overordnet fagelementgrupperingskode" er en teknisk identifikation, der knytter en samling af kurser til et højere hierarkisk niveau i studieordningens struktur.
+"overskredet afleveringsfrist" er en administrative status, der indikerer, at en bunden skriftlig opgave er registreret som modtaget efter det fastsatte tidspunkt, hvilket typisk medfører afvisning af bedømmelsen.
+"overskredet ansøgningsfrist" er en administrative status, der markerer, at en ansøgning om optagelse eller dispensation er indsendt efter udløbet af den officielle frist.
+"overskredet frameldingsdato" er en systemstatus, der indikerer, at tidsfristen for at annullere en tilmelding til et fagelement eller en prøve uden administrative konsekvenser er passeret.
+"overskredet frameldingsfrist" (Se overskredet frameldingsdato).
+"overskredet tilmeldingsfrist" er en administrative status, der markerer, at en studerende har forsøgt at registrere sig til en undervisnings- eller prøveaktivitet efter den officielle deadline.
+"paralleluddannelse" er et uddannelsesforløb, som en person gennemfører sideløbende med en anden aktiv indskrivning ved samme eller en anden institution.
+"partnerinstitution" er en uddannelsesinstitution, der har indgået en formel samarbejdsaftale med institutionen om udveksling af studerende eller forskningssamarbejde.
+"periode for udvekslingsaftale" er en tidsmæssig afgrænsning, der definerer varigheden af en formel aftale mellem to institutioner om mobilitet.
+"permanent bortvist" er en sanktionsstatus, der markerer et definitivt ophør af en studerendes ret til indskrivning og adgang til institutionen grundet alvorlige regelbrud.
+"permanent prøvedispensationstype" er en kategorisering af en undtagelse fra ordinære prøvevilkår, der er gældende for hele studietiden pga. kroniske lidelser eller funktionsnedsættelser.
+"person" er en entitet i systemet, der repræsenterer et unikt individ med tilhørende stamdata og rettigheder.
+"person uden CPR" er en administrative status for en person, der endnu ikke har fået tildelt et dansk personnummer, typisk anvendt til udenlandske ansøgere.
+"personlig andel" er en numerisk værdi, der angiver den studerendes egenbetaling i forhold til de samlede omkostninger for en uddannelsesaktivitet.
+"personlig fagelementstatus" er en individuel systemtilstand for et kursus i en studerendes forløb, såsom hhv. "tilmeldt", "bestået" eller "meritoverført".
+"personlig feedback" er en faglig tilbagemelding, der er målrettet den enkelte studerendes præstation in en prøve eller undervisningsaktivitet.
+"personlig forløbsprøve" er en individuelt tilrettelagt evaluering, der indgår som en del af den studerendes samlede karakter i et fagelement.
+"personlig læringsaktivitet" er en undervisningshændelse, som er tilrettelagt specifikt for eller valgt af den enkelte studerende.
+"personlig prøve" er en eksamensform, hvor bedømmelsen udelukkende hviler på den enkelte studerendes egen præstation.
+"personlig prøvebegivenhed" er en konkret administrative instans af en eksamen, som er knyttet til en specifik studerende i prøveplanen.
+"personligt enkeltfagsforløb" er en sammensætning af individuelle fagelementer, som en studerende følger uden for en samlet uddannelsesramme.
+"personligt fagelement" er en konkret systempost, der repræsenterer et fagelement i relation til en specifik studerendes studieplan.
+"personligt skema" er en tidsmæssig oversigt over de undervisnings- og eksamensaktiviteter, som en specifik studerende er tilmeldt.
+"personligt studieforløb" er en individuel plan, der beskriver rækkefølgen og timingen af de uddannelseselementer, som en studerende gennemfører.
+"personnummer" er en unik identifikationskode tildelt af Det Centrale Personregister (CPR), der anvendes til entydig identifikation af individer i systemet.
+"ph.d.-grad" er en akademisk grad på højeste niveau (niveau 8), der tildeles efter gennemførelse af en forskeruddannelse og forsvar af en afhandling.
+"ph.d.-uddannelse" er et forskningsbaseret uddannelsesforløb, der normalt er normeret til tre års fuldtidsstudier og sigter mod erhvervelse af kompetencer til selvstændig forskning.
+"pladsfordeling" er en administrative proces i adgangsbegrænsede udbud, hvor studiepladser tildeles ansøgere baseret på prioritering og rangering.
+"planlægningsregel" er en forretningsregel i systemet, der fastlægger de logistiske og tidsmæssige rammer for afvikling af undervisning og prøver.
+"praktik" er et uddannelseselement, hvor den studerende opnår praktiske kompetencer gennem tilknytning til en ekstern arbejdsplads.
+"praktik i udlandet" er et praktikforløb, der gennemføres ved en virksomhed eller institution placeret uden for Danmarks grænser.
+"praktikophold" er en tidsmæssigt afgrænset periode, hvori en studerende udfører praktikaktiviteter hos en ekstern vært som led i uddannelsen.
+"praktikprogram" er en formel administrative ramme, der definerer læringsmål, indhold og evaluering for et specifikt praktikforløb.
+"praktisk prøve" er en bedømmelsesform, hvor den studerendes færdigheder og kompetencer vurderes på baggrund af den fysiske eller tekniske udførelse af en opgave.
+"praktiske forhold" er administrative data, der beskriver logistiske krav knyttet til afviklingen af en aktivitet.
+"primær anbefalet placering" er en systemmæssig angivelse af det semester eller den periode, hvor et fagelement ideelt set bør gennemføres.
+"prioriteret enkeltfag" er en ansøgers rangordning af ønskede kurser ved tilmelding til enkeltfagsundervisning.
+"prioriteret videregående uddannelse" er en ansøgers rækkefølge af uddannelsesønsker i den koordinerede tilmelding.
+"prioritering ved tilmelding" er en systematisk mekanisme anvendt til at fordele studerende på overbookede fagelementer eller hold.
+"pris" er en monetær værdi, der angiver afgiften for deltagelse i en uddannelsesaktivitet eller behandling af en ansøgning.
+"prisbeskrivelse" er en tekstlig redegørelse, der forklarer sammensætningen og vilkårene for en fastsat pris.
+"prisopgave" er en akademisk afhandling indsendt som besvarelse på et videnskabeligt spørgsmål med henblik på en officiel udmærkelse.
+"producerende ansvarlig" er den organisatoriske enhed, der forestår selve leveringen og gennemførelsen af undervisningen i et fagelement.
+"professionsbachelorgrad" er en akademisk grad (niveau 6), der tildeles efter gennemførelse af en professionsbacheloruddannelse.
+"professionsbachelor-uddannelse" er en videregående uddannelse på niveau 6, der kombinerer teori med erhvervsrettet praksis og praktik.
+"program" er en administrative ramme for en samling af uddannelsesaktiviteter (f.eks. hhv. "et mobilitetsprogram").
+"programaftale" er en formel aftale mellem institutionen og en ekstern part om driften af et specifikt uddannelsesprogram.
+"programnavn" er den officielle betegnelse for et uddannelses- eller udvekslingsprogram.
+"projektarbejde" er en pædagogisk arbejdsform, hvor studerende selvstændigt undersøger en faglig problemstilling.
+"projektopgave" er en skriftlig produktion, der dokumenterer resultaterne af et gennemført projektarbejde.
+"projektorienteret forløb" er et uddannelseselement, hvor en studerende løser faglige opgaver i en virksomhed med henblik på merit.
+"projektorienteret forløb i Danmark" er et projektorienteret ophold gennemført hos en dansk arbejdsgiver.
+"projektorienteret forløb i udlandet" er et projektorienteret ophold gennemført hos en arbejdsgiver uden for Danmark.
+"projektorienteret ophold" (Se projektorienteret forløb).
+"projektorienteret opholdsprogram" er den administrative ramme, der definerer reglerne for projektorienterede forløb.
+"propædeutik" er en forberedende undervisning, der giver de nødvendige forudsætninger for at påbegynde en uddannelse.
+"prøve" er en formel evalueringshændelse, der måler den studerendes opfyldelse af læringsmålene i et fagelement.
+"prøveaktivitet" er en konkret administrative instans af en prøve i studiesystemet, som danner rammen om tilmelding og bedømmelse.
+"prøveaktivitetsforsøg" er en systemmæssig registrering af en studerendes deltagelse i en prøveaktivitet til brug for forsøgstælling.
+"prøveaktivitetsnavn" er den tekstlige identifikation af en specifik prøvehændelse (ordinær/omprøve).
+"prøveaktivitetsnr" er en unik systemidentifikator for en konkret administrative instans af en prøveafvikling.
+"prøveaktivitetsresultat" er det formelle administrative udfald af en studerendes deltagelse i en prøveaktivitet.
+"prøveaktivitetstype" er en kategorisering af en prøvehændelse, såsom hhv. "ordinær prøve" eller "omprøve".
+"prøvebegivenhed" er en tids- og stedmæssigt fastlagt hændelse, hvor studerende eksamineres under definerede vilkår.
+"prøvebegivenhedsform" er en kategorisering af den praktiske ramme for eksamen, f.eks. hhv. "stedprøve" eller "hjemmeopgave".
+"prøvebegivenhedskode" er en unik systemidentifikator anvendt til logistisk styring af en eksamen.
+"prøvedispensationstype" er en kategorisering af bevilgede undtagelser fra de ordinære prøveregler, f.eks. hhv. "forlænget tid".
+"prøveemne" er det specifikke faglige tema eller den problemstilling, som en studerende eksamineres i.
+"prøveemnekode" er en administrativ kode, der knytter et prøveemne til systemets emnehierarki.
+"prøveform" er en overordnet kategorisering af evalueringsmetoden, f.eks. hhv. "mundtlig" eller "portfolio".
+"prøveforsøg" er en administrative rettighed til at deltage i bedømmelsen af et fagelement (normalt tre forsøg).
+"prøveforsøg uden prøveresultat" er en systemtilstand, der markerer et brugt forsøg pga. manglende aflevering eller udeblivelse.
+"prøveperiode" er et tidsrum i løbet af en termin, hvori institutionens eksaminer afvikles.
+"prøveresultat" er den formelle vurdering af en præstation, angivet som en karakter eller en status.
+"prøveresultatregel" er en forretningsregel i systemet, der definerer logikken for beregning eller sammensætning af resultater.
+"prøvetilmelding" er en administrative handling, hvor en studerende registreres til deltagelse i en prøveaktivitet.
+"prøvetype" er en overordnet kategorisering af bedømmelsen (intern/ekstern).
+"prøvevariant" er en systemmæssig udgave af en prøve i et fagelement med mindre administrative justeringer.
+"på venteliste" er en processtatus for en studerende eller ansøger, der indikerer, at vedkommende er kvalificeret, men afventer ledig kapacitet.
+"på venteliste betinget" er en processtatus, hvor optagelse på venteliste forudsætter efterfølgende opfyldelse af manglende krav.
+"rangering" er en systematisk prioritering af ansøgere til en uddannelse eller et fagelement baseret på objektive kriterier ved adgangsbegrænsning.
+"rekvirent" er en ekstern part, såsom en virksomhed eller myndighed, der bestiller og eventuelt finansierer uddannelsesaktiviteter.
+"rekvirent af undervisning" er den formelle ordregiver, der hæfter for betaling af deltagergebyrer i forbindelse med efteruddannelse.
+"relativ tidsplacering" er en systemmæssig angivelse af et fagelements placering i forhold til andre elementer.
+"retskrav" er en lovfæstet ret for en studerende til optagelse på en specifik kandidatuddannelse in umiddelbar forlængelse af en bacheloruddannelse.
+"Rigsarkivet" er den statslige myndighed, der modtager og bevarer historiske data fra institutionens studiesystem.
+"rækkefølge på bevis" er en systemmæssig prioritering, der definerer den orden, som fagelementer skal præsenteres i på det endelige eksamensbevis.
+"samarbejdsaftale" er et formelt juridisk dokument, der regulerer vilkårene for fælles aktiviteter mellem institutionen og en ekstern partner.
+"samarbejdskursus" er et fagelement, der planlægges og afvikles i et formelt samarbejde mellem to eller flere organisatoriske enheder eller institutioner.
+"sameksamination" er en prøveform, hvor to eller flere studerende eksamineres samtidigt i samme lokale, men hvor hver studerende modtager en individuel karakter.
+"samfundsvidenskab" er et videnskabeligt hovedområde, der omfatter studiet af samfundets strukturer, institutioner og menneskelig adfærd i sociale kontekster.
+"samlæsning" er en administrative tilrettelæggelse, hvor studerende fra forskellige uddannelser følger den samme undervisning i et fælles fagelement.
+"selvstuderende" er en personkategorisering for en studerende, der indstiller sig til prøve uden at have deltaget i den tilhørende ordinære undervisning.
+"sidefag" er en defineret samling af fagelementer fra et andet fagområde end hovedfaget, som indgår i en samlet uddannelse.
+"sidste udbudsdato" er en tidsangivelse, der markerer det definitive ophør af muligheden for at deltage i undervisning eller prøver i et fagelement.
+"skal gennemføres" er en administrative egenskab ved et fagelement, der markerer, at elementet udgør en obligatorisk del af studieforløbet.
+"skal opkræves deltagerbetaling" er en systemmæssig egenskab ved et udbud, der angiver, at deltagelse udløser en økonomisk opkrævning fra institutionen.
+"skala" er et ordnet sæt af diskrete værdier (f.eks. hhv. "7-trinsskalaen"), der anvendes til bedømmelse af præstationer.
+"skemagruppe" er en administrative planlægningsenhed, der grupperer fagelementer for at sikre tidsmæssig overlapfrihed i et studieforløb.
+"skemagruppe kode" er en unik systemidentifikator for en skemagruppe anvendt i planlægningsreglerne.
+"skriftlig prøve under tilsyn" er en prøvebegivenhed afviklet i institutionens lokaler, hvor en tilsynsvagt kontrollerer reglementeret adfærd.
+"slutdato for opholdsperiode" er en tidsangivelse, der markerer den officielle afslutning på en studerendes ophold ved en ekstern institution.
+"snyd" er en administrative kategorisering af uretmæssig adfærd ved prøver, der har til formål at omgå reglerne for bedømmelse.
+"specialekontrakt" er et formelt juridisk dokument indgået mellem den studerende, vejlederen og institutionen, som fastlægger rammerne for specialearbejdet.
+"specifikke adgangskrav" er en mængde faglige forudsætninger, såsom bestemte fag, der kræves ud over de generelle krav.
+"sprog" er en administrative angivelse af det sproglige medie for undervisning, prøver eller data.
+"sprogtest" er en evalueringsaktivitet anvendt til at dokumentere en ansøgers sproglige færdigheder som forudsætning for optagelse.
+"ST1-blanket" er en administrativ blanket, der anvendes i sagsbehandlingen af opholdstilladelser for studerende fra lande uden for EU/EØS.
+"standardforløb" er en pædagogisk og administrativ model, der fastlægger den ideelle rækkefølge og tidsmæssige placering af fagelementer i en uddannelse.
+"startdato for indskrivningen" er en tidsangivelse, der markerer den præcise dato for påbegyndelsen af en studerendes administrative tilknytning til en uddannelse.
+"startdato til udvekslingsophold" er en tidsangivelse, der markerer den officielle påbegyndelse af en studerendes mobilitetsperiode ved en partnerinstitution.
+"statens uddannelsesstøtte" er en offentlig finansiel ydelse (SU), der tildeles studerende til dækning af leveomkostninger under uddannelse.
+"statsborgerskab" er en personidentifikator, der angiver personens retlige tilhørsforhold til en stat, hvilket anvendes til vurdering af ret til støtte.
+"status for personligt fagelement" er en systemmæssig tilstand, der angiver den aktuelle fase for et specifikt kursus i den studerendes forløb, f.eks. "tilmeldt" eller "bestået".
+"status og akkreditering af uddannelsesinstitution" er en administrativ registrering, der dokumenterer en uddannelsesudbyders officielle godkendelse og kvalitetsstempel.
+"studerende" er en personkategorisering for et individ, der er formelt indskrevet ved institutionen med ret til at deltage i uddannelsesaktiviteter.
+"studerende med friplads" er en personkategorisering for en studerende fra et land uden for EU/EØS, der efter ansøgning er bevilget fritagelse for studieafgift.
+"studerende under aktivering" er en personkategorisering for en studerende, hvis uddannelsesforløb indgår som et led i en beskæftigelsesindsats finansieret af et jobcenter.
+"studerende under revalidering" er en personkategorisering for en studerende, der modtager særlig støtte til uddannelse som led i en erhvervsmæssig genoptræning.
+"studieadministrativ medarbejder" er en personrolle, der varetager administrative opgaver relateret til studerende, herunder optagelse, eksamen og bevisudstedelse.
+"studieafgift" er et monetært beløb (tuition fee), som studerende fra lande uden for EU/EØS er forpligtet til at betale for at deltage i en uddannelse.
+"studieaktivitet" er en målbar mængde uddannelsesarbejde gennemført af en studerende, typisk opgjort i ECTS-point eller via deltagelse i prøver.
+"studieaktivitetskrav" er en administrativ regel, der pålægger den studerende at bestå et minimum antal ECTS-point inden for en fastsat periode for at bevare sin indskrivning.
+"studieaktivitetskravstype" er en kategorisering af arten af aktivitetskrav, såsom hhv. "førsteårsprøven" eller "løbende studieaktivitet".
+"studiedispensationsansøgning" er en formel henvendelse, hvori en studerende anmoder om fravigelse fra reglerne i studieordningen grundet særlige forhold.
+"studieforholdsstadie" er en systemmæssig tilstand, der angiver, hvor langt en person er i det administrative forløb fra "ansøger" til "dimittend".
+"studieforløb" er den samlede række af uddannelseselementer og administrative hændelser, som en studerende gennemgår fra indskrivning til afslutning.
+"studieforløbfageelement" er en systempost, der repræsenterer et specifikt fagelement i relation til en studerendes individuelle studieplan.
+"studieforløbs gruppering af fagelement" er en mængde af kurser og moduler, der indgår i en specifik studerendes personlige studieplan.
+"studieforløbsdispensationstype" er en kategorisering af undtagelser fra de ordinære regler relateret til progression og sammensætning af et studieforløb.
+"studieforløbsperiode" er en tidsmæssig underinddeling af et studieforløb, typisk svarende til et semester eller et studieår.
+"studieforløbsperiode omfang" er den normerede mængde ECTS-point (f.eks. 30 eller 60), der skal optjenes i en specifik periode af forløbet.
+"studieforløbstype" er en administrativ kategorisering af forløbets ramme, såsom hhv. "heltid" eller "deltid".
+"studiefremdrift" er en måling af en studerendes faktiske progression i uddannelsen i forhold til den normerede studietid.
+"studieleder" er en personrolle med det overordnede ansvar for den faglige kvalitet, planlægning og udvikling af en eller flere uddannelser.
+"studienummer" er en unik identifikationskode tildelt en studerende ved indskrivning til brug for al intern administrativ registrering.
+"studienævn" er et kollegialt organ bestående af repræsentanter for undervisere og studerende, der har ansvaret for studieordninger og afgørelser i dispensationssager.
+"studieophold i Danmark" er et tidsbegrænset ophold, hvor en udenlandsk studerende gennemfører dele af sin uddannelse ved den danske institution.
+"studieordning" er et regelsæt, der fastlægger de specifikke krav, rammer og indhold for en bestemt uddannelse.
+"studieordningsbeskrivelse" er en formel tekstlig redegørelse for en uddannelses formål, struktur, indhold og eksamensregler.
+"studieordningshjemmel" er det juridiske grundlag, f.eks. en bekendtgørelse, som en specifik studieordning er udstedt med reference til.
+"studieordningsregel" er en bindende administrativ eller faglig bestemmelse fastsat i den gældende studieordning.
+"studieordningsregelnummer" er en unik identifikation af en specifik bestemmelse i regelsættet for en uddannelse.
+"studieordningsregeltype" er en kategorisering af arten af regler i en studieordning, såsom hhv. "adgangskrav", "beståregler" eller "overgangsbestemmelser".
+"studieoversigt" er en samlet administrativ præsentation af en studerendes hidtidige resultater og de resterende krav i uddannelsen.
+"studieplads" er en formel rettighed for en person til at være indskrevet på en uddannelse med dertilhørende ressourcer.
+"studiepladsfordeling" er en administrativ proces, hvor ledige studiepladser tildeles kvalificerede ansøgere baseret på prioritering og rangering.
+"studiepladskapacitet" er det maksimale antal studerende, som en uddannelse eller et hold er dimensioneret til at modtage i en given periode.
+"studiepladsventeliste" er en prioriteret rækkefølge af kvalificerede ansøgere, der kan tilbydes en ledig studieplads i tilfælde af afbud.
+"studieskift" er en administrativ proces, hvor en studerende skifter fra en uddannelse til en anden, enten internt på institutionen eller mellem institutioner.
+"studiestartsprøve" er en obligatorisk prøve afholdt kort efter studiestart med det formål at kontrollere, om den studerende er studieaktiv.
+"studietidsforkortende merit" er en godskrivning af tidligere resultater, der medfører en reduktion af den studerendes resterende tid frem mod dimission.
+"studietidstilskud" er en statslig finansiel bevilling til institutionen, der ydes på baggrund af antallet af aktive studerende.
+"studievejleder" er en personrolle, der yder rådgivning til studerende om studieplanlægning, trivsel og karrieremuligheder.
+"studieårsperiode" er det tidsrum, der udgør et fuldt akademisk år, typisk strækkende sig fra den 1. september til den 31. august.
+"studieårsstruktur" er en administrativ definition af, hvordan et studieår er opdelt i hhv. terminer, semestre, blokke og ferieperioder.
+"støttefag" er et fagelement fra et andet fagområde end hovedfaget, der indgår i uddannelsen for at understøtte den studerendes tværfaglige kompetencer.
+"STÅ" er en statistisk måleenhed (StudenterÅrsværk), der svarer til én studerendes gennemførelse af 60 ECTS-point.
+"STÅ-finansieret" er en finansieringsmodel, hvor institutionens tilskud beregnes på baggrund af den faktiske produktion af beståede ECTS-point.
+"SU-aktivitetskrav" er den mængde studieaktivitet (opgjort i ECTS), som en studerende skal dokumentere for at opretholde retten til Statens Uddannelsesstøtte.
+"sundhedsvidenskab" er et videnskabeligt hovedområde, der omfatter studiet af sundhed, sygdomme og medicinsk behandling hos mennesker og dyr.
+"supplerende merit" er en godskrivning, der tildeles en studerende for at opfylde specifikke faglige mangler i adgangsgrundlag til en kandidatuddannelse.
+"supplering" er en uddannelsesaktivitet, der har til formål at kvalificere en ansøger til optagelse på en specifik videregående uddannelse.
+"suppleringsindskrivning" er en tidsbegrænset administrativ indskrivning med det specifikke formål at gennemføre suppleringskurser.
+"suppleringsstuderende" er en personkategorisering for et individ, der gennemfører suppleringsaktiviteter forud for optagelse på et hovedstudium.
+"svar frist" er et tidsmæssigt punkt, der markerer den seneste dato for en ansøgers eller studerendes formelle tilbagemelding.
+"svarfrist" (Synonym for svar frist).
+"sygdom" er en gyldig fraværsårsag, der berettiger en studerende til dispensation fra tidsfrister eller eksamensforsøg.
+"sygemelding" er en formel administrativ meddelelse om uarbejdsdygtighed grundet helbredsmæssige forhold.
+"sygeprøve" er en prøveaktivitet tilrettelagt for studerende, der var lovligt forhindret i at deltage i den ordinære prøve grundet sygdom.
+"særlige hjælpemidler" er tekniske eller pædagogiske ressourcer bevilget til en studerende med funktionsnedsættelse.
+"særlige hjælpemidler tilladt" er en systemmæssig egenskab, der angiver, at studerende med bevilling må anvende specifikke værktøjer ved eksamen.
+"særlige praktiske forhold" er en administrativ registrering af individuelle logistiske behov ved undervisning eller prøver.
+"særlige prøvevilkår" er en administrativ ordning, der giver studerende med dokumenterede behov ret til modificerede eksamensrammer.
+"særskilt modul" er et fagelement, der er defineret som en uafhængig administrativ enhed.
+"talentstuderende" er en personkategorisering for en studerende, der deltager i specialiserede eliteforløb.
+"taxameterindplacering" er en administrativ kategorisering, der definerer den statslige tilskudssats for et udbud.
+"teknologi og ingeniørfag" er et videnskabeligt hovedområde fokuseret på konstruktion og teknologisk udvikling.
+"teologi" er et videnskabeligt hovedområde, der omfatter studiet af kristendommen og religion.
+"tidsgrænseregel" er en administrativ bestemmelse, der fastlægger den yderste tidsfrist for en opgave eller studieaktivitet.
+"tidsmæssig placering" er en systemmæssig angivelse af en aktivitets placering i den akademiske kalender.
+"tidsrum" er et interval defineret ved en start- og slutdato.
+"til faglig bedømmelse" er en processtatus for en eksamensbesvarelse overdraget til bedømmerne.
+"tilbud accepteret" er en processtatus for en ansøgning, hvor ansøgeren har bekræftet accept af en studieplads.
+"tilbud afslået" er en processtatus, hvor en ansøger formelt har takket nej til en studieplads.
+"tilbud afventer svar" er en processtatus, der markerer, at et optagelsestilbud er afsendt, men endnu ikke besvaret.
+"tilbud om studieplads på enkeltfag" er en administrative meddelelse om ret til indskrivning på et eller flere kursusmoduler.
+"tilbud om studieplads på videregående uddannelse" er en administrative meddelelse, der inviterer en ansøger til at lade sig indskrive på et fuldtidsstudium.
+"tilbudsstatus" er en systemmæssig tilstand, der angiver den aktuelle fase for et optagelsestilbud.
+"tilbudt betinget optagelse" er en processtatus, hvor tilsagn om plads forudsætter efterfølgende opfyldelse af krav.
+"tilbudt optagelse" er en administrative afgørelse, der meddeler en ansøger, at vedkommende er prioriteret til en studieplads.
+"tilladelse til ekstra ECTS-point" er en administrative dispensation til at tilmelde sig undervisning ud over den ordinære ECTS-begrænsning.
+"tilmelding afventer behandling" er en processtatus for en studerendes kursusønske, der endnu ikke er administrative bekræftet.
+"tilmelding til udbudt fagelement" er en administrative handling, hvor en studerende registreres som deltager i et kursus.
+"tilmeldingsafvisningsårsag" er en systemkategorisering af grunden til, at en kursustilmelding ikke er blevet imødekommet.
+"tilmeldingsdato" er tidspunktet for registreringen af en tilmelding i studiesystemet.
+"tilmeldingsperiode" er det tidsrum, hvori det er muligt for studerende at registrere sig til aktiviteter.
+"tilmeldingsprioritet" er en numerisk værdi anvendt til at fordele pladser ved overbookede aktiviteter.
+"tilmeldingsregel" er en administrativ bestemmelse, der fastlægger bindinger for studerendes kursusvalg.
+"tilmeldingsstatus" er en systemmæssig tilstand, der definerer den studerendes aktuelle relation til en aktivitet.
+"tilmeldingsårsag" er en kategorisering af den administrative baggrund for en tilmelding.
+"tilmeldt" er en administrative status, der bekræfter en studerendes ret og pligt til at deltage i en aktivitet.
+"tilmeldt betinget" er en administrative status, hvor deltagelse forudsætter efterfølgende verifikation af krav.
+"tilrettelagt på deltid" er en pædagogisk og administrative organiseringsform for en uddannelse med nedsat studieintensitet.
+"tilrettelæggelsesform" er en administrativ kategorisering af uddannelsens tidsmæssige struktur (heltid/deltid).
+"tilrettlagt på heltid" er en pædagogisk og administrative organiseringsform for en uddannelse på 60 ECTS pr. år.
+"tilskudsaftale" er et juridisk dokument, der fastlægger de økonomiske vilkår for ydelse af finansiel støtte.
+"tilskudsudløsende" er en administrative egenskab, der berettiger institutionen til udbetaling af offentlig finansiering.
+"tilsynsvagt" er en personrolle, der forestår den praktiske overvågning af en skriftlig stedprøve.
+"tilvalgsfag" er en samling af fagelementer uden for hovedfaget, der indgår i uddannelsen med henblik på faglig bredde.
+"timetalsindberetning" er en lovpligtig datarapportering af det faktiske antal afholdte undervisningstimer.
+"to-faglig uddannelse" er et uddannelsesforløb, der kombinerer to selvstændige fagområder.
+"tompladsstuderende" er en personkategorisering for en betalingsdeltager indskrevet på ledige pladser på en heltidsuddannelse.
+"top-up-uddannelse" er et overbygningsforløb, der fører en erhvervsakademiuddannelse op til en professions bachelorgrad.
+"type af afsluttende opgave" er en administrativ kategorisering af formatet for den endelige skriftlige produktion.
+"type af eksternt ophold" er en administrative kategorisering af karakteren af en studerendes mobilitetsperiode.
+"type af enkeltfagsindskrivning" er en administrative kategorisering af ordningen for modultilmelding.
+"type af fagelementdispensation" (Se fagelementdispensationstype).
+"type af optagelsesdispensation" er en kategorisering af undtagelser fra de ordinære adgangskrav.
+"type af permanent prøvedispensation" (Se permanent prøvedispensationstype).
+"type af prøvedispensation" er en kategorisering af undtagelser fra regler for prøveafvikling.
+"type af studieforløbsdispensation" er en kategorisering af undtagelser relateret til tidsfrister og progression.
+"type af uddannelsesindskrivning" er en overordnet administrative kategorisering af den studerendes tilknytningsform.
+"tysk" er en sproglig angivelse af, at undervisning eller data foreligger på det tyske sprog.
+"udbudsform" er en administrative kategorisering af metoden for undervisningens levering (f.eks. fysisk fremmøde).
+"udbudsfrekvens" er en administrativ angivelse af regelmæssigheden for udbuddet af et fagelement.
+"udbudshjemmel" er det retlige grundlag for at udbyde en specifik uddannelse eller aktivitet.
+"udbudshjemmelkode" er en unik systemidentifikator for den specifikke udbudshjemmel.
+"udbudsperiode" er den tidsmæssige ramme, hvori et kursus udbud eller en prøve afvikles.
+"udbudssted" er den geografiske eller organisatoriske lokation for uddannelsens gennemførelse.
+"udbudssted adresse" er den officielle geografiske adresse for et udbudssted.
+"udbudssted navn" er den officielle betegnelse for lokationen af et udbud.
+"udbudsstedkode" er en unik systemidentifikator for et udbudssted.
+"udbudt enkeltfag som supplering" er et kursus udbudt specifikt til opfyldelse af manglende adgangskrav.
+"udbudt enkeltfagskode" er en unik systemidentifikation for et kursus udbudt under åben uddannelse.
+"udbudt fagelement" er den konkrete administrative instans af et kursus i en given termin.
+"udbudt læringsaktivitet" er den konkrete administrative instans af en planlagt undervisningshændelse.
+"udbudt læringsaktivitetsansvarlig person" er den medarbejder, der har ansvaret for afviklingen af en specifik undervisningsbegivenhed.
+"udbudt prøve" er den konkrete administrative instans af en eksamen i en given termin.
+"udbudt prøveaktivitet" (Se udbudt prøve).
+"udbudt prøvebegivenhed" (Se udbudt prøve).
+"udbudt prøveform" er den specifikke evalueringsmetode fastlagt for en konkret udbudt prøve.
+"udbudt som enkeltfag" er en administrative markering af, at et fagelement er tilgængeligt for selvstændig tilmelding.
+"uddannelse" er en samlet administrativ og faglig ramme for et kvalificerende forløb defineret ved en studieordning.
+"uddannelsens navn" er den officielle administrative betegnelse for et uddannelsesforløb.
+"Uddannelses- og Forskningsministeriet" er den øverste statslige myndighed for de videregående uddannelser i Danmark.
+"uddannelsesansvarlig" er den organisatoriske enhed eller person med det formelle ansvar for en uddannelse.
+"uddannelsesbaggrund" er en samlet administrative registrering af en persons tidligere uddannelsesresultater.
+"uddannelsesbetegnelse" er den officielle titel, som uddannelsen fører til (f.eks. hhv. "Kandidat i Psykologi").
+"uddannelsesbetegnelse, dansk" er den officielle titel affattet på det danske sprog.
+"uddannelsesbetegnelse, engelsk" er den officielle titel affattet på det engelske sprog til brug i Diploma Supplement.
+"uddannelsescertifikat" (Se bevis).
+"uddannelsesdetaljer" er en mængde data, der beskriver en uddannelses specifikke rammer og egenskaber.
+"uddannelsesId" er en unik systemidentifikator, der entydigt repræsenterer en uddannelse i studiesystemets database.
+"uddannelsesinstitution" er en organisation, der er autoriseret til at udbyde og gennemføre formelle uddannelsesforløb.
+"uddannelsesinstitutions status og akkreditering" er en administrativ registrering af en institutions formelle godkendelse og kvalitetsstempling fra nationale myndigheder.
+"uddannelsesinstitutionsland" er en geografisk identifikation af det land, hvor en given uddannelsesinstitution er hjemmehørende.
+"uddannelsesinstitutionsnavn" er den officielle betegnelse for en uddannelsesudbyder.
+"uddannelseskaldenavn" er en uformel eller kortfattet betegnelse for en uddannelse, der anvendes til daglig identifikation.
+"uddannelseskode" er en unik administrativ systemidentifikator for et specifikt uddannelsesprogram.
+"uddannelsesniveau" er en klassificering af en uddannelses placering i den danske kvalifikationsramme for livslang læring.
+"uddannelsesniveau 7" (Se niveau 7).
+"uddannelsespause" er en administrativ tilstand, hvor en studerendes forløb midlertidigt afbrydes, f.eks. ved orlov eller sygdom.
+"uddannelsespause startdato" er den præcise tidsangivelse for påbegyndelsen af en afbrydelse i studieforløbet.
+"uddannelsespausetype" er en administrativ kategorisering af årsagen til en midlertidig studieafbrydelse.
+"uddannelsesprioritering" er en ansøgers rangordning af søgte uddannelser i forbindelse med optagelse.
+"uddannelsesstøtte" er en økonomisk ydelse, herunder SU eller stipendier, der tildeles studerende til dækning af leveomkostninger under uddannelse.
+"uddannelsessystem" er den samlede nationale struktur af formelle uddannelsestilbud (f.eks. det ordinære system eller efter- og videreuddannelsessystemet).
+"uddannelsestaxametertilskud" er en statslig finansiel bevilling til institutionen, der udløses pr. gennemført studieaktivitet (STÅ).
+"uddannelsestilskud" er en samlebetegnelse for offentlige eller private midler ydet til gennemførelse af uddannelsesaktiviteter.
+"uddannelsesterpe" (Typo for uddannelsestype). En administrative kategorisering af uddannelser (f.eks. hhv. "bachelor", "kandidat" eller "professionsbachelor").
+"udeblivelse" er en administrativ status for en studerende, der ikke møder op til en planlagt prøve eller undervisning uden gyldig afbudsgrund.
+"uden censur" er en bedømmelsesform, hvor præstationen alene vurderes af interne bedømmere uden medvirken af en ekstern beskikket censor.
+"Udenlandsk adresse" er en geografisk identifikation af en lokalitet beliggende uden for Danmarks grænser.
+"udenlandsk selvbetaler" er en personkategorisering for en studerende fra et land uden for EU/EØS, der er forpligtet til selv at dække den fulde studieafgift.
+"udenlandsk selvfinansieret" (Synonym for udenlandsk selvbetaler).
+"udlandsstudieophold" er en tidsmæssigt afgrænset periode, hvor en studerende gennemfører meritgivende uddannelseselementer ved en udenlandsk uddannelsesinstitution.
+"udlandsstudieopholdsevaluering" er en studerendes systematiske tilbagemelding om det faglige og sociale udbytte af et ophold i udlandet.
+"udlandsstudieopholdsted" er den specifikke geografiske og organisatoriske lokation for et ophold i udlandet.
+"udlandsstudieopholdstype" er en administrativ kategorisering af mobilitetsopholdets ramme, f.eks. hhv. "Erasmus", "Nordplus" eller "bilateral aftale".
+"udmeldelse" er den administrative proces, der formelt afslutter en studerendes indskrivning på en uddannelse før tid eller ved afbrydelse.
+"udmeldelsestype" er en kategorisering af årsagen til ophør af indskrivning, såsom hhv. "eget ønske", "manglende studieaktivitet" eller "disciplinær bortvisning".
+"udmeldelsesårsag" er den konkrete hændelse eller omstændighed, der fører til udmeldelse.
+"udrejsende udvekslingsstuderende" er en personkategorisering for en af institutionens egne studerende, der gennemfører en del af sin uddannelse ved en partnerinstitution i udlandet.
+"udsendelse ved forsvaret" er en gyldig fraværsårsag, der berettiger til orlov eller dispensation som følge af tjeneste i forsvaret.
+"udskudt studiestartsdato" er en administrativ godkendelse af, at en ansøger påbegynder sin uddannelse på en senere termin end den oprindeligt tilbudte.
+"udvekslingsaftale" er en formel juridisk rammeaftale mellem to uddannelsesinstitutioner, der regulerer vilkårene for gensidig mobilitet af studerende og/eller medarbejdere.
+"udvekslingsaftaletype" er en administrative kategorisering, der definerer arten af en mobilitetsaftale, såsom hhv. "bilateral aftale", "fakultetsaftale" eller "netværksaftale".
+"udvekslingsnomineret" er en processtatus for en studerende, der er formelt udvalgt af sin hjeminstitution til at søge om optagelse på et studieophold ved en partnerinstitution.
+"udvekslingsophold" er en tidsmæssigt afgrænset periode, hvor en studerende gennemfører dele af sin uddannelse ved en partnerinstitution med henblik på efterfølgende meritoverførsel.
+"udvekslingsplads" er en kvantitativ enhed i en udvekslingsaftale, der giver ret til, at én person kan gennemføre et mobilitetsophold i en given termin.
+"udvekslingsplads for indrejse" er en ledig administrative enhed i en aftale reserveret til en studerende fra en partnerinstitution.
+"udvekslingsplads for udrejse" er en ledig administrative enhed i en aftale reserveret til en af institutionens egne studerende.
+"udvekslingsprogram" er en overordnet administrativ ramme eller pulje (f.eks. Erasmus+), der yder finansiel støtte og fastlægger regler for international udveksling.
+"udvekslingsstuderende" er en personkategorisering for en studerende, der midlertidigt følger fagelementer ved en partnerinstitution under rammerne af en formel aftale.
+"udvælgelseskriterier" er en mængde objektive parametre, der anvendes til at rangere ansøgere ved adgangsbegrænsning til uddannelser eller udvekslingspladser.
+"UI, rekvirent" er en specifik rekvirentkode, der identificerer ordregivere tilknyttet hhv. "Udenrigsministeriet" eller dertilhørende internationale bistandsprogrammer.
+"under behandling" er en processtatus for en ansøgning eller sagsmappe, der indikerer, at sagsbehandlingen er påbegyndt, men ikke endeligt afgjort.
+"underskrift på bevis" er den fysiske eller digitale attestation fra en bemyndiget person, der bekræfter eksamensbevisets autencitet og retsgyldighed.
+"underskriver af bevis" er den organisatoriske person, der har den formelle administrative bemyndigelse til at attestere rigtigheden af et udstedt bevis.
+"underviser" er en personrolle for et individ, der har det faglige ansvar for at formidle læringsindhold og vejlede studerende i et specifikt fagelement.
+"undervisning" er den samlede pædagogiske indsats og aktivitet, der har til formål at understøtte studerendes opnåelse af fastsatte læringsmål.
+"undervisning og eksamenssprog" er den officielle administrative angivelse af det sprog, som anvendes som hovedmedium for hhv. læringsaktiviteter og bedømmelse.
+"undervisningsdeltagelse" er en administrative registrering eller et krav om studerendes faktiske tilstedeværelse eller aktive bidrag i undervisningsforløbet.
+"undervisningsform" er en kategorisering af den pædagogiske metode anvendt i et udbud, såsom hhv. "forelæsning", "seminar" eller "laboratorieøvelser".
+"undervisningsform navn" er den tekstlige betegnelse for en specifik metode for læringsformidling.
+"undervisningshold" (Se hold).
+"universitet" er en videregående uddannelsesinstitution på højeste akademiske niveau, der varetager forskning og uddannelse og tildeler hhv. bachelor-, kandidat- og ph.d.-grader.
+"valgfagsblok" er en strukturel enhed i en studieordning, der indeholder en pulje af fagelementer, hvorfra den studerende skal vælge et defineret antal ECTS-point.
+"valgfrihedsgrad" er en administrative angivelse af det omfang, hvori en studerende selv kan sammensætte sit uddannelsesforløb gennem valg af kurser eller specialiseringer.
+"valgfrit" er en administrative egenskab ved et fagelement, der angiver, at deltagelse ikke er en ufravigelig betingelse for færdiggørelse af den samlede uddannelse.
+"valgfrit fagelement" er et uddannelseselement, som den studerende selvstændigt vælger at inddrage i sit forløb inden for rammerne af studieordningen.
+"varighed af prøvebegivenhed" er en tidsmæssig mængde, der angiver den planlagte eller faktiske udstrækning af en eksamination fra start til slut (f.eks. hhv. "4 timer").
+"varighed for læringsaktivitet" er en tidsmæssig mængde, der definerer den planlagte længde af en undervisningslektion, såsom hhv. "en forelæsning" eller "et seminar".
+"varighed for prøvebegivenhed" (Se varighed af prøvebegivenhed).
+"varighed med adgangsgivende erhvervserfaring" er den administrative måling af ansøgerens tidligere relevante beskæftigelse anvendt som kriterium ved optagelse på hhv. diplom- eller masteruddannelser.
+"varsling" er en administrative proces eller status, der har til formål at informere en studerende om en kommende hændelse eller en risiko for udmeldelse grundet inaktivitet.
+"videnskabelig medarbejder" er en personrolle for et individ ansat til at varetage forsknings- og undervisningsopgaver, herunder hhv. "adjunkter", "lektorer" og "professorer".
+"videnskabeligthovedområde" (Se hovedområde).
+"videregående deltidsuddannelse" er en uddannelse for voksne med erhvervserfaring, der er normeret til under 60 ECTS pr. år (f.eks. hhv. "master" eller "diplom").
+"videregående heltidsuddannelse" er en ordinær uddannelse for studerende, der er normeret til 60 ECTS pr. år (f.eks. hhv. "bachelor" eller "kandidat").
+"videregående uddannelse" er en samlebetegnelse for formelle uddannelsesforløb placeret på hhv. niveau 5, 6, 7 eller 8 i den danske kvalifikationsramme.
+"videregående uddannelses- og enkeltfagsudbud" er den samlede administrative portefølje af undervisningstilbud, der stilles til rådighed for hhv. ordinære studerende og efteruddannelsessøgende.
+"videregående uddannelses- og enkeltfagsudbud in det ordinære uddannelsessystem" er den del af institutionens udbud, der er rettet mod hhv. heltidsstuderende under ordinære ordninger.
+"videregående uddannelses- og enkeltfagsudbud in efter- og videreuddannelsessystemet" er den del af institutionens udbud, der er tilrettelagt som hhv. deltidsundervisning eller moduler under åben uddannelse.
+"videregående uddannelses- og enkeltfagsudbudstype" er en administrative kategorisering af udbuddets ramme, såsom hhv. "ordinært udbud" eller "indtægtsdækket virksomhed".
+"videregående uddannelsesinstitution" (Se uddannelsesinstitution).
+"videreuddannelsesniveau" er uddannelsens placering i kvalifikationsrammen specifikt for forløb tilrettelagt som hhv. efter- og videreuddannelse for voksne.
+"virksomhedsandel" er den del af den samlede deltagerbetaling for en uddannelsesaktivitet, som dækkes direkte af den studerendes arbejdsgiver.
+"virksomhedsbetaling" er en finansieringsform, hvor en ekstern juridisk enhed hæfter for og betaler deltagergebyret for en eller flere studerende.
+"virtuel undervisning" er en undervisningsform afviklet via digitale platforme uden krav om hhv. fysisk fremmøde i institutionens lokaler.
+"virtuelprøve" er en eksamensform afviklet via digitale kommunikationsmidler, hvor den studerende og bedømmerne ikke opholder sig fysisk samme sted.
+"virtuelt ophold" er et mobilitetsforløb, hvor den studerende følger undervisning og prøver ved en udenlandsk partnerinstitution uden hhv. fysisk flytning.
+"workshops" er en interaktiv undervisningsform baseret på praktiske øvelser, gruppearbejde og hhv. erfaringsudveksling.
+"ækvivalerende faglighed" er en administrative vurdering af, at et eksternt fagelement indholdsmæssigt og niveaumæssigt svarer til et element i den hjemlige studieordning.
+"ændret forberedelsestid" er en bevilget dispensation, der giver en studerende ret til yderligere eller reduceret tid til forberedelse forud for en eksamination.
+"ændret prøvebegivenhedsform" er en bevilget dispensation, der tillader en anden afviklingsmetode for en prøve (f.eks. hhv. "online" i stedet for "fremmøde") grundet særlige behov.
+"ændret prøvetid" er en bevilget dispensation, der giver en studerende ret til hhv. forlænget tid til selve eksaminationen eller opgavebesvarelsen.
+"økonomisk ansvarlig" er den person eller juridiske enhed, der har den formelle forpligtelse til at betale for en uddannelsesaktivitet eller administrative gebyrer.
+"økonomisk balance for internationalisering" er en administrative opgørelse af forholdet mellem forbrugte og optjente udvekslingspladser i hhv. mobilitetsaftaler.
+"ønsket" er en systemmæssig tilstand, der angiver en studerendes eller ansøgers foreløbige præference for et udbud før hhv. endelig bekræftelse.
+"øvelser" er en undervisningsform fokuseret på praktisk anvendelse af teoretisk viden under hhv. vejledning eller instruktion.
+"øvrige" er en restkategori for administrative poster eller dataelementer, der ikke falder under de hhv. primære kategoriseringer.
+"åben uddannelsesstuderende" er en personkategorisering for en studerende, der er indskrevet på individuelle moduler eller enkeltfag under lov om hhv. åben uddannelse.
+"årsag til framelding" (Se frameldingsårsag).
+"årsag til manglende bedømmelse" er en systemkategorisering af grunden til, at et prøveresultat udebliver, såsom hhv. "udeblevet", "snyd" eller "administrative fejl".
+"årselev" er en statistisk måleenhed svarende til én studerendes fulde deltagelse i uddannelse over et helt studieår (60 ECTS).
+"årselevfinansieret" er en finansieringsmodel, hvor tilskuddet ydes på baggrund af det hhv. budgetterede eller realiserede antal årselever.

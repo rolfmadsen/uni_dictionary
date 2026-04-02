@@ -4,9 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "npm run build:data && vite",
+    "dev": "node -e \"if(require('fs').existsSync('begrebsliste.xlsx')) process.exit(0); else process.exit(1)\" && npm run build:data || vite",
     "build:data": "node scripts/build-data.js",
-    "build": "npm run build:data && tsc -b && vite build",
+    "build:enrich": "python3 scripts/enrich_links.py",
+    "build": "node -e \"if(require('fs').existsSync('begrebsliste.xlsx')) process.exit(0); else process.exit(1)\" && npm run build:data || python3 scripts/enrich_links.py && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "start": "vite preview",
