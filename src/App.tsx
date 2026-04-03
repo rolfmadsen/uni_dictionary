@@ -186,6 +186,13 @@ function App() {
             </p>
           </div>
           <div className="flex items-center gap-3 shrink-0">
+            <a 
+              href={`mailto:ordbog-for-uddannelsesbegreber@proton.me?subject=Generel feedback på ordbogen`}
+              className="px-2 py-0.5 rounded border border-amber-200 dark:border-amber-800 text-amber-700 dark:text-amber-400 bg-amber-50 dark:bg-amber-900/30 hover:bg-amber-100 dark:hover:bg-amber-900/50 transition-colors flex items-center gap-1 font-medium"
+            >
+              <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+              Giv feedback
+            </a>
             <a href="https://informationsmodeller.sdu.dk/sis/" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">
               Kilde: SIS Informationsmodel
             </a>

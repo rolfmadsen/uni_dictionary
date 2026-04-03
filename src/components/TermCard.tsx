@@ -166,9 +166,19 @@ export function TermCard({ entry, highlight, allTerms, onTermClick }: TermCardPr
                         <p className="text-gray-800 dark:text-gray-200 leading-relaxed text-sm">
                             <TermLinker text={entry['ai-definition']} allTerms={allTerms} highlight={highlight} onTermClick={onTermClick} />
                         </p>
-                        <p className="mt-3 text-[10px] text-indigo-500/80 dark:text-indigo-400/60 flex items-center gap-1 italic">
-                            Denne definition er genereret af en AI og er ikke verificeret af fagspecialister.
-                        </p>
+                        <div className="mt-3 flex items-center justify-between gap-2 border-t border-indigo-100 dark:border-indigo-800/50 pt-2 text-[10px]">
+                            <p className="text-indigo-500/80 dark:text-indigo-400/60 italic">
+                                Denne definition er genereret af en AI og er ikke verificeret af fagspecialister.
+                            </p>
+                            <a 
+                                href={`mailto:ordbog-for-uddannelsesbegreber@proton.me?subject=Feedback på AI-definition: ${entry.term}`}
+                                className="shrink-0 flex items-center gap-1.5 px-2 py-1 rounded bg-amber-50 dark:bg-amber-900/30 text-amber-700 dark:text-amber-400 border border-amber-200 dark:border-amber-800 hover:bg-amber-100 dark:hover:bg-amber-900/50 transition-colors font-medium shadow-sm"
+                                title="Send feedback på denne AI-definition"
+                            >
+                                <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+                                Feedback
+                            </a>
+                        </div>
 
                         <Modal
                             isOpen={isModalOpen}
