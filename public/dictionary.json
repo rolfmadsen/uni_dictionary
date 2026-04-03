@@ -10,8 +10,7 @@
     "explanation": "Termen stammer fra klassen BevisdataAdgangsgrundlag.  \ndokumenterer, at du har de nødvendige faglige kvalifikationer og studiekompetencer til at kunne gennemføre en [[videregående uddannelse]].",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA4.htm",
     "diagrams": [],
-    "ai-definition": "er en afsluttet [[uddannelse]], der formelt kvalificerer en [[person]] til at søge optagelse på et højere [[uddannelsesniveau]].",
-    "legislation": "Adgangsbekendtgørelsen, Eksamensbekendtgørelsen"
+    "ai-definition": "er en afsluttet [[uddannelse]], der formelt kvalificerer en [[person]] til at søge optagelse på et højere [[uddannelsesniveau]]."
   },
   {
     "id": "767",
@@ -23,7 +22,6 @@
     "explanation": "Termen stammer fra klassen AfvisningsårsagEnum.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA355.htm",
     "diagrams": [],
-    "ai-definition": "er en systemstatus, der angiver, at den krævede betaling for behandling af en [[ansøgning]] endnu ikke er registreret i institutionens økonomisystem.",
     "legislation": "Universitetsloven"
   },
   {
@@ -807,7 +805,7 @@
   {
     "id": "251",
     "term": "aktivitetsindberetning for efter- og videreuddannelsessystemet",
-    "definition": "[[indberetning]] til [[Uddannelses- og Forskningsministeriet]] eller [[Børne- og Undervisningsministeriet]] for [[betalt]] aktivitet under lov om åben [[uddannelse]] i en [[opgørelsesperiode]]",
+    "definition": "[[indberetning]] til Uddannelses- og Forskningsministeriet eller [[Børne- og Undervisningsministeriet]] for [[betalt]] aktivitet under lov om åben [[uddannelse]] i en [[opgørelsesperiode]]",
     "definitionEn": "reporting to the Ministry of Higher Education and Science  or the Ministry of Children and Education on paid activity under the act on open education during a reporting period",
     "scope": "Begrebsmodel",
     "status": "8-Implementeret",
@@ -822,7 +820,7 @@
   {
     "id": "250",
     "term": "aktivitetsindberetning for ordinære uddannelser",
-    "definition": "[[indberetning]] til [[Uddannelses- og Forskningsministeriet]] om faktisk aktivitet på videregående heltidsuddannelser i en [[opgørelsesperiode]]",
+    "definition": "[[indberetning]] til Uddannelses- og Forskningsministeriet om faktisk aktivitet på videregående heltidsuddannelser i en [[opgørelsesperiode]]",
     "definitionEn": "reporting to the Ministry of Higher Education and Science on actual activity on higher education full-time programmes during a reporting period",
     "scope": "Begrebsmodel",
     "status": "8-Implementeret",
@@ -2139,7 +2137,7 @@
     "status": "8-Implementeret",
     "subject": "Ja",
     "termEn": "ministry appointed external examiner",
-    "explanation": "[[Uddannelses- og Forskningsministeriet]] har ansvaret for beskikkelse af censorer til universiteterne.",
+    "explanation": "Uddannelses- og Forskningsministeriet har ansvaret for beskikkelse af censorer til universiteterne.",
     "explanationEn": "The Ministry of Higher Education and Science is responsible for the appointment of external examiners for the universities.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA663.htm",
     "diagrams": [],
@@ -2173,7 +2171,6 @@
     "exampleEn": "The work hour norm for external examiners for a 4 hours written exam is 40 minutes.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA664.htm",
     "diagrams": [],
-    "ai-definition": "er en beregningsregel, der fastlægger det antal timer eller den ressource, som tildeles en [[censor]] til [[bedømmelse]] af en specifik [[prøvetype]].",
     "legislation": "Eksamensbekendtgørelsen"
   },
   {
@@ -2253,8 +2250,7 @@
     "status": "8-Implementeret",
     "subject": "Nej",
     "termEn": "Statistics Denmark",
-    "explanation": "fremmed begreb",
-    "ai-definition": "er en statslig myndighed, der har ansvaret for indsamling, bearbejdning og offentliggørelse af statistiske oplysninger om det danske samfund, herunder indberetninger fra uddannelsessektoren."
+    "explanation": "fremmed begreb"
   },
   {
     "id": "489",
@@ -2264,8 +2260,7 @@
     "termEn": "danish address",
     "explanation": "Termen stammer fra klassen DanskAdresse (specialisering) .  https://grunddatamodel.datafordeler.dk/EARoot/EA8/EA330.htm",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA138.htm",
-    "diagrams": [],
-    "ai-definition": "er en geografisk identifikation, der angiver en persons bopæl eller en enheds fysiske placering inden for Danmarks nationale grænser."
+    "diagrams": []
   },
   {
     "id": "1042",
@@ -2276,8 +2271,7 @@
     "termEn": "self-financed (Danish)",
     "explanation": "Termen stammer fra klassen FinansieringsformEnum.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA139.htm",
-    "diagrams": [],
-    "ai-definition": "er en personkategorisering for en [[studerende]], der selv afholder de fulde omkostninger til uddannelsen uden brug af statslige taxametertilskud eller stipendier."
+    "diagrams": []
   },
   {
     "id": "616",
@@ -2489,8 +2483,7 @@
     "termEn": "part-time organised",
     "explanation": "Termen stammer fra klassen StudieforløbstypeEnum.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA149.htm",
-    "diagrams": [],
-    "ai-definition": "er en organiseringsform for en [[uddannelse]], hvor undervisningen er planlagt med en reduceret studieintensitet for at muliggøre sideløbende erhvervsarbejde."
+    "diagrams": []
   },
   {
     "id": "1013",
@@ -2566,7 +2559,8 @@
     "termEn": "The Coordinated Admission",
     "explanation": "En national fordeling af studiepladser til erhvervsakademiuddannelser, professionsbacheloruddannelser og bacheloruddannelser, der understøtter at ansøgere kan søge om optagelse på flere uddannelser på tværs af uddannelsesinstitutioner. [[Ansøger]] kan prioritere uddannelser og får kun tildbudt optagelse på én [[uddannelse]].",
     "explanationEn": "A national distribution of study places for academy profession programmes, professional bachelor programmes and bachelor programmes supporting applicants in applying for admission to several study programmes across the education institutions. The applicant can prioritise the study programmes and will only be offered admittance to one study programme.",
-    "ai-definition": "er en centraliseret administrative proces, der styrer og synkroniserer ansøgninger og optagelse på tværs af flere uddannelser eller institutioner."
+    "ai-definition": "er en centraliseret administrative proces, der styrer og synkroniserer ansøgninger og optagelse på tværs af flere uddannelser eller institutioner.",
+    "legislation": "Adgangsbekendtgørelsen"
   },
   {
     "id": "28",
@@ -4891,8 +4885,7 @@
     "termEn": "free exam question",
     "explanation": "Termen stammer fra klassen EksamensspørgsmålstypeEnum.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA257.htm",
-    "diagrams": [],
-    "ai-definition": "er et prøveelement, hvor den [[studerende]] inden for fagelementets faglige rammer selv har frihed til at formulere problemstillingen eller vælge emnet for sin besvarelse."
+    "diagrams": []
   },
   {
     "id": "677",
@@ -6970,8 +6963,7 @@
     "termEn": "latin degree designation (masculine form)",
     "explanation": "Termen stammer fra klassen BevisdataVideregåendeUddannelse.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA341.htm",
-    "diagrams": [],
-    "ai-definition": "er en akademisk titel, der repræsenterer den officielle betegnelse for en [[grad]] affattet på latin i maskulin grammatisk form."
+    "diagrams": []
   },
   {
     "id": "843",
@@ -7735,7 +7727,8 @@
     "explanation": "Termen stammer fra klassen [[Person]].",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA384.htm",
     "diagrams": [],
-    "ai-definition": "er en administrative status, der markerer, at en persons identitets data er underlagt [[fortrolighed]] grundet registrering i Det Centrale Personregister (CPR)."
+    "ai-definition": "er en administrative status, der markerer, at en persons identitets data er underlagt [[fortrolighed]] grundet registrering i Det Centrale Personregister (CPR).",
+    "legislation": "Databeskyttelsesloven"
   },
   {
     "id": "780",
@@ -9002,7 +8995,6 @@
     "explanation": "Termen stammer fra klassen OrgPerson.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA450.htm",
     "diagrams": [],
-    "ai-definition": "er en personidentifikator i form af en e-mailadresse, som tilhører individet privat og ikke er udstedt eller administreret af uddannelsesinstitutionen.",
     "legislation": "Databeskyttelsesloven"
   },
   {
@@ -9014,7 +9006,6 @@
     "explanation": "Termen stammer fra klassen OrgPerson.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA451.htm",
     "diagrams": [],
-    "ai-definition": "er en personidentifikator, der repræsenterer individets private telefoniske kontaktflade til brug uden for institutionens faste systemer.",
     "legislation": "Databeskyttelsesloven"
   },
   {
@@ -9699,8 +9690,7 @@
     "explanation": "Bachelorstuderende er garanteret en [[studieplads]] på den [[kandidatuddannelse]], der ligger i naturlig forlængelse af deres [[bacheloruddannelse]]. Retskravet garanterer en [[studieplads]] på en [[kandidatuddannelse]] udfra fastsatte kriterier",
     "explanationEn": "Bachelor students are guaranteed a study place at the master's programme in a natural continuation of the bachelor programme. The legal claim guarantees a study place at the master's programme based on predetermined criteria.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA823.htm",
-    "diagrams": [],
-    "ai-definition": "er en lovfæstet ret, der sikrer en bachelorstuderende adgang til en specifik kandidatoverbygning ved samme institution i umiddelbar forlængelse af bacheloruddannelsens afslutning."
+    "diagrams": []
   },
   {
     "id": "242",
@@ -9952,8 +9942,7 @@
     "termEn": "end date of exchange stay",
     "explanation": "Termen stammer fra klassen Udvekslingsansøgning (specialisering).",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA489.htm",
-    "diagrams": [],
-    "ai-definition": "er en tidsangivelse, der markerer det formelle ophør af en studerendes mobilitetsperiode ved en [[partnerinstitution]]."
+    "diagrams": []
   },
   {
     "id": "1211",
@@ -11680,7 +11669,7 @@
   {
     "id": "249",
     "term": "timetalsindberetning",
-    "definition": "[[indberetning]] til [[Uddannelses- og Forskningsministeriet]] om planlagt [[undervisning]] pr. [[uddannelse]] på uddannelsesinstitutionen",
+    "definition": "[[indberetning]] til Uddannelses- og Forskningsministeriet om planlagt [[undervisning]] pr. [[uddannelse]] på uddannelsesinstitutionen",
     "definitionEn": "reporting to the Ministry of Higher Education and Science on planned teaching per study programme at the education institution",
     "scope": "Begrebsmodel",
     "status": "8-Implementeret",
@@ -12197,14 +12186,13 @@
   },
   {
     "id": "239",
-    "term": "Uddannelses- og Forskningsministeriet",
+    "term": "Uddannelses- og Forskningsmisteriet",
     "definition": "ministerium, der har ansvaret for videregående uddannelser, forskning, innovation og SU-området i Danmark",
     "definitionEn": "ministry with the responsibility for higher education programmes, research, innovation and state educational grant in Denmark",
     "scope": "Begrebsmodel",
     "status": "8-Implementeret",
     "subject": "Ja",
-    "termEn": "Ministry of Higher Education and Science",
-    "ai-definition": "er den statslige myndighed, der varetager den overordnede administration, lovgivning og finansiering af videregående uddannelser og forskning i Danmark."
+    "termEn": "Ministry of Higher Education and Science"
   },
   {
     "id": "718",
@@ -12594,8 +12582,7 @@
         "title": "1.2 Videregående uddannelsesstruktur",
         "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA941.htm"
       }
-    ],
-    "ai-definition": "er en administrativ kategorisering, der definerer rammen for et uddannelsesforløb, såsom hhv. \"bachelor-\", \"kandidat-\" eller \"professionsbacheloruddannelse\"."
+    ]
   },
   {
     "id": "1209",
@@ -13212,7 +13199,7 @@
     "termEn": "university",
     "example": "Copenhagen Business School (CBS);\nDanmarks tekniske universitet (DTU);\nIT-Universitetet i København (ITU);\nKøbenhavns universitet (KU);\nRoskilde universitet (RUC);\nSyddansk universitet (SDU);\nAalborg universitet (AAU).",
     "exampleEn": "Copenhagen Business School (CBS);\nTechnical University of Denmark (DTU);\nIT University of Copenhagen (ITU);\nUniversity of Copenhagen (KU);\nRoskilde University (RUC);\nUniversity of Southern Denmark (SDU);\nAalborg University (AAU).",
-    "explanation": "Universiteter har myndighed til at tildele akademiske grader. \n\nUniversitetsloven gælder for universiteter under [[Uddannelses- og Forskningsministeriet]]. Efter universitetsloven er universiteterne statsfinansierede selvejende institutioner inden for den offentlige forvaltning under tilsyn af [[Uddannelses- og Forskningsministeriet]]. Ministeren skal godkende det enkelte universitets vedtægt. \nBetegnelsen universitet  må kun anvendes af universiteter omfattet af denne lov og af institutioner, som i medfør af anden lov er tillagt ret hertil.",
+    "explanation": "Universiteter har myndighed til at tildele akademiske grader. \n\nUniversitetsloven gælder for universiteter under Uddannelses- og Forskningsministeriet. Efter universitetsloven er universiteterne statsfinansierede selvejende institutioner inden for den offentlige forvaltning under tilsyn af Uddannelses- og Forskningsministeriet. Ministeren skal godkende det enkelte universitets vedtægt. \nBetegnelsen universitet  må kun anvendes af universiteter omfattet af denne lov og af institutioner, som i medfør af anden lov er tillagt ret hertil.",
     "explanationEn": "Universities are authorised to award academic degrees.\nThe Danish act on universities applies to universities under the Ministry of Higher Education and Science. Pursuant to the act on universities, the universities are government-financed, self-governing institutions within public administration under the autority of the Ministry of Higher Education and Science. The minister must approve the statutes of each university. The term &#39;university&#39; must only be used by universities covered by this act and by institutions which, pursuant to other legislation, are entitled thereto.",
     "modelLink": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA909.htm",
     "diagrams": [
@@ -13537,8 +13524,7 @@
         "title": "1.7 Videregående uddannelses- og enkeltfagsudbud",
         "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA951.htm"
       }
-    ],
-    "ai-definition": "er en samling af undervisningstilbud, der er rettet mod [[heltidsstuderende]] og finansieret via det ordinære taxametersystem."
+    ]
   },
   {
     "id": "112",
@@ -13555,8 +13541,7 @@
         "title": "1.7 Videregående uddannelses- og enkeltfagsudbud",
         "url": "https://informationsmodeller.sdu.dk/dkuni/begrebsmodel/latest/EARoot/EA1/EA2/EA951.htm"
       }
-    ],
-    "ai-definition": "er en samling af undervisningstilbud, der er tilrettelagt som deltidsundervisning eller moduler under lov om åben [[uddannelse]] til voksne med [[erhvervserfaring]]."
+    ]
   },
   {
     "id": "347",

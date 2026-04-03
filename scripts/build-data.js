@@ -94,6 +94,51 @@ async function buildData() {
 
     console.log(`Writing ${cleanData.length} entries to ${OUTPUT_FILE}...`);
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(cleanData, null, 2));
+
+    // Extract Latest Date from column Q (Ændret)
+    let latestDate = null;
+    const dateRegex = /^(\d{2})\/(\d{2})\/(\d{4}) (\d{2}):(\d{2})$/;
+
+    sheet.eachRow((row, rowNumber) => {
+        if (rowNumber === 1) return;
+        const cell = row.getCell(17); // Column Q is 17
+        let val = cell.value;
+        let d = null;
+
+        if (val instanceof Date) {
+            d = val;
+        } else if (typeof val === 'string') {
+            const m = val.match(dateRegex);
+            if (m) {
+                // DD/MM/YYYY HH:MM -> YYYY-MM-DD THH:MM
+                d = new Date(`${m[3]}-${m[2]}-${m[1]}T${m[4]}:${m[5]}:00`);
+            }
+        }
+
+        if (d && !isNaN(d.getTime())) {
+            if (!latestDate || d > latestDate) {
+                latestDate = d;
+            }
+        } else if (val) {
+            console.warn(`[WARNING] Invalid date format in Row ${rowNumber}, Column Q: ${val}`);
+        }
+    });
+
+    const BUILD_INFO_FILE = join(ROOT_DIR, 'public', 'build-info.json');
+    if (latestDate) {
+        // Format as DD.MM.YYYY
+        const day = String(latestDate.getDate()).padStart(2, '0');
+        const month = String(latestDate.getMonth() + 1).padStart(2, '0');
+        const year = latestDate.getFullYear();
+        const formattedDate = `${day}.${month}.${year}`;
+        
+        console.log(`Latest modification date found: ${formattedDate}`);
+        fs.writeFileSync(BUILD_INFO_FILE, JSON.stringify({ lastUpdated: formattedDate }, null, 2));
+    } else {
+        console.warn(`\n[WARNING] Could not find any valid modification dates in Column Q (Ændret). Footer date will be hidden.\n`);
+        fs.writeFileSync(BUILD_INFO_FILE, JSON.stringify({ lastUpdated: null }, null, 2));
+    }
+
     console.log('Done.');
 }
 

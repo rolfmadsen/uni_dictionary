@@ -17,7 +17,7 @@ LEGISLATION_MAPPING = {
     ],
     'Adgangsbekendtgørelsen': [
         'ansøger', 'adgangsgrundlag', 'adgangskrav', 'adgangsgivende eksamen', 
-        'adgangsgivende uddannelse', 'kvote 1', 'kvote 2', 'den koordinerede tilmelding (KOT)', 
+        'adgangsgivende uddannelse', 'kvote 1', 'kvote 2', 'den koordinerede tilmelding', 
         'retskrav', 'retskrav til optagelse på kandidatuddannelse', 'betinget optaget', 
         'studieplads', 'pladsfordeling', 'genindskrivning', 'overflytning', 'studieskift'
     ],
@@ -45,11 +45,11 @@ LEGISLATION_MAPPING = {
         'heltid på deltid', 'årselev', 'årselevfinansieret', 'indtægtsdækket virksomhed'
     ],
     'SU-loven': [
-        'statens uddannelsesstøtte (SU)', 'SU-aktivitetskrav', 'forventede ECTS-point ift. SU', 
-        'fribeløb', 'udlandsstipendium', 'SU'
+        'statens uddannelsesstøtte', 'SU-aktivitetskrav', 'forventede ECTS-point ift. SU', 
+        'udlandsstipendium'
     ],
     'Databeskyttelsesloven': [
-        'personnummer', 'person uden CPR', 'navne- og adressebeskyttelse', 'fortrolighed', 
+        'personnummer', 'person uden CPR', 'navne og adressebeskyttelse', 'fortrolighed', 
         'identitetsvalidering', 'person', 'privat mail', 'privat telefonnummer'
     ]
 }
@@ -57,8 +57,9 @@ LEGISLATION_MAPPING = {
 # Manual corrections for terms that don't match exactly but are clearly these
 FUZZY_ALIASES = {
     'statens uddannelsesstøtte (SU)': 'statens uddannelsesstøtte',
-    'fribeløb': 'fribeløbsgrænse',
-    'navne- og adressebeskyttelse': 'adressebeskyttet',
+    'navne- og adressebeskyttelse': 'navne og adressebeskyttelse',
+    'den koordinerede tilmelding (KOT)': 'den koordinerede tilmelding',
+    'SU': 'statens uddannelsesstøtte'
 }
 
 def apply_legislation():

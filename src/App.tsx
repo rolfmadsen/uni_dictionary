@@ -5,7 +5,7 @@ import { TermCard } from './components/TermCard';
 import { formatStatus, getScopeLabel } from './utils';
 
 function App() {
-  const { loading, error, search, data } = useDictionary();
+  const { loading, error, search, data, lastUpdated } = useDictionary();
   const [query, setQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState<string>('Alle');
   const [scopeFilter, setScopeFilter] = useState<string>('Alle');
@@ -66,19 +66,10 @@ function App() {
             </div>
             <div>
               <h1 className="text-2xl font-bold leading-tight">Ordbog for Uddannelsesbegreber</h1>
-              <p className="text-sm text-gray-500 dark:text-gray-400">Danske Universiteter</p>
+              <p className="text-sm text-gray-500 dark:text-gray-400">Det Uofficielle Begrebskatalog for Uddannelsesdomænet på de Danske Universiteter</p>
             </div>
           </div>
 
-          <div className="mb-6 p-3 bg-blue-50/50 dark:bg-blue-900/10 border border-blue-100/50 dark:border-blue-800/30 rounded-lg text-xs leading-relaxed text-blue-800/80 dark:text-blue-300/80">
-            <div className="flex gap-2">
-              <Info className="w-4 h-4 mt-0.5 shrink-0 text-blue-500" />
-              <p>
-                Dette er en ordbog, som bygger på den <a href="https://informationsmodeller.sdu.dk/dkuni/" target="_blank" rel="noopener noreferrer" className="underline hover:text-blue-600 transition-colors">fælles informationsmodel for området videregående uddannelse i Danmark</a>. 
-                Informationsmodellen er udarbejdet med afsæt i den fælles begrebsmodel for området, der blev godkendt som del af Kopernikus-programmet i 2020.
-              </p>
-            </div>
-          </div>
 
           <div className="space-y-4">
             <div className="relative w-full">
@@ -161,7 +152,7 @@ function App() {
         </div>
       </header>
 
-      <main className="max-w-4xl mx-auto px-4 py-8">
+      <main className="max-w-4xl mx-auto px-4 py-8 pb-24">
         {results.length === 0 ? (
           <div className="text-center py-12 text-gray-400">
             <p className="text-lg">Ingen resultater fundet</p>
@@ -170,9 +161,9 @@ function App() {
         ) : (
           <div className="space-y-6">
             {results.map((entry) => (
-              <TermCard 
-                key={entry.id} 
-                entry={entry} 
+              <TermCard
+                key={entry.id}
+                entry={entry}
                 highlight={query}
                 allTerms={allTerms}
                 onTermClick={handleTermClick}
@@ -182,14 +173,23 @@ function App() {
         )}
       </main>
 
-      <footer className="border-t border-gray-200 dark:border-gray-700 mt-12 bg-white dark:bg-gray-800">
-        <div className="max-w-4xl mx-auto px-4 py-6 text-center text-sm text-gray-500">
-          <p>Baseret på SIS Informationsmodel v1.1.0 (August 2024)</p>
-          <p className="mt-1">
-            <a href="https://informationsmodeller.sdu.dk/sis/" className="text-blue-600 hover:underline">
-              Kilde: informationsmodeller.sdu.dk/sis/
+      <footer className="fixed bottom-0 left-0 right-0 border-t border-gray-200 dark:border-gray-700 bg-white/95 dark:bg-gray-800/95 backdrop-blur-sm z-20 py-2.5">
+        <div className="max-w-full mx-auto px-8 flex flex-col md:flex-row items-center justify-between gap-x-12 gap-y-1 text-[10px] leading-tight text-gray-500 dark:text-gray-400">
+          <div className="flex items-center gap-2">
+            <Info className="w-3 h-3 shrink-0 text-blue-500" />
+            <p className="flex flex-wrap gap-x-1 items-center">
+              <span className="font-semibold text-gray-700 dark:text-gray-300">DKUNI Begrebsmodel v1.1.0</span>
+              {lastUpdated && <span className="opacity-70">({lastUpdated})</span>}
+              <span className="hidden sm:inline mx-1">|</span>
+              <span>Baseret på Begrebsmodel v. 2020, der er godkendt som del af Kopernikus-programmet i 2020.</span>
+              <span className="text-gray-400 dark:text-gray-500 italic">Nye begreber tilføjes løbende fra Nyt SIS Programmet (status: Kladde).</span>
+            </p>
+          </div>
+          <div className="flex items-center gap-3 shrink-0">
+            <a href="https://informationsmodeller.sdu.dk/sis/" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">
+              Kilde: SIS Informationsmodel
             </a>
-          </p>
+          </div>
         </div>
       </footer>
     </div>

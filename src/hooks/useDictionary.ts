@@ -4,6 +4,7 @@ import type { DictionaryEntry } from '../types';
 
 export function useDictionary() {
     const [data, setData] = useState<DictionaryEntry[]>([]);
+    const [lastUpdated, setLastUpdated] = useState<string | null>(null);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<Error | null>(null);
 
@@ -13,18 +14,27 @@ export function useDictionary() {
             ? import.meta.env.BASE_URL
             : `${import.meta.env.BASE_URL}/`;
 
-        fetch(`${basePath}dictionary.json`)
-            .then(res => {
+        const dataUrl = `${basePath}dictionary.json`;
+        const infoUrl = `${basePath}build-info.json`;
+
+        Promise.all([
+            fetch(dataUrl).then(res => {
                 if (!res.ok) throw new Error('Failed to load dictionary');
                 return res.json();
+            }),
+            fetch(infoUrl).then(res => {
+                if (!res.ok) return { lastUpdated: null }; // Silent fail for metadata
+                return res.json();
             })
-            .then((jsonData: DictionaryEntry[]) => {
-                // Sort alphabetically by term
-                return jsonData.sort((a, b) => a.term.localeCompare(b.term, 'da'));
-            })
-            .then(setData)
-            .catch(setError)
-            .finally(() => setLoading(false));
+        ])
+        .then(([jsonData, infoData]: [DictionaryEntry[], { lastUpdated: string | null }]) => {
+            // Sort alphabetically by term
+            const sortedData = jsonData.sort((a, b) => a.term.localeCompare(b.term, 'da'));
+            setData(sortedData);
+            setLastUpdated(infoData.lastUpdated);
+        })
+        .catch(setError)
+        .finally(() => setLoading(false));
     }, []);
 
     const fuse = useMemo(() => {
@@ -48,5 +58,5 @@ export function useDictionary() {
         return fuse.search(query).map(result => result.item);
     };
 
-    return { data, loading, error, search };
+    return { data, lastUpdated, loading, error, search };
 }
