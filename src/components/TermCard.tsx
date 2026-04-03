@@ -1,5 +1,5 @@
 import type { DictionaryEntry } from '../types';
-import { useState } from 'react';
+import { useState, memo } from 'react';
 import { BookOpen, Globe, Tag, Sparkles, Info } from 'lucide-react';
 import { Modal } from './Modal';
 import { AI_METHODOLOGY } from '../constants/ai-methodology';
@@ -79,9 +79,10 @@ const LegislationDisplay = ({ text }: { text: string }) => {
     );
 };
 
-export function TermCard({ entry, highlight, allTerms, onTermClick }: TermCardProps) {
+export const TermCard = memo(function TermCard({ entry, highlight, allTerms, onTermClick }: TermCardProps) {
     const [showEnglish, setShowEnglish] = useState(false);
     const [isModalOpen, setIsModalOpen] = useState(false);
+    // ... logic remains same ...
     const statusLabel = formatStatus(entry.status);
     const scopeLabel = getScopeLabel(entry.scope, entry.subject);
     const modelSource = entry.scope?.includes('Begrebsmodel')
@@ -315,4 +316,4 @@ export function TermCard({ entry, highlight, allTerms, onTermClick }: TermCardPr
             </div>
         </div>
     );
-}
+});

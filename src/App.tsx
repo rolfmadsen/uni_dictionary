@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import { Search, Loader2, Book, Filter, BookOpen, Info } from 'lucide-react';
 import { useDictionary } from './hooks/useDictionary';
 import { TermCard } from './components/TermCard';
@@ -9,6 +9,8 @@ function App() {
   const [query, setQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState<string>('Alle');
   const [scopeFilter, setScopeFilter] = useState<string>('Alle');
+  const [visibleCount, setVisibleCount] = useState(20);
+  const observerTarget = useRef<HTMLDivElement>(null);
 
   const results = useMemo(() => {
     let filtered = search(query);
@@ -33,8 +35,35 @@ function App() {
     setQuery(term);
     setStatusFilter('Alle');
     setScopeFilter('Alle');
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    setVisibleCount(20);
+    // Use timeout to ensure React has updated the layout before scrolling
+    setTimeout(() => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }, 0);
   };
+
+  // Reset visible count when filters or search changes
+  useEffect(() => {
+    setVisibleCount(20);
+  }, [query, statusFilter, scopeFilter]);
+
+  // Infinite scroll observer
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          setVisibleCount((prev) => Math.min(prev + 20, results.length));
+        }
+      },
+      { threshold: 0.1, rootMargin: '100px' }
+    );
+
+    if (observerTarget.current) {
+      observer.observe(observerTarget.current);
+    }
+
+    return () => observer.disconnect();
+  }, [results.length]);
 
   const uniqueStatuses = ['Alle', 'Implementeret', 'Godkendt', 'Kladde', 'Afvist'];
   const uniqueScopes = ['Alle', 'Kernebegreb', 'Fremmed begreb'];
@@ -77,13 +106,25 @@ function App() {
                 <Search className="h-5 w-5 text-gray-400" />
               </div>
               <input
-                type="text"
-                className="block w-full pl-10 pr-3 py-3 border border-gray-300 dark:border-gray-600 rounded-lg leading-5 bg-white dark:bg-gray-700 placeholder-gray-500 focus:outline-none focus:placeholder-gray-400 focus:ring-1 focus:ring-blue-500 focus:border-blue-500 sm:text-sm transition-shadow shadow-sm"
+                type="search"
+                className="block w-full pl-10 pr-3 py-3 border border-gray-300 dark:border-gray-600 rounded-lg leading-5 bg-white dark:bg-gray-700 placeholder-gray-500 focus:outline-none focus:placeholder-gray-400 focus:ring-1 focus:ring-blue-500 focus:border-blue-500 sm:text-sm transition-shadow shadow-sm [&::-webkit-search-cancel-button]:appearance-none [&::-webkit-search-cancel-button]:w-0"
                 placeholder="Søg efter begreber, definitioner, synonymer..."
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 autoFocus
               />
+              {query && (
+                <button
+                  onClick={() => {
+                    setQuery('');
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                  }}
+                  className="absolute inset-y-0 right-0 pr-3 flex items-center text-gray-400 hover:text-gray-600 dark:hover:text-gray-200"
+                  aria-label="Ryd søgning"
+                >
+                  <svg className="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                </button>
+              )}
             </div>
 
 
@@ -96,6 +137,7 @@ function App() {
                       setQuery('');
                       setStatusFilter('Alle');
                       setScopeFilter('Alle');
+                      window.scrollTo({ top: 0, behavior: 'smooth' });
                     }}
                     className="text-blue-600 dark:text-blue-400 hover:underline hover:text-blue-800 dark:hover:text-blue-300 transition-colors"
                   >
@@ -160,7 +202,7 @@ function App() {
           </div>
         ) : (
           <div className="space-y-6">
-            {results.map((entry) => (
+            {results.slice(0, visibleCount).map((entry) => (
               <TermCard
                 key={entry.id}
                 entry={entry}
@@ -169,6 +211,23 @@ function App() {
                 onTermClick={handleTermClick}
               />
             ))}
+            
+            {/* Sentinel element for infinite scroll */}
+            {visibleCount < results.length && (
+              <div 
+                ref={observerTarget} 
+                className="py-12 flex justify-center text-gray-400"
+              >
+                <Loader2 className="w-6 h-6 animate-spin" />
+                <span className="ml-2">Henter flere begreber...</span>
+              </div>
+            )}
+            
+            {visibleCount >= results.length && results.length > 0 && (
+              <div className="text-center py-8 text-gray-400 text-sm italic">
+                Viser alle {results.length} begreber
+              </div>
+            )}
           </div>
         )}
       </main>

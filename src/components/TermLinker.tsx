@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { memo } from 'react';
 
 interface TermLinkerProps {
     text: string;
@@ -16,10 +16,10 @@ interface TermLinkerProps {
  * the [[...]] format, this component no longer needs to run a massive regex 
  * against 1000+ terms for every keystroke.
  */
-export function TermLinker({ text, highlight, onTermClick }: TermLinkerProps) {
+export const TermLinker = memo(function TermLinker({ text, highlight, onTermClick }: TermLinkerProps) {
     if (!text) return null;
 
-    // 1. Helper to render highlight within a text segment
+    // Helper to render highlight within a text segment
     const renderWithHighlight = (segmentText: string, searchHighlight?: string) => {
         if (!searchHighlight || !searchHighlight.trim()) return <React.Fragment>{segmentText}</React.Fragment>;
 
@@ -42,7 +42,6 @@ export function TermLinker({ text, highlight, onTermClick }: TermLinkerProps) {
         );
     };
 
-    // 2. Main rendering logic: Parse [[Term]] markers
     // Regex matches [[ and EVERYTHING until the first ]]
     const markerRegex = /\[\[(.*?)\]\]/g;
     const parts = text.split(markerRegex);
@@ -50,8 +49,6 @@ export function TermLinker({ text, highlight, onTermClick }: TermLinkerProps) {
     return (
         <>
             {parts.map((part, i) => {
-                // Since we use split() with a capture group in the regex, 
-                // every odd-indexed part (1, 3, 5...) is a captured [[Term Name]]
                 const isTerm = i % 2 === 1;
 
                 if (isTerm) {
@@ -66,9 +63,8 @@ export function TermLinker({ text, highlight, onTermClick }: TermLinkerProps) {
                     );
                 }
 
-                // Normal text (even indices)
                 return <React.Fragment key={i}>{renderWithHighlight(part, highlight)}</React.Fragment>;
             })}
         </>
     );
-}
+});
